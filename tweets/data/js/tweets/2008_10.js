@@ -1,538 +1,427 @@
 Grailbird.data.tweets_2008_10 = 
  [ {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
+  "geo" : { },
+  "id_str" : "985445005",
+  "text" : "\u53CB\u9054\u304C\u6765\u3066\u308B\u30CA\u30A6 http:\/\/f.hatena.ne.jp\/twitter\/20081102032340",
+  "id" : 985445005,
+  "created_at" : "2008-11-01 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
+  "geo" : { },
+  "id_str" : "985445743",
+  "text" : "\u305D\u3046\u305D\u3046\u3002\u5206\u914D\u5668\uFF08\u3068\u3044\u3046\u304B\u5206\u914D\u30B3\u30FC\u30C9\uFF1F\uFF09\u3092Amazon\u3067\u8CB7\u3063\u3066\u660E\u65E5\u3068\u3069\u304F\u306E\u3067\u3001\u5B9F\u6CC1\u30D7\u30EC\u30A4\u3084\u3063\u3066\u307F\u308B\u3088\u30FC\u3002",
+  "id" : 985445743,
+  "created_at" : "2008-11-01 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "985511765",
+  "text" : "\u300C\u3069\u3046\u305B\u3053\u306E\u4E16\u306E\u5168\u3066\u306F\u79D1\u5B66\u7684\u306B\u8A3C\u660E\u3067\u304D\u308B\u3068\u304B\u601D\u3063\u3066\u308B\u3093\u3067\u3057\u3087\uFF01\u300D\u3068\u304B\u3044\u308F\u308C\u305F\u306E\u3067\u3001\u300C\u305D\u3082\u305D\u3082\u79D1\u5B66\u7684\u3068\u975E\u79D1\u5B66\u7684\u306E\u9055\u3044\u306F\u4F55\u304B\uFF1F\u305D\u3053\u3092\u304D\u3061\u3093\u3068\u5B9A\u7FA9\u3057\u306A\u3044\u3068\u4F55\u3082\u8A00\u3048\u306A\u3044\u3002\u300D\u3068\u8A00\u3063\u3066\u304A\u3044\u305F\u3089\u76F8\u624B\u306F\u9ED9\u3063\u305F\u3002",
+  "id" : 985511765,
+  "created_at" : "2008-11-01 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "985660501",
+  "text" : "12-14\u6642\u306B\u5B85\u6025\u4FBF\u306E\u914D\u9054\u304C\u6765\u308B\u3001\u305D\u3057\u3066\u5348\u524D\u4E2D\u306B\u6BCD\u89AA\u304C\u4ED5\u4E8B\u306B\u884C\u304F\u524D\u306B\u96FB\u8A71\u3092\u3057\u306A\u3051\u308C\u3070\u306A\u3089\u306A\u3044\u3002\u3055\u3066\u3001\u79C1\u306F\u4ECA\u304B\u3089\u5BDD\u308B\u3079\u304D\u3060\u308D\u3046\u304B\uFF1F\u305D\u308C\u3068\u3082\uFF1F",
+  "id" : 985660501,
+  "created_at" : "2008-11-01 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "983664541",
-  "text" : "いままでずーっと牧場物語やってたけど、父親から卒業生名簿がほしいとかいうメールが来たので、久々にパソコンを開いた（電源はついてたしメールぐらいは読んでたけど。",
+  "text" : "\u3044\u307E\u307E\u3067\u305A\u30FC\u3063\u3068\u7267\u5834\u7269\u8A9E\u3084\u3063\u3066\u305F\u3051\u3069\u3001\u7236\u89AA\u304B\u3089\u5352\u696D\u751F\u540D\u7C3F\u304C\u307B\u3057\u3044\u3068\u304B\u3044\u3046\u30E1\u30FC\u30EB\u304C\u6765\u305F\u306E\u3067\u3001\u4E45\u3005\u306B\u30D1\u30BD\u30B3\u30F3\u3092\u958B\u3044\u305F\uFF08\u96FB\u6E90\u306F\u3064\u3044\u3066\u305F\u3057\u30E1\u30FC\u30EB\u3050\u3089\u3044\u306F\u8AAD\u3093\u3067\u305F\u3051\u3069\u3002",
   "id" : 983664541,
-  "created_at" : "Fri Oct 31 12:37:34 +0000 2008",
+  "created_at" : "2008-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "981946941",
-  "text" : "そういえば写真忘れてた。牧場物語わくアニです。 http://f.hatena.ne.jp/twitter/20081030191752",
-  "id" : 981946941,
-  "created_at" : "Thu Oct 30 10:17:51 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981899931",
-  "text" : "麻婆茄子！ http://f.hatena.ne.jp/twitter/20081030181052",
-  "id" : 981899931,
-  "created_at" : "Thu Oct 30 09:10:53 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981852869",
-  "text" : "先にご飯を食べることにした。",
-  "id" : 981852869,
-  "created_at" : "Thu Oct 30 08:00:19 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981843586",
-  "text" : "ただいま。さてご飯用意しよー。",
-  "id" : 981843586,
-  "created_at" : "Thu Oct 30 07:45:16 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981820345",
-  "text" : "思ったより早く帰れたので、予定を変更してカナートへ行く。",
-  "id" : 981820345,
-  "created_at" : "Thu Oct 30 07:08:20 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981818455",
-  "text" : "京阪の新型車3000系だーｗ。やっぱりキレイだな。個人的にこの紺系の色が好き。",
-  "id" : 981818455,
-  "created_at" : "Thu Oct 30 07:05:27 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981814978",
-  "text" : "コンポジットかS端子の分配機とかになると、大須ぐらいのとこいかないと置いてないんだろうな。",
-  "id" : 981814978,
-  "created_at" : "Thu Oct 30 07:00:14 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981812227",
-  "text" : "四条にくるたびにココイチでカレー食べようと思いつつ食べないっていう。",
-  "id" : 981812227,
-  "created_at" : "Thu Oct 30 06:55:37 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981810304",
-  "text" : "ま、ぼくものは買えたのでよしとするか。雨降ってきたので早々に撤収するー。",
-  "id" : 981810304,
-  "created_at" : "Thu Oct 30 06:52:24 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981809773",
-  "text" : "さすがに分配機はなかったｗ。アマゾンかどっかで探すしかなさそうだなぁ・・・。",
-  "id" : 981809773,
-  "created_at" : "Thu Oct 30 06:51:29 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981766920",
-  "text" : "17時には帰れるかなー。帰ったらゲームやる前にご飯炊いて夕飯作っておいて、今日は朝までぼくもの三昧するんだ！",
-  "id" : 981766920,
-  "created_at" : "Thu Oct 30 05:48:35 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "981763842",
-  "text" : "今日のコース予定: 四条で牧場物語（と安いのがあれば分配機）を買って、帰り道にスーパで野菜、本屋で太陽の黙示録を買って帰宅。",
-  "id" : 981763842,
-  "created_at" : "Thu Oct 30 05:44:40 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "981750968",
-  "text" : "ただいま。今から買いに行くー。",
+  "text" : "\u305F\u3060\u3044\u307E\u3002\u4ECA\u304B\u3089\u8CB7\u3044\u306B\u884C\u304F\u30FC\u3002",
   "id" : 981750968,
-  "created_at" : "Thu Oct 30 05:27:23 +0000 2008",
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980844251",
-  "text" : "ん、とりあえず寝よう。",
-  "id" : 980844251,
-  "created_at" : "Wed Oct 29 17:26:52 +0000 2008",
+  "geo" : { },
+  "id_str" : "981763842",
+  "text" : "\u4ECA\u65E5\u306E\u30B3\u30FC\u30B9\u4E88\u5B9A: \u56DB\u6761\u3067\u7267\u5834\u7269\u8A9E\uFF08\u3068\u5B89\u3044\u306E\u304C\u3042\u308C\u3070\u5206\u914D\u6A5F\uFF09\u3092\u8CB7\u3063\u3066\u3001\u5E30\u308A\u9053\u306B\u30B9\u30FC\u30D1\u3067\u91CE\u83DC\u3001\u672C\u5C4B\u3067\u592A\u967D\u306E\u9ED9\u793A\u9332\u3092\u8CB7\u3063\u3066\u5E30\u5B85\u3002",
+  "id" : 981763842,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980842227",
-  "text" : "というかあれか、「どれが自分のイメージに合う？」って質問のほうが面白いのかな。",
-  "id" : 980842227,
-  "created_at" : "Wed Oct 29 17:25:23 +0000 2008",
+  "geo" : { },
+  "id_str" : "981766920",
+  "text" : "17\u6642\u306B\u306F\u5E30\u308C\u308B\u304B\u306A\u30FC\u3002\u5E30\u3063\u305F\u3089\u30B2\u30FC\u30E0\u3084\u308B\u524D\u306B\u3054\u98EF\u708A\u3044\u3066\u5915\u98EF\u4F5C\u3063\u3066\u304A\u3044\u3066\u3001\u4ECA\u65E5\u306F\u671D\u307E\u3067\u307C\u304F\u3082\u306E\u4E09\u6627\u3059\u308B\u3093\u3060\uFF01",
+  "id" : 981766920,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980841131",
-  "text" : "遠足同好会のブログで写真が貼られてたので晒してみる。さて、どれが自分だか分かるかなｗ？ http://tinyurl.com/56dqet",
-  "id" : 980841131,
-  "created_at" : "Wed Oct 29 17:24:38 +0000 2008",
+  "geo" : { },
+  "id_str" : "981809773",
+  "text" : "\u3055\u3059\u304C\u306B\u5206\u914D\u6A5F\u306F\u306A\u304B\u3063\u305F\uFF57\u3002\u30A2\u30DE\u30BE\u30F3\u304B\u3069\u3063\u304B\u3067\u63A2\u3059\u3057\u304B\u306A\u3055\u305D\u3046\u3060\u306A\u3041\u30FB\u30FB\u30FB\u3002",
+  "id" : 981809773,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980806539",
-  "text" : "うん、もうこれ以上加筆する気力は出てこない。明日・明後日はぼくものやるし、もう今の形で加筆コンは提出かな（未完成なのに。",
-  "id" : 980806539,
-  "created_at" : "Wed Oct 29 17:02:01 +0000 2008",
+  "geo" : { },
+  "id_str" : "981810304",
+  "text" : "\u307E\u3001\u307C\u304F\u3082\u306E\u306F\u8CB7\u3048\u305F\u306E\u3067\u3088\u3057\u3068\u3059\u308B\u304B\u3002\u96E8\u964D\u3063\u3066\u304D\u305F\u306E\u3067\u65E9\u3005\u306B\u64A4\u53CE\u3059\u308B\u30FC\u3002",
+  "id" : 981810304,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980752577",
-  "text" : "カヒツスル　エネルギーガ　キレタ　ミタイダ",
-  "id" : 980752577,
-  "created_at" : "Wed Oct 29 16:26:40 +0000 2008",
+  "geo" : { },
+  "id_str" : "981812227",
+  "text" : "\u56DB\u6761\u306B\u304F\u308B\u305F\u3073\u306B\u30B3\u30B3\u30A4\u30C1\u3067\u30AB\u30EC\u30FC\u98DF\u3079\u3088\u3046\u3068\u601D\u3044\u3064\u3064\u98DF\u3079\u306A\u3044\u3063\u3066\u3044\u3046\u3002",
+  "id" : 981812227,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980671743",
-  "text" : "うあー・・・記事の加筆終わらない！どうしよう！！",
-  "id" : 980671743,
-  "created_at" : "Wed Oct 29 15:35:10 +0000 2008",
+  "geo" : { },
+  "id_str" : "981814978",
+  "text" : "\u30B3\u30F3\u30DD\u30B8\u30C3\u30C8\u304BS\u7AEF\u5B50\u306E\u5206\u914D\u6A5F\u3068\u304B\u306B\u306A\u308B\u3068\u3001\u5927\u9808\u3050\u3089\u3044\u306E\u3068\u3053\u3044\u304B\u306A\u3044\u3068\u7F6E\u3044\u3066\u306A\u3044\u3093\u3060\u308D\u3046\u306A\u3002",
+  "id" : 981814978,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980346629",
-  "text" : "加筆、今日中に終わるんかなぁ・・・。。",
-  "id" : 980346629,
-  "created_at" : "Wed Oct 29 11:17:23 +0000 2008",
+  "geo" : { },
+  "id_str" : "981818455",
+  "text" : "\u4EAC\u962A\u306E\u65B0\u578B\u8ECA3000\u7CFB\u3060\u30FC\uFF57\u3002\u3084\u3063\u3071\u308A\u30AD\u30EC\u30A4\u3060\u306A\u3002\u500B\u4EBA\u7684\u306B\u3053\u306E\u7D3A\u7CFB\u306E\u8272\u304C\u597D\u304D\u3002",
+  "id" : 981818455,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980333652",
-  "text" : "完了。",
-  "id" : 980333652,
-  "created_at" : "Wed Oct 29 11:02:00 +0000 2008",
+  "geo" : { },
+  "id_str" : "981820345",
+  "text" : "\u601D\u3063\u305F\u3088\u308A\u65E9\u304F\u5E30\u308C\u305F\u306E\u3067\u3001\u4E88\u5B9A\u3092\u5909\u66F4\u3057\u3066\u30AB\u30CA\u30FC\u30C8\u3078\u884C\u304F\u3002",
+  "id" : 981820345,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980332069",
-  "text" : "現在85%まで終わった。でも、こういう調査って、ある程度ウィキペディアに貢献してる人とかすごく否定的な人しかやらないよなぁ。。",
-  "id" : 980332069,
-  "created_at" : "Wed Oct 29 11:00:23 +0000 2008",
+  "geo" : { },
+  "id_str" : "981843586",
+  "text" : "\u305F\u3060\u3044\u307E\u3002\u3055\u3066\u3054\u98EF\u7528\u610F\u3057\u3088\u30FC\u3002",
+  "id" : 981843586,
+  "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "981852869",
+  "text" : "\u5148\u306B\u3054\u98EF\u3092\u98DF\u3079\u308B\u3053\u3068\u306B\u3057\u305F\u3002",
+  "id" : 981852869,
+  "created_at" : "2008-10-30 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "981899931",
+  "text" : "\u9EBB\u5A46\u8304\u5B50\uFF01 http:\/\/f.hatena.ne.jp\/twitter\/20081030181052",
+  "id" : 981899931,
+  "created_at" : "2008-10-30 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "981946941",
+  "text" : "\u305D\u3046\u3044\u3048\u3070\u5199\u771F\u5FD8\u308C\u3066\u305F\u3002\u7267\u5834\u7269\u8A9E\u308F\u304F\u30A2\u30CB\u3067\u3059\u3002 http:\/\/f.hatena.ne.jp\/twitter\/20081030191752",
+  "id" : 981946941,
+  "created_at" : "2008-10-30 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "980107496",
+  "text" : "\u7121\u6599\u306EFortran95 IDE\u3063\u3066\u306A\u3044\u306E\u304B\u306A\u3041\u3002\u3002\u30B3\u30F3\u30D1\u30A4\u30E9\u3060\u3051\u306A\u3089gfortran\u304C\u3042\u308B\u3093\u3060\u3051\u3069\u3002",
+  "id" : 980107496,
+  "created_at" : "2008-10-29 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kazuhiro",
+      "name" : "kzhr",
       "screen_name" : "kzhr",
       "indices" : [ 0, 5 ],
       "id_str" : "11484132",
@@ -543,329 +432,271 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "980091332",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "980322234",
   "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr の日記を見てWikipedia surveyをやってる。",
+  "text" : "@kzhr \u306E\u65E5\u8A18\u3092\u898B\u3066Wikipedia survey\u3092\u3084\u3063\u3066\u308B\u3002",
   "id" : 980322234,
   "in_reply_to_status_id" : 980091332,
-  "created_at" : "Wed Oct 29 10:48:07 +0000 2008",
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "in_reply_to_screen_name" : "kzhr",
   "in_reply_to_user_id_str" : "11484132",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "980107496",
-  "text" : "無料のFortran95 IDEってないのかなぁ。。コンパイラだけならgfortranがあるんだけど。",
-  "id" : 980107496,
-  "created_at" : "Wed Oct 29 05:29:17 +0000 2008",
+  "geo" : { },
+  "id_str" : "980332069",
+  "text" : "\u73FE\u572885%\u307E\u3067\u7D42\u308F\u3063\u305F\u3002\u3067\u3082\u3001\u3053\u3046\u3044\u3046\u8ABF\u67FB\u3063\u3066\u3001\u3042\u308B\u7A0B\u5EA6\u30A6\u30A3\u30AD\u30DA\u30C7\u30A3\u30A2\u306B\u8CA2\u732E\u3057\u3066\u308B\u4EBA\u3068\u304B\u3059\u3054\u304F\u5426\u5B9A\u7684\u306A\u4EBA\u3057\u304B\u3084\u3089\u306A\u3044\u3088\u306A\u3041\u3002\u3002",
+  "id" : 980332069,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "979321902",
-  "text" : "ぼちぼち何かしてたらもうこんな時間だった！寝よう！",
-  "id" : 979321902,
-  "created_at" : "Tue Oct 28 18:27:59 +0000 2008",
+  "geo" : { },
+  "id_str" : "980333652",
+  "text" : "\u5B8C\u4E86\u3002",
+  "id" : 980333652,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "979179017",
-  "text" : "鯖の生姜煮完食。やっぱりおいしかったねー。",
-  "id" : 979179017,
-  "created_at" : "Tue Oct 28 16:26:07 +0000 2008",
+  "geo" : { },
+  "id_str" : "980346629",
+  "text" : "\u52A0\u7B46\u3001\u4ECA\u65E5\u4E2D\u306B\u7D42\u308F\u308B\u3093\u304B\u306A\u3041\u30FB\u30FB\u30FB\u3002\u3002",
+  "id" : 980346629,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978820030",
-  "text" : "jawp：最近またMLがにぎやかだなぁ・・・。にぎやかだけれど、対処してあげようと思う人がいないのは寂しいことだ。",
-  "id" : 978820030,
-  "created_at" : "Tue Oct 28 11:54:25 +0000 2008",
+  "geo" : { },
+  "id_str" : "980671743",
+  "text" : "\u3046\u3042\u30FC\u30FB\u30FB\u30FB\u8A18\u4E8B\u306E\u52A0\u7B46\u7D42\u308F\u3089\u306A\u3044\uFF01\u3069\u3046\u3057\u3088\u3046\uFF01\uFF01",
+  "id" : 980671743,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978819231",
-  "text" : "Ctrl+Altを押す時って、左Ctrl+右Altで押すよね？",
-  "id" : 978819231,
-  "created_at" : "Tue Oct 28 11:53:38 +0000 2008",
+  "geo" : { },
+  "id_str" : "980752577",
+  "text" : "\u30AB\u30D2\u30C4\u30B9\u30EB\u3000\u30A8\u30CD\u30EB\u30AE\u30FC\u30AC\u3000\u30AD\u30EC\u30BF\u3000\u30DF\u30BF\u30A4\u30C0",
+  "id" : 980752577,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978816870",
-  "text" : "さて、早めにご飯食べてお風呂はいって、本格的に加筆やるか！",
-  "id" : 978816870,
-  "created_at" : "Tue Oct 28 11:51:02 +0000 2008",
+  "geo" : { },
+  "id_str" : "980806539",
+  "text" : "\u3046\u3093\u3001\u3082\u3046\u3053\u308C\u4EE5\u4E0A\u52A0\u7B46\u3059\u308B\u6C17\u529B\u306F\u51FA\u3066\u3053\u306A\u3044\u3002\u660E\u65E5\u30FB\u660E\u5F8C\u65E5\u306F\u307C\u304F\u3082\u306E\u3084\u308B\u3057\u3001\u3082\u3046\u4ECA\u306E\u5F62\u3067\u52A0\u7B46\u30B3\u30F3\u306F\u63D0\u51FA\u304B\u306A\uFF08\u672A\u5B8C\u6210\u306A\u306E\u306B\u3002",
+  "id" : 980806539,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978816813",
-  "text" : "とりあえず1節の加筆終わったー（まだプレビュー段階。",
-  "id" : 978816813,
-  "created_at" : "Tue Oct 28 11:50:57 +0000 2008",
+  "geo" : { },
+  "id_str" : "980841131",
+  "text" : "\u9060\u8DB3\u540C\u597D\u4F1A\u306E\u30D6\u30ED\u30B0\u3067\u5199\u771F\u304C\u8CBC\u3089\u308C\u3066\u305F\u306E\u3067\u6652\u3057\u3066\u307F\u308B\u3002\u3055\u3066\u3001\u3069\u308C\u304C\u81EA\u5206\u3060\u304B\u5206\u304B\u308B\u304B\u306A\uFF57\uFF1F http:\/\/tinyurl.com\/56dqet",
+  "id" : 980841131,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978788814",
-  "text" : "jawp：最近、テンプレート呼び出しなのに{{hogehoge}}じゃなくて[[hogehoge]]って書いてしまう。何故だ。。",
-  "id" : 978788814,
-  "created_at" : "Tue Oct 28 11:19:45 +0000 2008",
+  "geo" : { },
+  "id_str" : "980842227",
+  "text" : "\u3068\u3044\u3046\u304B\u3042\u308C\u304B\u3001\u300C\u3069\u308C\u304C\u81EA\u5206\u306E\u30A4\u30E1\u30FC\u30B8\u306B\u5408\u3046\uFF1F\u300D\u3063\u3066\u8CEA\u554F\u306E\u307B\u3046\u304C\u9762\u767D\u3044\u306E\u304B\u306A\u3002",
+  "id" : 980842227,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978773569",
-  "text" : "なんとなくmixiの紹介文増やしてみたｗ。[[開水路]]の加筆するはずだったんだけどなぁ・・・？",
-  "id" : 978773569,
-  "created_at" : "Tue Oct 28 11:01:19 +0000 2008",
+  "geo" : { },
+  "id_str" : "980844251",
+  "text" : "\u3093\u3001\u3068\u308A\u3042\u3048\u305A\u5BDD\u3088\u3046\u3002",
+  "id" : 980844251,
+  "created_at" : "2008-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978754044",
-  "text" : "そういえば、紹介文書いてくれてた人いたし、ついでなので紹介文書いとくか。",
-  "id" : 978754044,
-  "created_at" : "Tue Oct 28 10:36:16 +0000 2008",
+  "geo" : { },
+  "id_str" : "978438420",
+  "text" : "\u4ECA\u65E5\u306F18\u6642\u304B\u3089\u534A\u671F3\u56DE\u306E\u3046\u3061\u306E\u7B2C1\u56DE\u76EE\u306E\u82F1\u8A9E\u306E\u30C6\u30B9\u30C8\u304C\u3042\u308B\u306E\u3067\u3001\u3054\u98EF\u98DF\u3079\u3066\u3061\u3087\u3063\u3068\u5BDD\u3066\u982D\u3059\u3063\u304D\u308A\u3055\u305B\u308B\u3002",
+  "id" : 978438420,
+  "created_at" : "2008-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978738033",
-  "text" : "しかし、ようやく（眠くなくて）まとまった時間がとれたなぁ。。",
-  "id" : 978738033,
-  "created_at" : "Tue Oct 28 10:13:45 +0000 2008",
+  "geo" : { },
+  "id_str" : "978454584",
+  "text" : "\u3055\u3063\u304D\u3001\u571F\u66DC\u65E5\u306B\u3070\u30FC\u3061\u3083\u3093\u306B\u3082\u3089\u3063\u305F\u9BD6\u306E\u751F\u59DC\u716E\u3092\u304A\u663C\u306B\u98DF\u3079\u305F\u3093\u3060\u3051\u3069\u3001\u51B7\u8535\u5EAB\u304B\u3089\u51FA\u3057\u305F\u3089\u6C41\u304C\u30D7\u30EB\u30D7\u30EB\u30BC\u30EA\u30FC\u306B\u306A\u3063\u3066\u305F\uFF57\u3002",
+  "id" : 978454584,
+  "created_at" : "2008-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "978737859",
-  "text" : "さて、加筆やるよー！",
-  "id" : 978737859,
-  "created_at" : "Tue Oct 28 10:13:28 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "978730288",
-  "text" : "ただいま。テストはえらい簡単だったのでちょっとびっくりした。90はとれたと思う。",
-  "id" : 978730288,
-  "created_at" : "Tue Oct 28 10:02:40 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "かぁーにぃー",
+      "name" : "\u304B\u3041\u30FC\u306B\u3043\u30FC",
       "screen_name" : "kaanee",
       "indices" : [ 0, 7 ],
       "id_str" : "14487872",
@@ -876,605 +707,667 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "978448578",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "978454687",
   "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee gumonji？",
+  "text" : "@kaanee gumonji\uFF1F",
   "id" : 978454687,
   "in_reply_to_status_id" : 978448578,
-  "created_at" : "Tue Oct 28 03:42:11 +0000 2008",
+  "created_at" : "2008-10-28 00:00:00 +0000",
   "in_reply_to_screen_name" : "kaanee",
   "in_reply_to_user_id_str" : "14487872",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978454584",
-  "text" : "さっき、土曜日にばーちゃんにもらった鯖の生姜煮をお昼に食べたんだけど、冷蔵庫から出したら汁がプルプルゼリーになってたｗ。",
-  "id" : 978454584,
-  "created_at" : "Tue Oct 28 03:42:04 +0000 2008",
+  "geo" : { },
+  "id_str" : "978730288",
+  "text" : "\u305F\u3060\u3044\u307E\u3002\u30C6\u30B9\u30C8\u306F\u3048\u3089\u3044\u7C21\u5358\u3060\u3063\u305F\u306E\u3067\u3061\u3087\u3063\u3068\u3073\u3063\u304F\u308A\u3057\u305F\u300290\u306F\u3068\u308C\u305F\u3068\u601D\u3046\u3002",
+  "id" : 978730288,
+  "created_at" : "2008-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "978438420",
-  "text" : "今日は18時から半期3回のうちの第1回目の英語のテストがあるので、ご飯食べてちょっと寝て頭すっきりさせる。",
-  "id" : 978438420,
-  "created_at" : "Tue Oct 28 03:27:30 +0000 2008",
+  "geo" : { },
+  "id_str" : "978737859",
+  "text" : "\u3055\u3066\u3001\u52A0\u7B46\u3084\u308B\u3088\u30FC\uFF01",
+  "id" : 978737859,
+  "created_at" : "2008-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "977192209",
-  "text" : "しかしまぁ、ここで寝てしまうと夜中に起きるコースっぽいなー。別にいいんだけど。",
-  "id" : 977192209,
-  "created_at" : "Mon Oct 27 10:26:54 +0000 2008",
+  "geo" : { },
+  "id_str" : "978738033",
+  "text" : "\u3057\u304B\u3057\u3001\u3088\u3046\u3084\u304F\uFF08\u7720\u304F\u306A\u304F\u3066\uFF09\u307E\u3068\u307E\u3063\u305F\u6642\u9593\u304C\u3068\u308C\u305F\u306A\u3041\u3002\u3002",
+  "id" : 978738033,
+  "created_at" : "2008-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "977187805",
-  "text" : "かーえーってーきーたーけーどー・・・眠いから寝る！おやすみ！",
-  "id" : 977187805,
-  "created_at" : "Mon Oct 27 10:20:31 +0000 2008",
+  "geo" : { },
+  "id_str" : "978754044",
+  "text" : "\u305D\u3046\u3044\u3048\u3070\u3001\u7D39\u4ECB\u6587\u66F8\u3044\u3066\u304F\u308C\u3066\u305F\u4EBA\u3044\u305F\u3057\u3001\u3064\u3044\u3067\u306A\u306E\u3067\u7D39\u4ECB\u6587\u66F8\u3044\u3068\u304F\u304B\u3002",
+  "id" : 978754044,
+  "created_at" : "2008-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "977053713",
-  "text" : "ん？あれ？今、何気なくモバツイ開いたけど、復旧したのかー。",
-  "id" : 977053713,
-  "created_at" : "Mon Oct 27 06:44:57 +0000 2008",
+  "geo" : { },
+  "id_str" : "978773569",
+  "text" : "\u306A\u3093\u3068\u306A\u304Fmixi\u306E\u7D39\u4ECB\u6587\u5897\u3084\u3057\u3066\u307F\u305F\uFF57\u3002[[\u958B\u6C34\u8DEF]]\u306E\u52A0\u7B46\u3059\u308B\u306F\u305A\u3060\u3063\u305F\u3093\u3060\u3051\u3069\u306A\u3041\u30FB\u30FB\u30FB\uFF1F",
+  "id" : 978773569,
+  "created_at" : "2008-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
+  "geo" : { },
+  "id_str" : "978788814",
+  "text" : "jawp\uFF1A\u6700\u8FD1\u3001\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u547C\u3073\u51FA\u3057\u306A\u306E\u306B\u007B\u007Bhogehoge\u007D\u007D\u3058\u3083\u306A\u304F\u3066[[hogehoge]]\u3063\u3066\u66F8\u3044\u3066\u3057\u307E\u3046\u3002\u4F55\u6545\u3060\u3002\u3002",
+  "id" : 978788814,
+  "created_at" : "2008-10-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
+  "geo" : { },
+  "id_str" : "978816813",
+  "text" : "\u3068\u308A\u3042\u3048\u305A1\u7BC0\u306E\u52A0\u7B46\u7D42\u308F\u3063\u305F\u30FC\uFF08\u307E\u3060\u30D7\u30EC\u30D3\u30E5\u30FC\u6BB5\u968E\u3002",
+  "id" : 978816813,
+  "created_at" : "2008-10-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "978816870",
+  "text" : "\u3055\u3066\u3001\u65E9\u3081\u306B\u3054\u98EF\u98DF\u3079\u3066\u304A\u98A8\u5442\u306F\u3044\u3063\u3066\u3001\u672C\u683C\u7684\u306B\u52A0\u7B46\u3084\u308B\u304B\uFF01",
+  "id" : 978816870,
+  "created_at" : "2008-10-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "978819231",
+  "text" : "Ctrl+Alt\u3092\u62BC\u3059\u6642\u3063\u3066\u3001\u5DE6Ctrl+\u53F3Alt\u3067\u62BC\u3059\u3088\u306D\uFF1F",
+  "id" : 978819231,
+  "created_at" : "2008-10-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "978820030",
+  "text" : "jawp\uFF1A\u6700\u8FD1\u307E\u305FML\u304C\u306B\u304E\u3084\u304B\u3060\u306A\u3041\u30FB\u30FB\u30FB\u3002\u306B\u304E\u3084\u304B\u3060\u3051\u308C\u3069\u3001\u5BFE\u51E6\u3057\u3066\u3042\u3052\u3088\u3046\u3068\u601D\u3046\u4EBA\u304C\u3044\u306A\u3044\u306E\u306F\u5BC2\u3057\u3044\u3053\u3068\u3060\u3002",
+  "id" : 978820030,
+  "created_at" : "2008-10-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "979179017",
+  "text" : "\u9BD6\u306E\u751F\u59DC\u716E\u5B8C\u98DF\u3002\u3084\u3063\u3071\u308A\u304A\u3044\u3057\u304B\u3063\u305F\u306D\u30FC\u3002",
+  "id" : 979179017,
+  "created_at" : "2008-10-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "979321902",
+  "text" : "\u307C\u3061\u307C\u3061\u4F55\u304B\u3057\u3066\u305F\u3089\u3082\u3046\u3053\u3093\u306A\u6642\u9593\u3060\u3063\u305F\uFF01\u5BDD\u3088\u3046\uFF01",
+  "id" : 979321902,
+  "created_at" : "2008-10-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "977052313",
-  "text" : "今日の実験はミスしなかったから早く終わったー。けどまぁ、5限目あるから早くは帰れないんだけど。",
+  "text" : "\u4ECA\u65E5\u306E\u5B9F\u9A13\u306F\u30DF\u30B9\u3057\u306A\u304B\u3063\u305F\u304B\u3089\u65E9\u304F\u7D42\u308F\u3063\u305F\u30FC\u3002\u3051\u3069\u307E\u3041\u30015\u9650\u76EE\u3042\u308B\u304B\u3089\u65E9\u304F\u306F\u5E30\u308C\u306A\u3044\u3093\u3060\u3051\u3069\u3002",
   "id" : 977052313,
-  "created_at" : "Mon Oct 27 06:42:12 +0000 2008",
+  "created_at" : "2008-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "976663382",
-  "text" : "さて、今日は応力解析と物理学実験と人文地理学（都市）の日だ。一番楽しい日なので、がんばろー！そして帰ったら寝よー（ぇ。",
-  "id" : 976663382,
-  "created_at" : "Sun Oct 26 23:29:25 +0000 2008",
+  "geo" : { },
+  "id_str" : "977053713",
+  "text" : "\u3093\uFF1F\u3042\u308C\uFF1F\u4ECA\u3001\u4F55\u6C17\u306A\u304F\u30E2\u30D0\u30C4\u30A4\u958B\u3044\u305F\u3051\u3069\u3001\u5FA9\u65E7\u3057\u305F\u306E\u304B\u30FC\u3002",
+  "id" : 977053713,
+  "created_at" : "2008-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "976620021",
-  "text" : "メールが一杯だｗ。",
-  "id" : 976620021,
-  "created_at" : "Sun Oct 26 22:45:19 +0000 2008",
+  "geo" : { },
+  "id_str" : "977187805",
+  "text" : "\u304B\u30FC\u3048\u30FC\u3063\u3066\u30FC\u304D\u30FC\u305F\u30FC\u3051\u30FC\u3069\u30FC\u30FB\u30FB\u30FB\u7720\u3044\u304B\u3089\u5BDD\u308B\uFF01\u304A\u3084\u3059\u307F\uFF01",
+  "id" : 977187805,
+  "created_at" : "2008-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "976618729",
-  "text" : "ただいま帰りました。",
-  "id" : 976618729,
-  "created_at" : "Sun Oct 26 22:43:55 +0000 2008",
+  "geo" : { },
+  "id_str" : "977192209",
+  "text" : "\u3057\u304B\u3057\u307E\u3041\u3001\u3053\u3053\u3067\u5BDD\u3066\u3057\u307E\u3046\u3068\u591C\u4E2D\u306B\u8D77\u304D\u308B\u30B3\u30FC\u30B9\u3063\u307D\u3044\u306A\u30FC\u3002\u5225\u306B\u3044\u3044\u3093\u3060\u3051\u3069\u3002",
+  "id" : 977192209,
+  "created_at" : "2008-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "976603301",
-  "text" : "さすがにもう寒いなー・・・。",
-  "id" : 976603301,
-  "created_at" : "Sun Oct 26 22:27:33 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "976551976",
-  "text" : "今日は何故か比較的空いてたので、久しぶりに車内改札を受けた。",
-  "id" : 976551976,
-  "created_at" : "Sun Oct 26 21:35:28 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "976546367",
-  "text" : "更に、TOICA＆ICOCAを使ってる人はよく見かけるけど、EX-ICを使ってる人は自分以外でいまだかつて見たことない。なんでだろう？",
-  "id" : 976546367,
-  "created_at" : "Sun Oct 26 21:29:57 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "976544371",
-  "text" : "それと、周囲が切符でジャムってる時に、一人ICカードで華麗にスルーするのってなかなか優越感あるよね、って話。",
-  "id" : 976544371,
-  "created_at" : "Sun Oct 26 21:27:45 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "976541990",
-  "text" : "えっと、何を書いたかっていうと、始発で京都に帰る＆地元の駅を2分前着で出発したってこと。",
-  "id" : 976541990,
-  "created_at" : "Sun Oct 26 21:25:08 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "976538641",
-  "text" : "お、書き込めた。下の文字化けのは後で消しておくー。",
-  "id" : 976538641,
-  "created_at" : "Sun Oct 26 21:21:36 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "976537724",
-  "text" : "うん、全然大丈夫じゃなかったねｗ。",
-  "id" : 976537724,
-  "created_at" : "Sun Oct 26 21:20:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "976103934",
-  "text" : "今日の夜に帰ろうと思ったのに、駅まで行ってサイフ・カードその他入ったカバンを家に忘れてきてしまってたので、もう明日の朝帰る事にした。",
+  "text" : "\u4ECA\u65E5\u306E\u591C\u306B\u5E30\u308D\u3046\u3068\u601D\u3063\u305F\u306E\u306B\u3001\u99C5\u307E\u3067\u884C\u3063\u3066\u30B5\u30A4\u30D5\u30FB\u30AB\u30FC\u30C9\u305D\u306E\u4ED6\u5165\u3063\u305F\u30AB\u30D0\u30F3\u3092\u5BB6\u306B\u5FD8\u308C\u3066\u304D\u3066\u3057\u307E\u3063\u3066\u305F\u306E\u3067\u3001\u3082\u3046\u660E\u65E5\u306E\u671D\u5E30\u308B\u4E8B\u306B\u3057\u305F\u3002",
   "id" : 976103934,
-  "created_at" : "Sun Oct 26 13:45:54 +0000 2008",
+  "created_at" : "2008-10-26 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
+  "geo" : { },
+  "id_str" : "976537724",
+  "text" : "\u3046\u3093\u3001\u5168\u7136\u5927\u4E08\u592B\u3058\u3083\u306A\u304B\u3063\u305F\u306D\uFF57\u3002",
+  "id" : 976537724,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
+  "geo" : { },
+  "id_str" : "976538641",
+  "text" : "\u304A\u3001\u66F8\u304D\u8FBC\u3081\u305F\u3002\u4E0B\u306E\u6587\u5B57\u5316\u3051\u306E\u306F\u5F8C\u3067\u6D88\u3057\u3066\u304A\u304F\u30FC\u3002",
+  "id" : 976538641,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "976541990",
+  "text" : "\u3048\u3063\u3068\u3001\u4F55\u3092\u66F8\u3044\u305F\u304B\u3063\u3066\u3044\u3046\u3068\u3001\u59CB\u767A\u3067\u4EAC\u90FD\u306B\u5E30\u308B\uFF06\u5730\u5143\u306E\u99C5\u30922\u5206\u524D\u7740\u3067\u51FA\u767A\u3057\u305F\u3063\u3066\u3053\u3068\u3002",
+  "id" : 976541990,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "976544371",
+  "text" : "\u305D\u308C\u3068\u3001\u5468\u56F2\u304C\u5207\u7B26\u3067\u30B8\u30E3\u30E0\u3063\u3066\u308B\u6642\u306B\u3001\u4E00\u4EBAIC\u30AB\u30FC\u30C9\u3067\u83EF\u9E97\u306B\u30B9\u30EB\u30FC\u3059\u308B\u306E\u3063\u3066\u306A\u304B\u306A\u304B\u512A\u8D8A\u611F\u3042\u308B\u3088\u306D\u3001\u3063\u3066\u8A71\u3002",
+  "id" : 976544371,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "976546367",
+  "text" : "\u66F4\u306B\u3001TOICA\uFF06ICOCA\u3092\u4F7F\u3063\u3066\u308B\u4EBA\u306F\u3088\u304F\u898B\u304B\u3051\u308B\u3051\u3069\u3001EX-IC\u3092\u4F7F\u3063\u3066\u308B\u4EBA\u306F\u81EA\u5206\u4EE5\u5916\u3067\u3044\u307E\u3060\u304B\u3064\u3066\u898B\u305F\u3053\u3068\u306A\u3044\u3002\u306A\u3093\u3067\u3060\u308D\u3046\uFF1F",
+  "id" : 976546367,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "976551976",
+  "text" : "\u4ECA\u65E5\u306F\u4F55\u6545\u304B\u6BD4\u8F03\u7684\u7A7A\u3044\u3066\u305F\u306E\u3067\u3001\u4E45\u3057\u3076\u308A\u306B\u8ECA\u5185\u6539\u672D\u3092\u53D7\u3051\u305F\u3002",
+  "id" : 976551976,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "976603301",
+  "text" : "\u3055\u3059\u304C\u306B\u3082\u3046\u5BD2\u3044\u306A\u30FC\u30FB\u30FB\u30FB\u3002",
+  "id" : 976603301,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "976618729",
+  "text" : "\u305F\u3060\u3044\u307E\u5E30\u308A\u307E\u3057\u305F\u3002",
+  "id" : 976618729,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "976620021",
+  "text" : "\u30E1\u30FC\u30EB\u304C\u4E00\u676F\u3060\uFF57\u3002",
+  "id" : 976620021,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "976663382",
+  "text" : "\u3055\u3066\u3001\u4ECA\u65E5\u306F\u5FDC\u529B\u89E3\u6790\u3068\u7269\u7406\u5B66\u5B9F\u9A13\u3068\u4EBA\u6587\u5730\u7406\u5B66\uFF08\u90FD\u5E02\uFF09\u306E\u65E5\u3060\u3002\u4E00\u756A\u697D\u3057\u3044\u65E5\u306A\u306E\u3067\u3001\u304C\u3093\u3070\u308D\u30FC\uFF01\u305D\u3057\u3066\u5E30\u3063\u305F\u3089\u5BDD\u3088\u30FC\uFF08\u3047\u3002",
+  "id" : 976663382,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "975058601",
-  "text" : "地元にいるとtwitter全然使わないなぁ・・・。",
+  "text" : "\u5730\u5143\u306B\u3044\u308B\u3068twitter\u5168\u7136\u4F7F\u308F\u306A\u3044\u306A\u3041\u30FB\u30FB\u30FB\u3002",
   "id" : 975058601,
-  "created_at" : "Sat Oct 25 15:29:06 +0000 2008",
+  "created_at" : "2008-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "973458739",
-  "text" : "暇すぎるー。",
-  "id" : 973458739,
-  "created_at" : "Fri Oct 24 11:48:47 +0000 2008",
+  "geo" : { },
+  "id_str" : "973084792",
+  "text" : "\u5348\u5F8C\u306E\u6388\u696D\u306E\u6559\u79D1\u66F8\u3092\u5FD8\u308C\u3066\u304D\u305F\u306E\u3067\u3044\u3063\u305F\u3093\u5E30\u3063\u3066\u304D\u305F\u3002",
+  "id" : 973084792,
+  "created_at" : "2008-10-24 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "973430324",
-  "text" : "なんか京都土産でも買ってくか。",
-  "id" : 973430324,
-  "created_at" : "Fri Oct 24 11:14:58 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "973429899",
-  "text" : "京阪をぼーっとしてて急行乗ってしまったおかげで、京都駅で45分近く待機。",
-  "id" : 973429899,
-  "created_at" : "Fri Oct 24 11:14:20 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "973405500",
-  "text" : "帰るのに何も忘れ物ないよなって思ったら、DAP忘れて音楽がない旅になったｗ。",
-  "id" : 973405500,
-  "created_at" : "Fri Oct 24 10:42:19 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "973397437",
-  "text" : "25-26日は地元に帰るためいません。御用の方は発信音の後にメールを送ってください。",
-  "id" : 973397437,
-  "created_at" : "Fri Oct 24 10:31:10 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "973384222",
-  "text" : "SkypeおよびWLMに入ってる人は誰一人twittererじゃないことに気づいた。",
-  "id" : 973384222,
-  "created_at" : "Fri Oct 24 10:11:56 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "973383193",
-  "text" : "ぼちぼち帰る準備ー",
-  "id" : 973383193,
-  "created_at" : "Fri Oct 24 10:10:23 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "かぁーにぃー",
+      "name" : "\u304B\u3041\u30FC\u306B\u3043\u30FC",
       "screen_name" : "kaanee",
       "indices" : [ 0, 7 ],
       "id_str" : "14487872",
@@ -1485,84 +1378,362 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "973041992",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "973085361",
   "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee 化学の教科書に「クロロ基は昔クロール基と呼ばれたこともあったが、今では前者で統一されている」と書いてあったことがありましたよ。",
+  "text" : "@kaanee \u5316\u5B66\u306E\u6559\u79D1\u66F8\u306B\u300C\u30AF\u30ED\u30ED\u57FA\u306F\u6614\u30AF\u30ED\u30FC\u30EB\u57FA\u3068\u547C\u3070\u308C\u305F\u3053\u3068\u3082\u3042\u3063\u305F\u304C\u3001\u4ECA\u3067\u306F\u524D\u8005\u3067\u7D71\u4E00\u3055\u308C\u3066\u3044\u308B\u300D\u3068\u66F8\u3044\u3066\u3042\u3063\u305F\u3053\u3068\u304C\u3042\u308A\u307E\u3057\u305F\u3088\u3002",
   "id" : 973085361,
   "in_reply_to_status_id" : 973041992,
-  "created_at" : "Fri Oct 24 03:29:41 +0000 2008",
+  "created_at" : "2008-10-24 00:00:00 +0000",
   "in_reply_to_screen_name" : "kaanee",
   "in_reply_to_user_id_str" : "14487872",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "973084792",
-  "text" : "午後の授業の教科書を忘れてきたのでいったん帰ってきた。",
-  "id" : 973084792,
-  "created_at" : "Fri Oct 24 03:29:05 +0000 2008",
+  "geo" : { },
+  "id_str" : "973383193",
+  "text" : "\u307C\u3061\u307C\u3061\u5E30\u308B\u6E96\u5099\u30FC",
+  "id" : 973383193,
+  "created_at" : "2008-10-24 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "973384222",
+  "text" : "Skype\u304A\u3088\u3073WLM\u306B\u5165\u3063\u3066\u308B\u4EBA\u306F\u8AB0\u4E00\u4EBAtwitterer\u3058\u3083\u306A\u3044\u3053\u3068\u306B\u6C17\u3065\u3044\u305F\u3002",
+  "id" : 973384222,
+  "created_at" : "2008-10-24 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "973397437",
+  "text" : "25-26\u65E5\u306F\u5730\u5143\u306B\u5E30\u308B\u305F\u3081\u3044\u307E\u305B\u3093\u3002\u5FA1\u7528\u306E\u65B9\u306F\u767A\u4FE1\u97F3\u306E\u5F8C\u306B\u30E1\u30FC\u30EB\u3092\u9001\u3063\u3066\u304F\u3060\u3055\u3044\u3002",
+  "id" : 973397437,
+  "created_at" : "2008-10-24 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "973405500",
+  "text" : "\u5E30\u308B\u306E\u306B\u4F55\u3082\u5FD8\u308C\u7269\u306A\u3044\u3088\u306A\u3063\u3066\u601D\u3063\u305F\u3089\u3001DAP\u5FD8\u308C\u3066\u97F3\u697D\u304C\u306A\u3044\u65C5\u306B\u306A\u3063\u305F\uFF57\u3002",
+  "id" : 973405500,
+  "created_at" : "2008-10-24 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "973429899",
+  "text" : "\u4EAC\u962A\u3092\u307C\u30FC\u3063\u3068\u3057\u3066\u3066\u6025\u884C\u4E57\u3063\u3066\u3057\u307E\u3063\u305F\u304A\u304B\u3052\u3067\u3001\u4EAC\u90FD\u99C5\u306745\u5206\u8FD1\u304F\u5F85\u6A5F\u3002",
+  "id" : 973429899,
+  "created_at" : "2008-10-24 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "973430324",
+  "text" : "\u306A\u3093\u304B\u4EAC\u90FD\u571F\u7523\u3067\u3082\u8CB7\u3063\u3066\u304F\u304B\u3002",
+  "id" : 973430324,
+  "created_at" : "2008-10-24 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "973458739",
+  "text" : "\u6687\u3059\u304E\u308B\u30FC\u3002",
+  "id" : 973458739,
+  "created_at" : "2008-10-24 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "971965694",
+  "text" : "\u307E\u3041\u3001\u30EB\u30FC\u30EB\u3067\u306F\u306A\u304F\u3068\u3082\u6697\u9ED9\u306E\u4E86\u89E3\u3068\u3057\u3066\u300C\u691C\u8A3C\u306F\u5BB9\u6613\u306A\u307B\u3046\u304C\u3044\u3044\u300D\u3068\u3044\u3046\u306E\u304C\u3042\u308B\u3068\u306F\u601D\u3046\u3051\u308C\u3069\u3002",
+  "id" : 971965694,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "971982949",
+  "text" : "\u5B9F\u9A13\u30EC\u30DD\u30FC\u30C8\u7D42\u308F\u3063\u305F\u30FC\uFF01\u3054\u98EF\u98DF\u3079\u3066\u5BDD\u308B\u3088\uFF01",
+  "id" : 971982949,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "972122440",
+  "text" : "\u3046\u30FC\u3093\u30FB\u30FB\u30FB\u6700\u8FD1\u306A\u305C\u304B\u65E9\u3081\u306B\u5BDD\u3066\u3082\u3061\u3087\u3063\u3068\u3057\u305F\u3089\u76EE\u304C\u899A\u3081\u308B\u3002\u3002",
+  "id" : 972122440,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kei-Kei",
-      "screen_name" : "Kei_Kei",
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
       "indices" : [ 0, 8 ],
-      "id_str" : "6529602",
-      "id" : 6529602
+      "id_str" : "277297225",
+      "id" : 277297225
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "972289531",
-  "geo" : {
-  },
-  "id_str" : "972293328",
-  "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei ちょっとうとうとしかかった程度です",
-  "id" : 972293328,
-  "in_reply_to_status_id" : 972289531,
-  "created_at" : "Thu Oct 23 16:53:56 +0000 2008",
-  "in_reply_to_screen_name" : "Kei_Kei",
-  "in_reply_to_user_id_str" : "6529602",
+  "geo" : { },
+  "id_str" : "972210077",
+  "text" : "@mel_mel \u795D3\u5468\u5E74\uFF01",
+  "id" : 972210077,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "972238136",
+  "text" : "\u30A6\u30A3\u30AD\u30DA\u30C7\u30A3\u30A2\u30F3\u3068\u3044\u3048\u3069\u3082\u3001\u3084\u306F\u308A\u305D\u308C\u305E\u308C\u306F\u305D\u308C\u305E\u308C\u306E\u751F\u6D3B\u304C\u3042\u3063\u3066\u305D\u308C\u305E\u308C\u306E\u4EBA\u751F\u3092\u6B69\u3093\u3067\u3044\u308B\u3093\u3060\u3068\u3001\u6539\u3081\u3066\u611F\u3058\u305F\u65E5\u3067\u3042\u3063\u305F\uFF08\u307E\u308B",
+  "id" : 972238136,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "972238441",
+  "text" : "\u3068\u3044\u3046\u3051\u3067\u3001\u30D9\u30C3\u30C9\u306B\u623B\u308A\u307E\u3059\u3002\u304A\u3084\u3059\u307F\u306A\u3055\u3044\u307E\u305B\u30FC\u3002",
+  "id" : 972238441,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "972259203",
+  "text" : "\u3068\u3001\u8AB0\u304B\u304C\u30B9\u30AB\u30A4\u30D7\u306B\u30A4\u30F3\u3057\u305F\u97F3\u304C\u3057\u3066\u3001\u305D\u308C\u304C\u5F85\u3061\u4EBA\u3060\u3063\u305F\u3088\u3046\u306A\u306E\u3067\u307E\u305F\u8D77\u304D\u3066\u304D\u305F\u3002",
+  "id" : 972259203,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "972283763",
+  "text" : "\u6B21\u3053\u305D\u3001\u3082\u3063\u3068\u524D\u304B\u3089\u304D\u3061\u3093\u3068\u8A08\u753B\u3057\u3066\u95A2\u4FC2\u8005\u306B\u9023\u7D61\u3057\u3066\u304A\u3053\u3046\u3068\u601D\u3063\u305F\u3002",
+  "id" : 972283763,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -1576,274 +1747,26 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "972284188",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "972286837",
   "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei ECをCEに空目した。",
+  "text" : "@Kei_Kei EC\u3092CE\u306B\u7A7A\u76EE\u3057\u305F\u3002",
   "id" : 972286837,
   "in_reply_to_status_id" : 972284188,
-  "created_at" : "Thu Oct 23 16:49:45 +0000 2008",
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "972283763",
-  "text" : "次こそ、もっと前からきちんと計画して関係者に連絡しておこうと思った。",
-  "id" : 972283763,
-  "created_at" : "Thu Oct 23 16:47:42 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "972259203",
-  "text" : "と、誰かがスカイプにインした音がして、それが待ち人だったようなのでまた起きてきた。",
-  "id" : 972259203,
-  "created_at" : "Thu Oct 23 16:31:06 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "972238441",
-  "text" : "というけで、ベッドに戻ります。おやすみなさいませー。",
-  "id" : 972238441,
-  "created_at" : "Thu Oct 23 16:17:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "972238136",
-  "text" : "ウィキペディアンといえども、やはりそれぞれはそれぞれの生活があってそれぞれの人生を歩んでいるんだと、改めて感じた日であった（まる",
-  "id" : 972238136,
-  "created_at" : "Thu Oct 23 16:17:12 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "972210077",
-  "text" : "@mel_mel 祝3周年！",
-  "id" : 972210077,
-  "created_at" : "Thu Oct 23 15:58:49 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "972122440",
-  "text" : "うーん・・・最近なぜか早めに寝てもちょっとしたら目が覚める。。",
-  "id" : 972122440,
-  "created_at" : "Thu Oct 23 15:01:06 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "971982949",
-  "text" : "実験レポート終わったー！ご飯食べて寝るよ！",
-  "id" : 971982949,
-  "created_at" : "Thu Oct 23 13:23:51 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "971965694",
-  "text" : "まぁ、ルールではなくとも暗黙の了解として「検証は容易なほうがいい」というのがあるとは思うけれど。",
-  "id" : 971965694,
-  "created_at" : "Thu Oct 23 13:09:57 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "971965090",
-  "text" : "jawp：検証可能性を満たすべきなのははっきりしていることだけれど、検証容易性を上げるべきというのはルールではない。",
-  "id" : 971965090,
-  "created_at" : "Thu Oct 23 13:09:28 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kazuhiro",
-      "screen_name" : "kzhr",
-      "indices" : [ 0, 5 ],
-      "id_str" : "11484132",
-      "id" : 11484132
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "971633617",
-  "geo" : {
-  },
-  "id_str" : "971858707",
-  "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr 何の議論をしてるにせよ、何日も何週間も放置するのでなければ「逃げた」と判断されないのでは？緊急案件は別ですが、それ以外なら「ちょっと1週間ぐらい忙しいのでコメントできませんがよろしくお願いします」って書けば済むだけだと思うんですよ。",
-  "id" : 971858707,
-  "in_reply_to_status_id" : 971633617,
-  "created_at" : "Thu Oct 23 11:24:33 +0000 2008",
-  "in_reply_to_screen_name" : "kzhr",
-  "in_reply_to_user_id_str" : "11484132",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -1856,28 +1779,27 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "971599330",
-  "geo" : {
-  },
-  "id_str" : "971606107",
+  "in_reply_to_status_id_str" : "972289531",
+  "geo" : { },
+  "id_str" : "972293328",
   "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei ボトルシップを作るんですね、期待してます。",
-  "id" : 971606107,
-  "in_reply_to_status_id" : 971599330,
-  "created_at" : "Thu Oct 23 05:17:45 +0000 2008",
+  "text" : "@Kei_Kei \u3061\u3087\u3063\u3068\u3046\u3068\u3046\u3068\u3057\u304B\u304B\u3063\u305F\u7A0B\u5EA6\u3067\u3059",
+  "id" : 972293328,
+  "in_reply_to_status_id" : 972289531,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "talented statisticia",
@@ -1890,104 +1812,66 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "971605001",
-  "text" : "@t___s twitter上では変換されてるのか同じように見えますけど、ソース見てみると多分違う風に見えると思いますよー。あるいは変換してみても違う風に見えるかもしれないです。",
-  "id" : 971605001,
-  "created_at" : "Thu Oct 23 05:16:17 +0000 2008",
+  "geo" : { },
+  "id_str" : "971509272",
+  "text" : "@t___s \u3042\u3042\u3042\u3001\u52D8\u9055\u3044\u3057\u307E\u3057\u305F\uFF57\u3002twit\u3067\u307F\u308B\u3068\uFF5E\u304C\u5316\u3051\u3066\uFF1F\u306B\u898B\u3048\u308B\u306E\u3067\u805E\u3044\u3066\u308B\u306E\u304B\u3068\u601D\u3063\u3066\u3057\u307E\u3044\u307E\u3057\u305F\u3002\u3002",
+  "id" : 971509272,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "talented statisticia",
-      "screen_name" : "T___S",
-      "indices" : [ 0, 6 ],
-      "id_str" : "163400308",
-      "id" : 163400308
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "971597251",
-  "text" : "@t___s ダメですねぇ・・・。ページ上のソースを見てもUnicode環境依存文字のままです。「〜」と「～」の違いですが、そちらで確認できますか？",
-  "id" : 971597251,
-  "created_at" : "Thu Oct 23 05:06:11 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "971594395",
-  "text" : "jawpで「取り急ぎ」コメントは不要だよなぁ・・・。別に逃げたりしないんだし、時間のあるときにゆっくりコメントすればいいじゃん。",
-  "id" : 971594395,
-  "created_at" : "Thu Oct 23 05:02:42 +0000 2008",
+  "geo" : { },
+  "id_str" : "971587479",
+  "text" : "\u7269\u7406\u5B66\u5B9F\u9A13\u306E\u30EC\u30DD\u30FC\u30C8\u3001\u3088\u304F\u898B\u305F\u3089\u306A\u305C\u304B\u7528\u7D19\u30B5\u30A4\u30BAB5\u6307\u5B9A\u3063\u3066\u3044\u3046\u30FB\u30FB\u30FB\u3002\u5B9F\u9A13\u30EC\u30DD\u30FC\u30C8\u306F\u5E38\u8B58\u7684\u306B\u8003\u3048\u3066A4\u3060\u308D\uFF01\u3068\u304B\u601D\u3046\u3093\u3060\u3051\u3069\u3002",
+  "id" : 971587479,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "talented statisticia",
-      "screen_name" : "T___S",
-      "indices" : [ 0, 6 ],
-      "id_str" : "163400308",
-      "id" : 163400308
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "971591044",
-  "text" : "@t___s んー・・・。多分クライアントの問題というよりキーボードからの入力とか漢字変換時の操作が原因な気がしますけど。。ためしにwebから「～」を書いてみてもらえれば分かるかも？",
-  "id" : 971591044,
-  "created_at" : "Thu Oct 23 04:58:51 +0000 2008",
+  "geo" : { },
+  "id_str" : "971588056",
+  "text" : "\u8AD6\u6587\u3092B5\u30B5\u30A4\u30BA\u3067\u63D0\u51FA\u3059\u308B\u5B66\u4F1A\u3068\u304B\u3042\u308B\u3093\u304B\u306A\u3041\u30FB\u30FB\u30FB\u3002\u3042\u308B\u306E\u306A\u3089\u304A\u76EE\u306B\u304B\u304B\u308A\u305F\u3044\uFF08\u7279\u306B\u81EA\u7136\u79D1\u5B66\u7CFB\u3067\u3002",
+  "id" : 971588056,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "KIZU Naoko",
@@ -2001,73 +1885,26 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "971555957",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "971589719",
   "in_reply_to_user_id" : 1717241,
-  "text" : "@britty うーん・・・。追放するのはなんか違う気がしますが、でも休んではもらいたい気がします。ちょっとやりすぎかな、と。",
+  "text" : "@britty \u3046\u30FC\u3093\u30FB\u30FB\u30FB\u3002\u8FFD\u653E\u3059\u308B\u306E\u306F\u306A\u3093\u304B\u9055\u3046\u6C17\u304C\u3057\u307E\u3059\u304C\u3001\u3067\u3082\u4F11\u3093\u3067\u306F\u3082\u3089\u3044\u305F\u3044\u6C17\u304C\u3057\u307E\u3059\u3002\u3061\u3087\u3063\u3068\u3084\u308A\u3059\u304E\u304B\u306A\u3001\u3068\u3002",
   "id" : 971589719,
   "in_reply_to_status_id" : 971555957,
-  "created_at" : "Thu Oct 23 04:57:00 +0000 2008",
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "britty",
   "in_reply_to_user_id_str" : "1717241",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "971588056",
-  "text" : "論文をB5サイズで提出する学会とかあるんかなぁ・・・。あるのならお目にかかりたい（特に自然科学系で。",
-  "id" : 971588056,
-  "created_at" : "Thu Oct 23 04:54:56 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "971587479",
-  "text" : "物理学実験のレポート、よく見たらなぜか用紙サイズB5指定っていう・・・。実験レポートは常識的に考えてA4だろ！とか思うんだけど。",
-  "id" : 971587479,
-  "created_at" : "Thu Oct 23 04:54:09 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "talented statisticia",
@@ -2080,115 +1917,44 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "971509272",
-  "text" : "@t___s あああ、勘違いしましたｗ。twitでみると～が化けて？に見えるので聞いてるのかと思ってしまいました。。",
-  "id" : 971509272,
-  "created_at" : "Thu Oct 23 03:30:29 +0000 2008",
+  "geo" : { },
+  "id_str" : "971591044",
+  "text" : "@t___s \u3093\u30FC\u30FB\u30FB\u30FB\u3002\u591A\u5206\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u306E\u554F\u984C\u3068\u3044\u3046\u3088\u308A\u30AD\u30FC\u30DC\u30FC\u30C9\u304B\u3089\u306E\u5165\u529B\u3068\u304B\u6F22\u5B57\u5909\u63DB\u6642\u306E\u64CD\u4F5C\u304C\u539F\u56E0\u306A\u6C17\u304C\u3057\u307E\u3059\u3051\u3069\u3002\u3002\u305F\u3081\u3057\u306Bweb\u304B\u3089\u300C\uFF5E\u300D\u3092\u66F8\u3044\u3066\u307F\u3066\u3082\u3089\u3048\u308C\u3070\u5206\u304B\u308B\u304B\u3082\uFF1F",
+  "id" : 971591044,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "970576579",
-  "text" : "「すいりがく」といって「水理学」を思い浮かべてくれる人はあまりいない。「水文学」を「みずぶんがく」と読む人はいるけれど。",
-  "id" : 970576579,
-  "created_at" : "Wed Oct 22 14:52:17 +0000 2008",
+  "geo" : { },
+  "id_str" : "971594395",
+  "text" : "jawp\u3067\u300C\u53D6\u308A\u6025\u304E\u300D\u30B3\u30E1\u30F3\u30C8\u306F\u4E0D\u8981\u3060\u3088\u306A\u3041\u30FB\u30FB\u30FB\u3002\u5225\u306B\u9003\u3052\u305F\u308A\u3057\u306A\u3044\u3093\u3060\u3057\u3001\u6642\u9593\u306E\u3042\u308B\u3068\u304D\u306B\u3086\u3063\u304F\u308A\u30B3\u30E1\u30F3\u30C8\u3059\u308C\u3070\u3044\u3044\u3058\u3083\u3093\u3002",
+  "id" : 971594395,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970574317",
-  "text" : "文書にしたら誰か代わりにやってくれるかな？",
-  "id" : 970574317,
-  "created_at" : "Wed Oct 22 14:50:42 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970573667",
-  "text" : "というか、理論も実装も頭の中にあるんだけれど、それを実装する気力と時間がない。面白そうではあるんだけれど、自分の研究進めたりほかの事に時間をとられるからなぁ。。",
-  "id" : 970573667,
-  "created_at" : "Wed Oct 22 14:50:20 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970571733",
-  "text" : "前から言ってた気がするけれども、SNSとの融合とかオンラインゲーム的要素とか3Dの技術とかでは足元にも及ばないけれどシミュレータ部分だけならgumonjiにも負けないものが作れると思う。",
-  "id" : 970571733,
-  "created_at" : "Wed Oct 22 14:49:08 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "talented statisticia",
@@ -2201,115 +1967,22 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "970566640",
-  "text" : "@t___s いえー、twitterクライアントはtwitしか使ったことないですよ。",
-  "id" : 970566640,
-  "created_at" : "Wed Oct 22 14:45:51 +0000 2008",
+  "geo" : { },
+  "id_str" : "971597251",
+  "text" : "@t___s \u30C0\u30E1\u3067\u3059\u306D\u3047\u30FB\u30FB\u30FB\u3002\u30DA\u30FC\u30B8\u4E0A\u306E\u30BD\u30FC\u30B9\u3092\u898B\u3066\u3082Unicode\u74B0\u5883\u4F9D\u5B58\u6587\u5B57\u306E\u307E\u307E\u3067\u3059\u3002\u300C\u301C\u300D\u3068\u300C\uFF5E\u300D\u306E\u9055\u3044\u3067\u3059\u304C\u3001\u305D\u3061\u3089\u3067\u78BA\u8A8D\u3067\u304D\u307E\u3059\u304B\uFF1F",
+  "id" : 971597251,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970564690",
-  "text" : "自然界が高々可算個（と言われている）いくつかの法則によってこれだけ面白い現象を呈するのだから、似たような面白さを作り出すシステムを作ることは不可能ではないはず！",
-  "id" : 970564690,
-  "created_at" : "Wed Oct 22 14:44:32 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970560762",
-  "text" : "論理学における「構文論」と「意味論」みたいな感じ。公理系（システム）はそれだけで独立して成り立ってて、それに対する解釈（意味）は外部で扱うという。",
-  "id" : 970560762,
-  "created_at" : "Wed Oct 22 14:41:46 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970558320",
-  "text" : "つまり、確かに現実世界の環境をモデルにしてはいるけれど、「雨」という要素は「雲からできる物」という他の要素との相互作用においてのみ位置づけられて、その要素そのもの自体は意味を持たないような感じ。",
-  "id" : 970558320,
-  "created_at" : "Wed Oct 22 14:40:07 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970553048",
-  "text" : "「環境シミュレーター」じゃなくて「環境システムエミュレーター」を作りたい。",
-  "id" : 970553048,
-  "created_at" : "Wed Oct 22 14:36:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "talented statisticia",
@@ -2322,261 +1995,58 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "970550390",
-  "text" : "@t___s んー・・・。そうですか。。Unicodeの波ダッシュになってるので、環境依存文字な気がするんですが、違いますかね？",
-  "id" : 970550390,
-  "created_at" : "Wed Oct 22 14:34:41 +0000 2008",
+  "geo" : { },
+  "id_str" : "971605001",
+  "text" : "@t___s twitter\u4E0A\u3067\u306F\u5909\u63DB\u3055\u308C\u3066\u308B\u306E\u304B\u540C\u3058\u3088\u3046\u306B\u898B\u3048\u307E\u3059\u3051\u3069\u3001\u30BD\u30FC\u30B9\u898B\u3066\u307F\u308B\u3068\u591A\u5206\u9055\u3046\u98A8\u306B\u898B\u3048\u308B\u3068\u601D\u3044\u307E\u3059\u3088\u30FC\u3002\u3042\u308B\u3044\u306F\u5909\u63DB\u3057\u3066\u307F\u3066\u3082\u9055\u3046\u98A8\u306B\u898B\u3048\u308B\u304B\u3082\u3057\u308C\u306A\u3044\u3067\u3059\u3002",
+  "id" : 971605001,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970546450",
-  "text" : "3（ハートに火をつけて）以降、そういうストーリーを重視したシステムになってるから、そろそろ原点回帰してくれないかなぁ。",
-  "id" : 970546450,
-  "created_at" : "Wed Oct 22 14:32:04 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970544525",
-  "text" : "最近の牧場物語は「物語」の部分が強すぎると思う。それが本来の形なのかもしれないけれど、2やHMのころのように「牧場生活」に重きを置いたシステムがやっぱり好き。",
-  "id" : 970544525,
-  "created_at" : "Wed Oct 22 14:30:46 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kazuhiro",
-      "screen_name" : "kzhr",
-      "indices" : [ 0, 5 ],
-      "id_str" : "11484132",
-      "id" : 11484132
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "970520501",
-  "geo" : {
-  },
-  "id_str" : "970528875",
-  "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr 生物学も広いのでうまく答えられませんけど、生態学的な話だと「実験室で実験して挙動を調べて、大きなシステムを予測する」というところが情報学とは違うと思います。",
-  "id" : 970528875,
-  "in_reply_to_status_id" : 970520501,
-  "created_at" : "Wed Oct 22 14:19:58 +0000 2008",
-  "in_reply_to_screen_name" : "kzhr",
-  "in_reply_to_user_id_str" : "11484132",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kazuhiro",
-      "screen_name" : "kzhr",
-      "indices" : [ 0, 5 ],
-      "id_str" : "11484132",
-      "id" : 11484132
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "970502200",
-  "geo" : {
-  },
-  "id_str" : "970506442",
-  "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr 生物は人が作ったものじゃないので、一応自然科学系ではないかと思います。",
-  "id" : 970506442,
-  "in_reply_to_status_id" : 970502200,
-  "created_at" : "Wed Oct 22 14:04:25 +0000 2008",
-  "in_reply_to_screen_name" : "kzhr",
-  "in_reply_to_user_id_str" : "11484132",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970504014",
-  "text" : "んーでもまぁ、土木工学だって都市計画系なら人文系っぽいしね。多分そのあたりの違いに起因するのかなぁって思う。",
-  "id" : 970504014,
-  "created_at" : "Wed Oct 22 14:02:41 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970502019",
-  "text" : "どっちかというと人文系のにおいがする。",
-  "id" : 970502019,
-  "created_at" : "Wed Oct 22 14:01:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970500889",
-  "text" : "そうか、情報系は文系なのではなく、「自然科学ではない」のかな。",
-  "id" : 970500889,
-  "created_at" : "Wed Oct 22 14:00:32 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970499725",
-  "text" : "法学も経済学もそうだけれども、人間が作ったものだから自然のようにあんまり美しくない（と思うのは多分自然科学系だから。",
-  "id" : 970499725,
-  "created_at" : "Wed Oct 22 13:59:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
+      "name" : "Kei-Kei",
+      "screen_name" : "Kei_Kei",
       "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
+      "id_str" : "6529602",
+      "id" : 6529602
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "970498090",
-  "text" : "@mel_mel おやすみなさーい、よいゆめを！",
-  "id" : 970498090,
-  "created_at" : "Wed Oct 22 13:58:35 +0000 2008",
+  "in_reply_to_status_id_str" : "971599330",
+  "geo" : { },
+  "id_str" : "971606107",
+  "in_reply_to_user_id" : 6529602,
+  "text" : "@Kei_Kei \u30DC\u30C8\u30EB\u30B7\u30C3\u30D7\u3092\u4F5C\u308B\u3093\u3067\u3059\u306D\u3001\u671F\u5F85\u3057\u3066\u307E\u3059\u3002",
+  "id" : 971606107,
+  "in_reply_to_status_id" : 971599330,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Kei_Kei",
+  "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kazuhiro",
+      "name" : "kzhr",
       "screen_name" : "kzhr",
       "indices" : [ 0, 5 ],
       "id_str" : "11484132",
@@ -2586,28 +2056,159 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "970150324",
-  "geo" : {
-  },
-  "id_str" : "970497410",
+  "in_reply_to_status_id_str" : "971633617",
+  "geo" : { },
+  "id_str" : "971858707",
   "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr 経験則を重視するあたり？",
-  "id" : 970497410,
-  "in_reply_to_status_id" : 970150324,
-  "created_at" : "Wed Oct 22 13:58:00 +0000 2008",
+  "text" : "@kzhr \u4F55\u306E\u8B70\u8AD6\u3092\u3057\u3066\u308B\u306B\u305B\u3088\u3001\u4F55\u65E5\u3082\u4F55\u9031\u9593\u3082\u653E\u7F6E\u3059\u308B\u306E\u3067\u306A\u3051\u308C\u3070\u300C\u9003\u3052\u305F\u300D\u3068\u5224\u65AD\u3055\u308C\u306A\u3044\u306E\u3067\u306F\uFF1F\u7DCA\u6025\u6848\u4EF6\u306F\u5225\u3067\u3059\u304C\u3001\u305D\u308C\u4EE5\u5916\u306A\u3089\u300C\u3061\u3087\u3063\u30681\u9031\u9593\u3050\u3089\u3044\u5FD9\u3057\u3044\u306E\u3067\u30B3\u30E1\u30F3\u30C8\u3067\u304D\u307E\u305B\u3093\u304C\u3088\u308D\u3057\u304F\u304A\u9858\u3044\u3057\u307E\u3059\u300D\u3063\u3066\u66F8\u3051\u3070\u6E08\u3080\u3060\u3051\u3060\u3068\u601D\u3046\u3093\u3067\u3059\u3088\u3002",
+  "id" : 971858707,
+  "in_reply_to_status_id" : 971633617,
+  "created_at" : "2008-10-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "kzhr",
   "in_reply_to_user_id_str" : "11484132",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "971965090",
+  "text" : "jawp\uFF1A\u691C\u8A3C\u53EF\u80FD\u6027\u3092\u6E80\u305F\u3059\u3079\u304D\u306A\u306E\u306F\u306F\u3063\u304D\u308A\u3057\u3066\u3044\u308B\u3053\u3068\u3060\u3051\u308C\u3069\u3001\u691C\u8A3C\u5BB9\u6613\u6027\u3092\u4E0A\u3052\u308B\u3079\u304D\u3068\u3044\u3046\u306E\u306F\u30EB\u30FC\u30EB\u3067\u306F\u306A\u3044\u3002",
+  "id" : 971965090,
+  "created_at" : "2008-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970147001",
+  "text" : "\u60C5\u5831\u7CFB\u306E\u4EBA\u306F\u5B9F\u306F\u6587\u7CFB\u306A\u3093\u3058\u3083\u306A\u3044\u304B\u3068\u6700\u8FD1\u601D\u3046\u3088\u3046\u306B\u306A\u3063\u305F\u3002",
+  "id" : 970147001,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970192925",
+  "text" : "\u4F55\u6C17\u306A\u304Fjawp\u3092\u8997\u3044\u305F\u3089\u3044\u3064\u305E\u3084\u306E\u8352\u3089\u3057\u3055\u3093\u304C\u30D6\u30ED\u30C3\u30AF\u3055\u308C\u3066\u3066\u3057\u304B\u3082IP\u3067\u30D6\u30ED\u30C3\u30AF\u9003\u308C\u3057\u3066\u305F\u306E\u3067\u30D6\u30ED\u30C3\u30AF\u3057\u3066\u304A\u3044\u305F\u3002\u7BA1\u7406\u8005\u696D\u52D9\u3084\u308B\u6C17\u306F\u306A\u304F\u3066\u3082\u76EE\u306B\u4ED8\u3044\u305F\u3089\u3084\u3063\u3071\u308A\u3084\u3063\u305F\u307B\u3046\u304C\u3044\u3044\u3057\u306D\u3002",
+  "id" : 970192925,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970201422",
+  "text" : "\u5916\u304B\u3089\u30D0\u30BF\u30FC\u30BD\u30C6\u30FC\u306E\u3044\u3044\u306B\u304A\u3044\u304C\u3059\u308B\u3002",
+  "id" : 970201422,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970206650",
+  "text" : "\u3046\u30FC\u30FB\u30FB\u30FB\u3002\u307E\u305F\u7720\u304F\u306A\u3063\u3066\u304D\u305F\u3002\u306A\u3093\u304B\u6700\u8FD1\u306D\u3080\u3044\u306A\u3041\u3002\u3002",
+  "id" : 970206650,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970206930",
+  "text" : "\u4ECA\u65E5\u306F\u5B9F\u9A13\u306E\u30EC\u30DD\u30FC\u30C8\u7D42\u308F\u3089\u305B\u3066\u3061\u3087\u3063\u3068\u52A0\u7B46\u3057\u3088\u3046\u3068\u601D\u3063\u3066\u305F\u306E\u306B\u3001\u3053\u308C\u306F\u7121\u7406\u3060\uFF57\u3002\u5BDD\u3088\u3046\u3002",
+  "id" : 970206930,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "talented statisticia",
@@ -2620,49 +2221,135 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "970494788",
-  "text" : "@t___s そういえば最近～（波ダッシュ）が機種依存になってるのか何かでtwitで読めないんですが、何か変えたんですか？",
-  "id" : 970494788,
-  "created_at" : "Wed Oct 22 13:56:00 +0000 2008",
+  "geo" : { },
+  "id_str" : "970208539",
+  "text" : "@t___s \u304A\u3084\u3059\u307F\u306A\u3055\u3044\uFF01\u307E\u305F\u591C\u4E2D\u3050\u3089\u3044\u306B\u8D77\u304D\u3066\u304F\u308B\u3068\u601D\u3044\u307E\u3059\u3051\u3069\uFF57\u3002",
+  "id" : 970208539,
+  "created_at" : "2008-10-22 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "970436645",
-  "text" : "いつも言ってるのは「氷河期になったら自分が真っ先に餓死するだろう」ということです。",
-  "id" : 970436645,
-  "created_at" : "Wed Oct 22 13:12:33 +0000 2008",
+  "geo" : { },
+  "id_str" : "970208720",
+  "text" : "\u3067\u3082\u305D\u306E\u524D\u306B\u4F55\u304B\u98DF\u3079\u3066\u304B\u3089\u5BDD\u3088\u3002",
+  "id" : 970208720,
+  "created_at" : "2008-10-22 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970426942",
+  "text" : "\u3044\u30FC\u308F\u305B\u3001\u3044\u30FC\u308F\u305B\uFF01\uFF08\u5B9F\u306F1\u6642\u9593\u3050\u3089\u3044\u524D\u306B\u8D77\u304D\u3066\u91CE\u7403\u898B\u3066\u305F\u3063\u3066\u3044\u3046",
+  "id" : 970426942,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970430084",
+  "text" : "\u79C1\u306F\u5CA9\u702C\u3068\u8352\u6728\u306E\u30D5\u30A1\u30F3\u3067\u3059\u3001\u3042\u3089\u304B\u3058\u3081\u5BA3\u8A00\u3057\u3066\u304A\u304D\u307E\u3059\u304C\u3002",
+  "id" : 970430084,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970431087",
+  "text" : "\u3068\u3044\u3046\u304B\u3001\u30AF\u30ED\u30FC\u30B6\u30FC\u3063\u3066\u3044\u3046\u306E\u304C\u597D\u304D\u3002\u3042\u306E\u91CD\u5727\u3092\u53D7\u3051\u3066\u3082\u306A\u304A\u5E73\u7136\u3068\u3057\u3066\u3044\u3089\u308C\u308B\u7CBE\u795E\u529B\u306B\u3059\u3054\u304F\u60F9\u304B\u308C\u308B\u3002",
+  "id" : 970431087,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970434193",
+  "text" : "\u3055\u3059\u304C\u5CA9\u702C\uFF01",
+  "id" : 970434193,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "かぁーにぃー",
+      "name" : "\u304B\u3041\u30FC\u306B\u3043\u30FC",
       "screen_name" : "kaanee",
       "indices" : [ 0, 7 ],
       "id_str" : "14487872",
@@ -2673,142 +2360,48 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "970209071",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "970436252",
   "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee 自分は燃費悪いですよー。食べてもぜんぜん太れないですし。",
+  "text" : "@kaanee \u81EA\u5206\u306F\u71C3\u8CBB\u60AA\u3044\u3067\u3059\u3088\u30FC\u3002\u98DF\u3079\u3066\u3082\u305C\u3093\u305C\u3093\u592A\u308C\u306A\u3044\u3067\u3059\u3057\u3002",
   "id" : 970436252,
   "in_reply_to_status_id" : 970209071,
-  "created_at" : "Wed Oct 22 13:12:12 +0000 2008",
+  "created_at" : "2008-10-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "kaanee",
   "in_reply_to_user_id_str" : "14487872",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "970434193",
-  "text" : "さすが岩瀬！",
-  "id" : 970434193,
-  "created_at" : "Wed Oct 22 13:10:20 +0000 2008",
+  "geo" : { },
+  "id_str" : "970436645",
+  "text" : "\u3044\u3064\u3082\u8A00\u3063\u3066\u308B\u306E\u306F\u300C\u6C37\u6CB3\u671F\u306B\u306A\u3063\u305F\u3089\u81EA\u5206\u304C\u771F\u3063\u5148\u306B\u9913\u6B7B\u3059\u308B\u3060\u308D\u3046\u300D\u3068\u3044\u3046\u3053\u3068\u3067\u3059\u3002",
+  "id" : 970436645,
+  "created_at" : "2008-10-22 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970431087",
-  "text" : "というか、クローザーっていうのが好き。あの重圧を受けてもなお平然としていられる精神力にすごく惹かれる。",
-  "id" : 970431087,
-  "created_at" : "Wed Oct 22 13:07:49 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970430084",
-  "text" : "私は岩瀬と荒木のファンです、あらかじめ宣言しておきますが。",
-  "id" : 970430084,
-  "created_at" : "Wed Oct 22 13:07:00 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970426942",
-  "text" : "いーわせ、いーわせ！（実は1時間ぐらい前に起きて野球見てたっていう",
-  "id" : 970426942,
-  "created_at" : "Wed Oct 22 13:04:29 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970208720",
-  "text" : "でもその前に何か食べてから寝よ。",
-  "id" : 970208720,
-  "created_at" : "Wed Oct 22 08:37:02 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "talented statisticia",
@@ -2821,141 +2414,25 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "970208539",
-  "text" : "@t___s おやすみなさい！また夜中ぐらいに起きてくると思いますけどｗ。",
-  "id" : 970208539,
-  "created_at" : "Wed Oct 22 08:36:45 +0000 2008",
+  "geo" : { },
+  "id_str" : "970494788",
+  "text" : "@t___s \u305D\u3046\u3044\u3048\u3070\u6700\u8FD1\uFF5E\uFF08\u6CE2\u30C0\u30C3\u30B7\u30E5\uFF09\u304C\u6A5F\u7A2E\u4F9D\u5B58\u306B\u306A\u3063\u3066\u308B\u306E\u304B\u4F55\u304B\u3067twit\u3067\u8AAD\u3081\u306A\u3044\u3093\u3067\u3059\u304C\u3001\u4F55\u304B\u5909\u3048\u305F\u3093\u3067\u3059\u304B\uFF1F",
+  "id" : 970494788,
+  "created_at" : "2008-10-22 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970206930",
-  "text" : "今日は実験のレポート終わらせてちょっと加筆しようと思ってたのに、これは無理だｗ。寝よう。",
-  "id" : 970206930,
-  "created_at" : "Wed Oct 22 08:34:17 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970206650",
-  "text" : "うー・・・。また眠くなってきた。なんか最近ねむいなぁ。。",
-  "id" : 970206650,
-  "created_at" : "Wed Oct 22 08:33:51 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970201422",
-  "text" : "外からバターソテーのいいにおいがする。",
-  "id" : 970201422,
-  "created_at" : "Wed Oct 22 08:25:52 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970192925",
-  "text" : "何気なくjawpを覗いたらいつぞやの荒らしさんがブロックされててしかもIPでブロック逃れしてたのでブロックしておいた。管理者業務やる気はなくても目に付いたらやっぱりやったほうがいいしね。",
-  "id" : 970192925,
-  "created_at" : "Wed Oct 22 08:13:16 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "970147001",
-  "text" : "情報系の人は実は文系なんじゃないかと最近思うようになった。",
-  "id" : 970147001,
-  "created_at" : "Wed Oct 22 07:02:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kazuhiro",
+      "name" : "kzhr",
       "screen_name" : "kzhr",
       "indices" : [ 0, 5 ],
       "id_str" : "11484132",
@@ -2965,31 +2442,554 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "969155440",
-  "geo" : {
-  },
-  "id_str" : "969157640",
+  "in_reply_to_status_id_str" : "970150324",
+  "geo" : { },
+  "id_str" : "970497410",
   "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr うえ、じゃあ今の自分は狂ってるのか・・・。",
-  "id" : 969157640,
-  "in_reply_to_status_id" : 969155440,
-  "created_at" : "Tue Oct 21 16:22:57 +0000 2008",
+  "text" : "@kzhr \u7D4C\u9A13\u5247\u3092\u91CD\u8996\u3059\u308B\u3042\u305F\u308A\uFF1F",
+  "id" : 970497410,
+  "in_reply_to_status_id" : 970150324,
+  "created_at" : "2008-10-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "kzhr",
   "in_reply_to_user_id_str" : "11484132",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kazuhiro",
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970498090",
+  "text" : "@mel_mel \u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044\u3001\u3088\u3044\u3086\u3081\u3092\uFF01",
+  "id" : 970498090,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970499725",
+  "text" : "\u6CD5\u5B66\u3082\u7D4C\u6E08\u5B66\u3082\u305D\u3046\u3060\u3051\u308C\u3069\u3082\u3001\u4EBA\u9593\u304C\u4F5C\u3063\u305F\u3082\u306E\u3060\u304B\u3089\u81EA\u7136\u306E\u3088\u3046\u306B\u3042\u3093\u307E\u308A\u7F8E\u3057\u304F\u306A\u3044\uFF08\u3068\u601D\u3046\u306E\u306F\u591A\u5206\u81EA\u7136\u79D1\u5B66\u7CFB\u3060\u304B\u3089\u3002",
+  "id" : 970499725,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970500889",
+  "text" : "\u305D\u3046\u304B\u3001\u60C5\u5831\u7CFB\u306F\u6587\u7CFB\u306A\u306E\u3067\u306F\u306A\u304F\u3001\u300C\u81EA\u7136\u79D1\u5B66\u3067\u306F\u306A\u3044\u300D\u306E\u304B\u306A\u3002",
+  "id" : 970500889,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970502019",
+  "text" : "\u3069\u3063\u3061\u304B\u3068\u3044\u3046\u3068\u4EBA\u6587\u7CFB\u306E\u306B\u304A\u3044\u304C\u3059\u308B\u3002",
+  "id" : 970502019,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970504014",
+  "text" : "\u3093\u30FC\u3067\u3082\u307E\u3041\u3001\u571F\u6728\u5DE5\u5B66\u3060\u3063\u3066\u90FD\u5E02\u8A08\u753B\u7CFB\u306A\u3089\u4EBA\u6587\u7CFB\u3063\u307D\u3044\u3057\u306D\u3002\u591A\u5206\u305D\u306E\u3042\u305F\u308A\u306E\u9055\u3044\u306B\u8D77\u56E0\u3059\u308B\u306E\u304B\u306A\u3041\u3063\u3066\u601D\u3046\u3002",
+  "id" : 970504014,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "kzhr",
+      "screen_name" : "kzhr",
+      "indices" : [ 0, 5 ],
+      "id_str" : "11484132",
+      "id" : 11484132
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "970502200",
+  "geo" : { },
+  "id_str" : "970506442",
+  "in_reply_to_user_id" : 11484132,
+  "text" : "@kzhr \u751F\u7269\u306F\u4EBA\u304C\u4F5C\u3063\u305F\u3082\u306E\u3058\u3083\u306A\u3044\u306E\u3067\u3001\u4E00\u5FDC\u81EA\u7136\u79D1\u5B66\u7CFB\u3067\u306F\u306A\u3044\u304B\u3068\u601D\u3044\u307E\u3059\u3002",
+  "id" : 970506442,
+  "in_reply_to_status_id" : 970502200,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kzhr",
+  "in_reply_to_user_id_str" : "11484132",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "kzhr",
+      "screen_name" : "kzhr",
+      "indices" : [ 0, 5 ],
+      "id_str" : "11484132",
+      "id" : 11484132
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "970520501",
+  "geo" : { },
+  "id_str" : "970528875",
+  "in_reply_to_user_id" : 11484132,
+  "text" : "@kzhr \u751F\u7269\u5B66\u3082\u5E83\u3044\u306E\u3067\u3046\u307E\u304F\u7B54\u3048\u3089\u308C\u307E\u305B\u3093\u3051\u3069\u3001\u751F\u614B\u5B66\u7684\u306A\u8A71\u3060\u3068\u300C\u5B9F\u9A13\u5BA4\u3067\u5B9F\u9A13\u3057\u3066\u6319\u52D5\u3092\u8ABF\u3079\u3066\u3001\u5927\u304D\u306A\u30B7\u30B9\u30C6\u30E0\u3092\u4E88\u6E2C\u3059\u308B\u300D\u3068\u3044\u3046\u3068\u3053\u308D\u304C\u60C5\u5831\u5B66\u3068\u306F\u9055\u3046\u3068\u601D\u3044\u307E\u3059\u3002",
+  "id" : 970528875,
+  "in_reply_to_status_id" : 970520501,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kzhr",
+  "in_reply_to_user_id_str" : "11484132",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970544525",
+  "text" : "\u6700\u8FD1\u306E\u7267\u5834\u7269\u8A9E\u306F\u300C\u7269\u8A9E\u300D\u306E\u90E8\u5206\u304C\u5F37\u3059\u304E\u308B\u3068\u601D\u3046\u3002\u305D\u308C\u304C\u672C\u6765\u306E\u5F62\u306A\u306E\u304B\u3082\u3057\u308C\u306A\u3044\u3051\u308C\u3069\u30012\u3084HM\u306E\u3053\u308D\u306E\u3088\u3046\u306B\u300C\u7267\u5834\u751F\u6D3B\u300D\u306B\u91CD\u304D\u3092\u7F6E\u3044\u305F\u30B7\u30B9\u30C6\u30E0\u304C\u3084\u3063\u3071\u308A\u597D\u304D\u3002",
+  "id" : 970544525,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970546450",
+  "text" : "3\uFF08\u30CF\u30FC\u30C8\u306B\u706B\u3092\u3064\u3051\u3066\uFF09\u4EE5\u964D\u3001\u305D\u3046\u3044\u3046\u30B9\u30C8\u30FC\u30EA\u30FC\u3092\u91CD\u8996\u3057\u305F\u30B7\u30B9\u30C6\u30E0\u306B\u306A\u3063\u3066\u308B\u304B\u3089\u3001\u305D\u308D\u305D\u308D\u539F\u70B9\u56DE\u5E30\u3057\u3066\u304F\u308C\u306A\u3044\u304B\u306A\u3041\u3002",
+  "id" : 970546450,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "talented statisticia",
+      "screen_name" : "T___S",
+      "indices" : [ 0, 6 ],
+      "id_str" : "163400308",
+      "id" : 163400308
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970550390",
+  "text" : "@t___s \u3093\u30FC\u30FB\u30FB\u30FB\u3002\u305D\u3046\u3067\u3059\u304B\u3002\u3002Unicode\u306E\u6CE2\u30C0\u30C3\u30B7\u30E5\u306B\u306A\u3063\u3066\u308B\u306E\u3067\u3001\u74B0\u5883\u4F9D\u5B58\u6587\u5B57\u306A\u6C17\u304C\u3059\u308B\u3093\u3067\u3059\u304C\u3001\u9055\u3044\u307E\u3059\u304B\u306D\uFF1F",
+  "id" : 970550390,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970553048",
+  "text" : "\u300C\u74B0\u5883\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC\u300D\u3058\u3083\u306A\u304F\u3066\u300C\u74B0\u5883\u30B7\u30B9\u30C6\u30E0\u30A8\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC\u300D\u3092\u4F5C\u308A\u305F\u3044\u3002",
+  "id" : 970553048,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970558320",
+  "text" : "\u3064\u307E\u308A\u3001\u78BA\u304B\u306B\u73FE\u5B9F\u4E16\u754C\u306E\u74B0\u5883\u3092\u30E2\u30C7\u30EB\u306B\u3057\u3066\u306F\u3044\u308B\u3051\u308C\u3069\u3001\u300C\u96E8\u300D\u3068\u3044\u3046\u8981\u7D20\u306F\u300C\u96F2\u304B\u3089\u3067\u304D\u308B\u7269\u300D\u3068\u3044\u3046\u4ED6\u306E\u8981\u7D20\u3068\u306E\u76F8\u4E92\u4F5C\u7528\u306B\u304A\u3044\u3066\u306E\u307F\u4F4D\u7F6E\u3065\u3051\u3089\u308C\u3066\u3001\u305D\u306E\u8981\u7D20\u305D\u306E\u3082\u306E\u81EA\u4F53\u306F\u610F\u5473\u3092\u6301\u305F\u306A\u3044\u3088\u3046\u306A\u611F\u3058\u3002",
+  "id" : 970558320,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970560762",
+  "text" : "\u8AD6\u7406\u5B66\u306B\u304A\u3051\u308B\u300C\u69CB\u6587\u8AD6\u300D\u3068\u300C\u610F\u5473\u8AD6\u300D\u307F\u305F\u3044\u306A\u611F\u3058\u3002\u516C\u7406\u7CFB\uFF08\u30B7\u30B9\u30C6\u30E0\uFF09\u306F\u305D\u308C\u3060\u3051\u3067\u72EC\u7ACB\u3057\u3066\u6210\u308A\u7ACB\u3063\u3066\u3066\u3001\u305D\u308C\u306B\u5BFE\u3059\u308B\u89E3\u91C8\uFF08\u610F\u5473\uFF09\u306F\u5916\u90E8\u3067\u6271\u3046\u3068\u3044\u3046\u3002",
+  "id" : 970560762,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970564690",
+  "text" : "\u81EA\u7136\u754C\u304C\u9AD8\u3005\u53EF\u7B97\u500B\uFF08\u3068\u8A00\u308F\u308C\u3066\u3044\u308B\uFF09\u3044\u304F\u3064\u304B\u306E\u6CD5\u5247\u306B\u3088\u3063\u3066\u3053\u308C\u3060\u3051\u9762\u767D\u3044\u73FE\u8C61\u3092\u5448\u3059\u308B\u306E\u3060\u304B\u3089\u3001\u4F3C\u305F\u3088\u3046\u306A\u9762\u767D\u3055\u3092\u4F5C\u308A\u51FA\u3059\u30B7\u30B9\u30C6\u30E0\u3092\u4F5C\u308B\u3053\u3068\u306F\u4E0D\u53EF\u80FD\u3067\u306F\u306A\u3044\u306F\u305A\uFF01",
+  "id" : 970564690,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "talented statisticia",
+      "screen_name" : "T___S",
+      "indices" : [ 0, 6 ],
+      "id_str" : "163400308",
+      "id" : 163400308
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970566640",
+  "text" : "@t___s \u3044\u3048\u30FC\u3001twitter\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u306Ftwit\u3057\u304B\u4F7F\u3063\u305F\u3053\u3068\u306A\u3044\u3067\u3059\u3088\u3002",
+  "id" : 970566640,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970571733",
+  "text" : "\u524D\u304B\u3089\u8A00\u3063\u3066\u305F\u6C17\u304C\u3059\u308B\u3051\u308C\u3069\u3082\u3001SNS\u3068\u306E\u878D\u5408\u3068\u304B\u30AA\u30F3\u30E9\u30A4\u30F3\u30B2\u30FC\u30E0\u7684\u8981\u7D20\u3068\u304B3D\u306E\u6280\u8853\u3068\u304B\u3067\u306F\u8DB3\u5143\u306B\u3082\u53CA\u3070\u306A\u3044\u3051\u308C\u3069\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u90E8\u5206\u3060\u3051\u306A\u3089gumonji\u306B\u3082\u8CA0\u3051\u306A\u3044\u3082\u306E\u304C\u4F5C\u308C\u308B\u3068\u601D\u3046\u3002",
+  "id" : 970571733,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970573667",
+  "text" : "\u3068\u3044\u3046\u304B\u3001\u7406\u8AD6\u3082\u5B9F\u88C5\u3082\u982D\u306E\u4E2D\u306B\u3042\u308B\u3093\u3060\u3051\u308C\u3069\u3001\u305D\u308C\u3092\u5B9F\u88C5\u3059\u308B\u6C17\u529B\u3068\u6642\u9593\u304C\u306A\u3044\u3002\u9762\u767D\u305D\u3046\u3067\u306F\u3042\u308B\u3093\u3060\u3051\u308C\u3069\u3001\u81EA\u5206\u306E\u7814\u7A76\u9032\u3081\u305F\u308A\u307B\u304B\u306E\u4E8B\u306B\u6642\u9593\u3092\u3068\u3089\u308C\u308B\u304B\u3089\u306A\u3041\u3002\u3002",
+  "id" : 970573667,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970574317",
+  "text" : "\u6587\u66F8\u306B\u3057\u305F\u3089\u8AB0\u304B\u4EE3\u308F\u308A\u306B\u3084\u3063\u3066\u304F\u308C\u308B\u304B\u306A\uFF1F",
+  "id" : 970574317,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "970576579",
+  "text" : "\u300C\u3059\u3044\u308A\u304C\u304F\u300D\u3068\u3044\u3063\u3066\u300C\u6C34\u7406\u5B66\u300D\u3092\u601D\u3044\u6D6E\u304B\u3079\u3066\u304F\u308C\u308B\u4EBA\u306F\u3042\u307E\u308A\u3044\u306A\u3044\u3002\u300C\u6C34\u6587\u5B66\u300D\u3092\u300C\u307F\u305A\u3076\u3093\u304C\u304F\u300D\u3068\u8AAD\u3080\u4EBA\u306F\u3044\u308B\u3051\u308C\u3069\u3002",
+  "id" : 970576579,
+  "created_at" : "2008-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "969091440",
+  "text" : "\u3042\u308C\u3001\u3044\u3064\u306E\u9593\u306B\u304B0\u6642\u904E\u304E\u3066\u305F\uFF57\u3002",
+  "id" : 969091440,
+  "created_at" : "2008-10-21 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "969091746",
+  "text" : "\u4ECA\u65E5\u306F\u65E9\u304F\u5BDD\u3088\u3046\u3068\u601D\u3063\u3066\u305F\u306E\u306B\u306A\u3041\u30FB\u30FB\u30FB\u3002\u4ECA\u304B\u3089\u3067\u3082\u9045\u304F\u306A\u3044\u3001\u5BDD\u3088\u3046\u3002",
+  "id" : 969091746,
+  "created_at" : "2008-10-21 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "969099789",
+  "text" : "\u6BCE\u65E51\u9650\u304B\u30895\u9650\u307E\u3067\u51FA\u3066\u308B\u3068\u307B\u3093\u3068\u306B\u5927\u5B66\u751F\u306E\u751F\u6D3B\u304B\u3068\u7591\u3063\u3066\u3057\u307E\u3046",
+  "id" : 969099789,
+  "created_at" : "2008-10-21 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "kzhr",
       "screen_name" : "kzhr",
       "indices" : [ 0, 5 ],
       "id_str" : "11484132",
@@ -3000,694 +3000,543 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "969103359",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "969148418",
   "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr なんというか、高校とか中学なら朝から晩までって分かるんですけど、周囲の人たちを見てるとぜんぜんそうじゃなさそうなのですよ・・・。",
+  "text" : "@kzhr \u306A\u3093\u3068\u3044\u3046\u304B\u3001\u9AD8\u6821\u3068\u304B\u4E2D\u5B66\u306A\u3089\u671D\u304B\u3089\u6669\u307E\u3067\u3063\u3066\u5206\u304B\u308B\u3093\u3067\u3059\u3051\u3069\u3001\u5468\u56F2\u306E\u4EBA\u305F\u3061\u3092\u898B\u3066\u308B\u3068\u305C\u3093\u305C\u3093\u305D\u3046\u3058\u3083\u306A\u3055\u305D\u3046\u306A\u306E\u3067\u3059\u3088\u30FB\u30FB\u30FB\u3002",
   "id" : 969148418,
   "in_reply_to_status_id" : 969103359,
-  "created_at" : "Tue Oct 21 16:16:56 +0000 2008",
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "in_reply_to_screen_name" : "kzhr",
   "in_reply_to_user_id_str" : "11484132",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "kzhr",
+      "screen_name" : "kzhr",
+      "indices" : [ 0, 5 ],
+      "id_str" : "11484132",
+      "id" : 11484132
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "969099789",
-  "text" : "毎日1限から5限まで出てるとほんとに大学生の生活かと疑ってしまう",
-  "id" : 969099789,
-  "created_at" : "Tue Oct 21 15:43:48 +0000 2008",
+  "in_reply_to_status_id_str" : "969155440",
+  "geo" : { },
+  "id_str" : "969157640",
+  "in_reply_to_user_id" : 11484132,
+  "text" : "@kzhr \u3046\u3048\u3001\u3058\u3083\u3042\u4ECA\u306E\u81EA\u5206\u306F\u72C2\u3063\u3066\u308B\u306E\u304B\u30FB\u30FB\u30FB\u3002",
+  "id" : 969157640,
+  "in_reply_to_status_id" : 969155440,
+  "created_at" : "2008-10-21 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kzhr",
+  "in_reply_to_user_id_str" : "11484132",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "969091746",
-  "text" : "今日は早く寝ようと思ってたのになぁ・・・。今からでも遅くない、寝よう。",
-  "id" : 969091746,
-  "created_at" : "Tue Oct 21 15:38:12 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "969091440",
-  "text" : "あれ、いつの間にか0時過ぎてたｗ。",
-  "id" : 969091440,
-  "created_at" : "Tue Oct 21 15:38:00 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968980408",
-  "text" : "今日のご飯は鍋の残りでおじや＆しいたけのバター醤油 http://f.hatena.ne.jp/twitter/20081021232235",
-  "id" : 968980408,
-  "created_at" : "Tue Oct 21 14:22:37 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968910550",
-  "text" : "さて、ご飯食べよう！",
-  "id" : 968910550,
-  "created_at" : "Tue Oct 21 13:31:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968910316",
-  "text" : "もう設定が面倒なのでKyeHoleTVを使うことにした。",
-  "id" : 968910316,
-  "created_at" : "Tue Oct 21 13:31:33 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968814251",
-  "text" : "本の間に挟まってたｗ。いい加減手近なものを本のしおりにするのやめたほうがいいなぁ。",
-  "id" : 968814251,
-  "created_at" : "Tue Oct 21 12:04:32 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968802256",
-  "text" : "XPのディスクがない・・・。なぜｗ。",
-  "id" : 968802256,
-  "created_at" : "Tue Oct 21 11:51:36 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968792556",
-  "text" : "Virtual PCではハードウェアエミュレーションができないことがわかったので、Virtual Boxに乗り換える。",
-  "id" : 968792556,
-  "created_at" : "Tue Oct 21 11:40:17 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968565933",
-  "text" : "ねむー、ねよ。",
-  "id" : 968565933,
-  "created_at" : "Tue Oct 21 06:07:18 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968469227",
-  "text" : "プリンタのインクが切れたので、今から買いにいく。ついでにキャプボがどれぐらいするのかも見る。",
-  "id" : 968469227,
-  "created_at" : "Tue Oct 21 04:05:47 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "968405804",
-  "text" : "先週休んだら、今日いきなり小テストだったっていうｗ。Fourier則と定数の単位だけで50点満点中20点取れたｂ",
-  "id" : 968405804,
-  "created_at" : "Tue Oct 21 03:02:13 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "968305733",
-  "text" : "2限目は熱流体工学。なんでこの授業受けるかっていうと、密度流をやりたいから。",
+  "text" : "2\u9650\u76EE\u306F\u71B1\u6D41\u4F53\u5DE5\u5B66\u3002\u306A\u3093\u3067\u3053\u306E\u6388\u696D\u53D7\u3051\u308B\u304B\u3063\u3066\u3044\u3046\u3068\u3001\u5BC6\u5EA6\u6D41\u3092\u3084\u308A\u305F\u3044\u304B\u3089\u3002",
   "id" : 968305733,
-  "created_at" : "Tue Oct 21 01:31:47 +0000 2008",
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "968166503",
-  "text" : "おはようございます。今日もがんばろー。",
-  "id" : 968166503,
-  "created_at" : "Mon Oct 20 23:22:55 +0000 2008",
+  "geo" : { },
+  "id_str" : "968405804",
+  "text" : "\u5148\u9031\u4F11\u3093\u3060\u3089\u3001\u4ECA\u65E5\u3044\u304D\u306A\u308A\u5C0F\u30C6\u30B9\u30C8\u3060\u3063\u305F\u3063\u3066\u3044\u3046\uFF57\u3002Fourier\u5247\u3068\u5B9A\u6570\u306E\u5358\u4F4D\u3060\u3051\u306750\u70B9\u6E80\u70B9\u4E2D20\u70B9\u53D6\u308C\u305F\uFF42",
+  "id" : 968405804,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967571800",
-  "text" : "今度こそ本気でおやすみ！",
-  "id" : 967571800,
-  "created_at" : "Mon Oct 20 15:23:25 +0000 2008",
+  "geo" : { },
+  "id_str" : "968469227",
+  "text" : "\u30D7\u30EA\u30F3\u30BF\u306E\u30A4\u30F3\u30AF\u304C\u5207\u308C\u305F\u306E\u3067\u3001\u4ECA\u304B\u3089\u8CB7\u3044\u306B\u3044\u304F\u3002\u3064\u3044\u3067\u306B\u30AD\u30E3\u30D7\u30DC\u304C\u3069\u308C\u3050\u3089\u3044\u3059\u308B\u306E\u304B\u3082\u898B\u308B\u3002",
+  "id" : 968469227,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967571380",
-  "text" : "100歩譲るのも1歩も譲らないのも[[砂山のパラドックス]]な気がした（思いついたので起きだしてメモ",
-  "id" : 967571380,
-  "created_at" : "Mon Oct 20 15:23:04 +0000 2008",
+  "geo" : { },
+  "id_str" : "968565933",
+  "text" : "\u306D\u3080\u30FC\u3001\u306D\u3088\u3002",
+  "id" : 968565933,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967534066",
-  "text" : "とりあえず眠い頭で考えても仕方ないので寝る。",
-  "id" : 967534066,
-  "created_at" : "Mon Oct 20 14:56:53 +0000 2008",
+  "geo" : { },
+  "id_str" : "968792556",
+  "text" : "Virtual PC\u3067\u306F\u30CF\u30FC\u30C9\u30A6\u30A7\u30A2\u30A8\u30DF\u30E5\u30EC\u30FC\u30B7\u30E7\u30F3\u304C\u3067\u304D\u306A\u3044\u3053\u3068\u304C\u308F\u304B\u3063\u305F\u306E\u3067\u3001Virtual Box\u306B\u4E57\u308A\u63DB\u3048\u308B\u3002",
+  "id" : 968792556,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967533833",
-  "text" : "いや、プレイ動画だってマナーにも違反してるけれども。うーん・・・、説明しづらいな。",
-  "id" : 967533833,
-  "created_at" : "Mon Oct 20 14:56:42 +0000 2008",
+  "geo" : { },
+  "id_str" : "968802256",
+  "text" : "XP\u306E\u30C7\u30A3\u30B9\u30AF\u304C\u306A\u3044\u30FB\u30FB\u30FB\u3002\u306A\u305C\uFF57\u3002",
+  "id" : 968802256,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967533436",
-  "text" : "まぁ、実況動画なんかもダメって言えばダメなんだけどね。しかしプレイ動画は100歩譲って「その人のプレイを見て楽しむ」というのが目的であるとしても、テレビ番組そのままアップするのは法律にもマナーにも反してる気がする。",
-  "id" : 967533436,
-  "created_at" : "Mon Oct 20 14:56:26 +0000 2008",
+  "geo" : { },
+  "id_str" : "968814251",
+  "text" : "\u672C\u306E\u9593\u306B\u631F\u307E\u3063\u3066\u305F\uFF57\u3002\u3044\u3044\u52A0\u6E1B\u624B\u8FD1\u306A\u3082\u306E\u3092\u672C\u306E\u3057\u304A\u308A\u306B\u3059\u308B\u306E\u3084\u3081\u305F\u307B\u3046\u304C\u3044\u3044\u306A\u3041\u3002",
+  "id" : 968814251,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967531444",
-  "text" : "それと、別の知り合いから「今日の試合録画しとるんだったらニコニコにアップして！」とかメールが。うーん・・・さすがにそれはなぁ、って思う。",
-  "id" : 967531444,
-  "created_at" : "Mon Oct 20 14:54:54 +0000 2008",
+  "geo" : { },
+  "id_str" : "968910316",
+  "text" : "\u3082\u3046\u8A2D\u5B9A\u304C\u9762\u5012\u306A\u306E\u3067KyeHoleTV\u3092\u4F7F\u3046\u3053\u3068\u306B\u3057\u305F\u3002",
+  "id" : 968910316,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967526391",
-  "text" : "明日は熱流体工学あるよー。楽しみだー。",
-  "id" : 967526391,
-  "created_at" : "Mon Oct 20 14:51:12 +0000 2008",
+  "geo" : { },
+  "id_str" : "968910550",
+  "text" : "\u3055\u3066\u3001\u3054\u98EF\u98DF\u3079\u3088\u3046\uFF01",
+  "id" : 968910550,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967525760",
-  "text" : "あ、ちなみに某友人から「牧場物語初プレイ実況をやれ」と催促が来てます。やっても別にいいんだけれども、そこまで手間をかけてやる必要があるのかが疑問です。",
-  "id" : 967525760,
-  "created_at" : "Mon Oct 20 14:50:42 +0000 2008",
+  "geo" : { },
+  "id_str" : "968980408",
+  "text" : "\u4ECA\u65E5\u306E\u3054\u98EF\u306F\u934B\u306E\u6B8B\u308A\u3067\u304A\u3058\u3084\uFF06\u3057\u3044\u305F\u3051\u306E\u30D0\u30BF\u30FC\u91A4\u6CB9 http:\/\/f.hatena.ne.jp\/twitter\/20081021232235",
+  "id" : 968980408,
+  "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967524414",
-  "text" : "目標：今週中に全部書き終わり、来週で仕上げ。30日からは牧場物語やるよ！",
-  "id" : 967524414,
-  "created_at" : "Mon Oct 20 14:49:49 +0000 2008",
+  "geo" : { },
+  "id_str" : "966837128",
+  "text" : "\u653E\u8AB2\u4E2D\uFF1A\u300C\u30B5\u30E0\u3057\u3066\u30ED\u30FC\u30C6\u30FC\u30B7\u30E7\u30F3\u3057\u3066\u30FC\u300D\u3063\u3066\u8A71\u304C\u805E\u3053\u3048\u3066\u52C9\u5F37\u71B1\u5FC3\u3060\u306A\u3041\u3063\u3066\u601D\u3063\u305F\u3089\u3001\u306A\u3093\u304B\u306E\u30BF\u30A4\u30E0\u30C6\u30FC\u30D6\u30EB\u306E\u8A71\u3060\u3063\u305F\u3002",
+  "id" : 966837128,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967523853",
-  "text" : "さて、今日は早めに寝て、先週風邪で何も進んでない加筆コンをいい加減に進めよう。",
-  "id" : 967523853,
-  "created_at" : "Mon Oct 20 14:49:26 +0000 2008",
+  "geo" : { },
+  "id_str" : "966843419",
+  "text" : "\u4ECA\u65E5\u306E\u30CE\u30FC\u30C8\u30C6\u30A4\u30AB\u30FC\u3055\u3093\u306F\u30D4\u30F3\u30AF\u3044\u4EBA\u3058\u3083\u306A\u304F\u3066\u3088\u304B\u3063\u305F\u3002",
+  "id" : 966843419,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967424453",
-  "text" : "例の「全て同じ結論にたどり着くYesNoグラフは可能か」というのについてブログ書こうかと思ったけれど、眠いので明日にする。",
-  "id" : 967424453,
-  "created_at" : "Mon Oct 20 13:33:41 +0000 2008",
+  "geo" : { },
+  "id_str" : "966845182",
+  "text" : "\uFF08\u30A2\u30A4\u30F3\u30B7\u30E5\u30BF\u30A4\u30F3\uFF09\u7E2E\u7D04\u306E\u4FBF\u5229\u3055\u3092\u6539\u3081\u3066\u611F\u3058\u3066\u308B\u3002",
+  "id" : 966845182,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "tosik",
-      "screen_name" : "tosik",
-      "indices" : [ 0, 6 ],
-      "id_str" : "3841051",
-      "id" : 3841051
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "967402339",
-  "geo" : {
-  },
-  "id_str" : "967423439",
-  "in_reply_to_user_id" : 3841051,
-  "text" : "@tosik 人生はカオス的振る舞いを示す系だ！",
-  "id" : 967423439,
-  "in_reply_to_status_id" : 967402339,
-  "created_at" : "Mon Oct 20 13:32:48 +0000 2008",
-  "in_reply_to_screen_name" : "tosik",
-  "in_reply_to_user_id_str" : "3841051",
+  "geo" : { },
+  "id_str" : "967270214",
+  "text" : "\u305F\u3060\u3044\u307E\u3002\u4ECA\u304B\u3089\u91CE\u7403\u4E2D\u7D99\u898B\u308B\u3088\uFF01\u307E\u30600-0\u3068\u304B\u767D\u71B1\u3057\u3059\u304E\u3067\u3057\u3087\uFF57\u3002",
+  "id" : 967270214,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967389578",
-  "text" : "@mel_mel 自分が何かに悩んでるって分かるのがうらやましいです。",
-  "id" : 967389578,
-  "created_at" : "Mon Oct 20 13:03:59 +0000 2008",
+  "geo" : { },
+  "id_str" : "967289210",
+  "text" : "\u3046\u3042\u30FC\u30FB\u30FB\u30FB\u3002\u306A\u305C\u304B\u3053\u3093\u306A\u3068\u304D\u306B\u6620\u50CF\u3060\u3051\u3067\u97F3\u3057\u304B\u51FA\u306A\u3044\u3088\u30FC\u3002",
+  "id" : 967289210,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967375758",
-  "text" : "@mel_mel 自分の思っていることを全てさらけ出さないとカウンセリングはうまくいかないけれど、全てさらけ出せば常人はその無防備さに耐えられないだろう、みたいなのをどこかで読んだ気がします。",
-  "id" : 967375758,
-  "created_at" : "Mon Oct 20 12:51:20 +0000 2008",
+  "geo" : { },
+  "id_str" : "967290672",
+  "text" : "\u30A6\u30C3\u30BA\u983C\u3080\u3088\u30FC\uFF01\uFF08\u97F3\u3060\u3051\u805E\u3044\u3066\u308B",
+  "id" : 967290672,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "967294545",
+  "text" : "\u30A6\u30C3\u30BA\u30FC\uFF01\uFF01",
+  "id" : 967294545,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "967297131",
+  "text" : "\u3057\u304B\u3057\u4ECA\u5E74\u306E\u5CA9\u702C\u306F\u3042\u3093\u307E\u308A\u8ABF\u5B50\u3088\u304F\u306A\u3044\u304B\u3089\u3061\u3087\u3063\u3068\u6016\u3044\u306A\u3041\u3002\u3002",
+  "id" : 967297131,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "967298713",
+  "text" : "\u85E4\u5DDD\u3082\u4F55\u3067\u52DD\u8CA0\u3057\u306B\u3044\u3063\u305F\u3093\u3060\u308D\uFF1F",
+  "id" : 967298713,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "967307213",
+  "text" : "\u30A4\u30A8\u30FC\u30A4\uFF01\uFF08\u3063\u3066\u3001\u53CB\u9054\u3068\u96FB\u8A71\u3057\u306A\u304C\u30892\u4EBA\u3068\u3082\u5927\u304D\u306A\u58F0\u3092\u51FA\u3057\u305F\u3002",
+  "id" : 967307213,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "967310582",
+  "text" : "\u3057\u304B\u3057\u3042\u308C\u3060\u306D\u3001TL\u307F\u3066\u308B\u3068\u962A\u795E\u30D5\u30A1\u30F3\u3082\u4E2D\u65E5\u30D5\u30A1\u30F3\u3082\u3044\u308B\u304B\u3089\u3001\u7D20\u76F4\u306B\u559C\u3093\u3067\u3044\u3044\u306E\u304B\u3042\u3093\u307E\u308A\u308F\u304B\u3089\u306A\u3044\u3002",
+  "id" : 967310582,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "967318035",
+  "text" : "\u5CA1\u7530\u76E3\u7763\u305D\u3046\u3044\u3048\u3070\u6700\u5F8C\u304B\u30FC\u30FB\u30FB\u30FB\u3002\u304A\u3064\u304B\u308C\u3055\u307E\u3067\u3057\u305F\u3002",
+  "id" : 967318035,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -3701,397 +3550,514 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "967308206",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "967364232",
   "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei そろそろそのネタ飽きたー（とか言ってみる。",
+  "text" : "@Kei_Kei \u305D\u308D\u305D\u308D\u305D\u306E\u30CD\u30BF\u98FD\u304D\u305F\u30FC\uFF08\u3068\u304B\u8A00\u3063\u3066\u307F\u308B\u3002",
   "id" : 967364232,
   "in_reply_to_status_id" : 967308206,
-  "created_at" : "Mon Oct 20 12:40:09 +0000 2008",
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967318035",
-  "text" : "岡田監督そういえば最後かー・・・。おつかれさまでした。",
-  "id" : 967318035,
-  "created_at" : "Mon Oct 20 11:50:58 +0000 2008",
+  "geo" : { },
+  "id_str" : "967375758",
+  "text" : "@mel_mel \u81EA\u5206\u306E\u601D\u3063\u3066\u3044\u308B\u3053\u3068\u3092\u5168\u3066\u3055\u3089\u3051\u51FA\u3055\u306A\u3044\u3068\u30AB\u30A6\u30F3\u30BB\u30EA\u30F3\u30B0\u306F\u3046\u307E\u304F\u3044\u304B\u306A\u3044\u3051\u308C\u3069\u3001\u5168\u3066\u3055\u3089\u3051\u51FA\u305B\u3070\u5E38\u4EBA\u306F\u305D\u306E\u7121\u9632\u5099\u3055\u306B\u8010\u3048\u3089\u308C\u306A\u3044\u3060\u308D\u3046\u3001\u307F\u305F\u3044\u306A\u306E\u3092\u3069\u3053\u304B\u3067\u8AAD\u3093\u3060\u6C17\u304C\u3057\u307E\u3059\u3002",
+  "id" : 967375758,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967310582",
-  "text" : "しかしあれだね、TLみてると阪神ファンも中日ファンもいるから、素直に喜んでいいのかあんまりわからない。",
-  "id" : 967310582,
-  "created_at" : "Mon Oct 20 11:42:41 +0000 2008",
+  "geo" : { },
+  "id_str" : "967389578",
+  "text" : "@mel_mel \u81EA\u5206\u304C\u4F55\u304B\u306B\u60A9\u3093\u3067\u308B\u3063\u3066\u5206\u304B\u308B\u306E\u304C\u3046\u3089\u3084\u307E\u3057\u3044\u3067\u3059\u3002",
+  "id" : 967389578,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "tosik",
+      "screen_name" : "tosik",
+      "indices" : [ 0, 6 ],
+      "id_str" : "3841051",
+      "id" : 3841051
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967307213",
-  "text" : "イエーイ！（って、友達と電話しながら2人とも大きな声を出した。",
-  "id" : 967307213,
-  "created_at" : "Mon Oct 20 11:38:43 +0000 2008",
+  "in_reply_to_status_id_str" : "967402339",
+  "geo" : { },
+  "id_str" : "967423439",
+  "in_reply_to_user_id" : 3841051,
+  "text" : "@tosik \u4EBA\u751F\u306F\u30AB\u30AA\u30B9\u7684\u632F\u308B\u821E\u3044\u3092\u793A\u3059\u7CFB\u3060\uFF01",
+  "id" : 967423439,
+  "in_reply_to_status_id" : 967402339,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tosik",
+  "in_reply_to_user_id_str" : "3841051",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967298713",
-  "text" : "藤川も何で勝負しにいったんだろ？",
-  "id" : 967298713,
-  "created_at" : "Mon Oct 20 11:29:11 +0000 2008",
+  "geo" : { },
+  "id_str" : "967424453",
+  "text" : "\u4F8B\u306E\u300C\u5168\u3066\u540C\u3058\u7D50\u8AD6\u306B\u305F\u3069\u308A\u7740\u304FYesNo\u30B0\u30E9\u30D5\u306F\u53EF\u80FD\u304B\u300D\u3068\u3044\u3046\u306E\u306B\u3064\u3044\u3066\u30D6\u30ED\u30B0\u66F8\u3053\u3046\u304B\u3068\u601D\u3063\u305F\u3051\u308C\u3069\u3001\u7720\u3044\u306E\u3067\u660E\u65E5\u306B\u3059\u308B\u3002",
+  "id" : 967424453,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967297131",
-  "text" : "しかし今年の岩瀬はあんまり調子よくないからちょっと怖いなぁ。。",
-  "id" : 967297131,
-  "created_at" : "Mon Oct 20 11:27:05 +0000 2008",
+  "geo" : { },
+  "id_str" : "967523853",
+  "text" : "\u3055\u3066\u3001\u4ECA\u65E5\u306F\u65E9\u3081\u306B\u5BDD\u3066\u3001\u5148\u9031\u98A8\u90AA\u3067\u4F55\u3082\u9032\u3093\u3067\u306A\u3044\u52A0\u7B46\u30B3\u30F3\u3092\u3044\u3044\u52A0\u6E1B\u306B\u9032\u3081\u3088\u3046\u3002",
+  "id" : 967523853,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967294545",
-  "text" : "ウッズー！！",
-  "id" : 967294545,
-  "created_at" : "Mon Oct 20 11:23:50 +0000 2008",
+  "geo" : { },
+  "id_str" : "967524414",
+  "text" : "\u76EE\u6A19\uFF1A\u4ECA\u9031\u4E2D\u306B\u5168\u90E8\u66F8\u304D\u7D42\u308F\u308A\u3001\u6765\u9031\u3067\u4ED5\u4E0A\u3052\u300230\u65E5\u304B\u3089\u306F\u7267\u5834\u7269\u8A9E\u3084\u308B\u3088\uFF01",
+  "id" : 967524414,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967290672",
-  "text" : "ウッズ頼むよー！（音だけ聞いてる",
-  "id" : 967290672,
-  "created_at" : "Mon Oct 20 11:19:22 +0000 2008",
+  "geo" : { },
+  "id_str" : "967525760",
+  "text" : "\u3042\u3001\u3061\u306A\u307F\u306B\u67D0\u53CB\u4EBA\u304B\u3089\u300C\u7267\u5834\u7269\u8A9E\u521D\u30D7\u30EC\u30A4\u5B9F\u6CC1\u3092\u3084\u308C\u300D\u3068\u50AC\u4FC3\u304C\u6765\u3066\u307E\u3059\u3002\u3084\u3063\u3066\u3082\u5225\u306B\u3044\u3044\u3093\u3060\u3051\u308C\u3069\u3082\u3001\u305D\u3053\u307E\u3067\u624B\u9593\u3092\u304B\u3051\u3066\u3084\u308B\u5FC5\u8981\u304C\u3042\u308B\u306E\u304B\u304C\u7591\u554F\u3067\u3059\u3002",
+  "id" : 967525760,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967289210",
-  "text" : "うあー・・・。なぜかこんなときに映像だけで音しか出ないよー。",
-  "id" : 967289210,
-  "created_at" : "Mon Oct 20 11:17:40 +0000 2008",
+  "geo" : { },
+  "id_str" : "967526391",
+  "text" : "\u660E\u65E5\u306F\u71B1\u6D41\u4F53\u5DE5\u5B66\u3042\u308B\u3088\u30FC\u3002\u697D\u3057\u307F\u3060\u30FC\u3002",
+  "id" : 967526391,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "967270214",
-  "text" : "ただいま。今から野球中継見るよ！まだ0-0とか白熱しすぎでしょｗ。",
-  "id" : 967270214,
-  "created_at" : "Mon Oct 20 10:53:16 +0000 2008",
+  "geo" : { },
+  "id_str" : "967531444",
+  "text" : "\u305D\u308C\u3068\u3001\u5225\u306E\u77E5\u308A\u5408\u3044\u304B\u3089\u300C\u4ECA\u65E5\u306E\u8A66\u5408\u9332\u753B\u3057\u3068\u308B\u3093\u3060\u3063\u305F\u3089\u30CB\u30B3\u30CB\u30B3\u306B\u30A2\u30C3\u30D7\u3057\u3066\uFF01\u300D\u3068\u304B\u30E1\u30FC\u30EB\u304C\u3002\u3046\u30FC\u3093\u30FB\u30FB\u30FB\u3055\u3059\u304C\u306B\u305D\u308C\u306F\u306A\u3041\u3001\u3063\u3066\u601D\u3046\u3002",
+  "id" : 967531444,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "966845182",
-  "text" : "（アインシュタイン）縮約の便利さを改めて感じてる。",
-  "id" : 966845182,
-  "created_at" : "Mon Oct 20 01:32:40 +0000 2008",
+  "geo" : { },
+  "id_str" : "967533436",
+  "text" : "\u307E\u3041\u3001\u5B9F\u6CC1\u52D5\u753B\u306A\u3093\u304B\u3082\u30C0\u30E1\u3063\u3066\u8A00\u3048\u3070\u30C0\u30E1\u306A\u3093\u3060\u3051\u3069\u306D\u3002\u3057\u304B\u3057\u30D7\u30EC\u30A4\u52D5\u753B\u306F100\u6B69\u8B72\u3063\u3066\u300C\u305D\u306E\u4EBA\u306E\u30D7\u30EC\u30A4\u3092\u898B\u3066\u697D\u3057\u3080\u300D\u3068\u3044\u3046\u306E\u304C\u76EE\u7684\u3067\u3042\u308B\u3068\u3057\u3066\u3082\u3001\u30C6\u30EC\u30D3\u756A\u7D44\u305D\u306E\u307E\u307E\u30A2\u30C3\u30D7\u3059\u308B\u306E\u306F\u6CD5\u5F8B\u306B\u3082\u30DE\u30CA\u30FC\u306B\u3082\u53CD\u3057\u3066\u308B\u6C17\u304C\u3059\u308B\u3002",
+  "id" : 967533436,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "966843419",
-  "text" : "今日のノートテイカーさんはピンクい人じゃなくてよかった。",
-  "id" : 966843419,
-  "created_at" : "Mon Oct 20 01:30:50 +0000 2008",
+  "geo" : { },
+  "id_str" : "967533833",
+  "text" : "\u3044\u3084\u3001\u30D7\u30EC\u30A4\u52D5\u753B\u3060\u3063\u3066\u30DE\u30CA\u30FC\u306B\u3082\u9055\u53CD\u3057\u3066\u308B\u3051\u308C\u3069\u3082\u3002\u3046\u30FC\u3093\u30FB\u30FB\u30FB\u3001\u8AAC\u660E\u3057\u3065\u3089\u3044\u306A\u3002",
+  "id" : 967533833,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "966837128",
-  "text" : "放課中：「サムしてローテーションしてー」って話が聞こえて勉強熱心だなぁって思ったら、なんかのタイムテーブルの話だった。",
-  "id" : 966837128,
-  "created_at" : "Mon Oct 20 01:24:16 +0000 2008",
+  "geo" : { },
+  "id_str" : "967534066",
+  "text" : "\u3068\u308A\u3042\u3048\u305A\u7720\u3044\u982D\u3067\u8003\u3048\u3066\u3082\u4ED5\u65B9\u306A\u3044\u306E\u3067\u5BDD\u308B\u3002",
+  "id" : 967534066,
+  "created_at" : "2008-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
+  "geo" : { },
+  "id_str" : "967571380",
+  "text" : "100\u6B69\u8B72\u308B\u306E\u30821\u6B69\u3082\u8B72\u3089\u306A\u3044\u306E\u3082[[\u7802\u5C71\u306E\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9]]\u306A\u6C17\u304C\u3057\u305F\uFF08\u601D\u3044\u3064\u3044\u305F\u306E\u3067\u8D77\u304D\u3060\u3057\u3066\u30E1\u30E2",
+  "id" : 967571380,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
+  "geo" : { },
+  "id_str" : "967571800",
+  "text" : "\u4ECA\u5EA6\u3053\u305D\u672C\u6C17\u3067\u304A\u3084\u3059\u307F\uFF01",
+  "id" : 967571800,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "968166503",
+  "text" : "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u4ECA\u65E5\u3082\u304C\u3093\u3070\u308D\u30FC\u3002",
+  "id" : 968166503,
+  "created_at" : "2008-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "966745313",
-  "text" : "2週間ぶりの月曜授業",
+  "text" : "2\u9031\u9593\u3076\u308A\u306E\u6708\u66DC\u6388\u696D",
   "id" : 966745313,
-  "created_at" : "Sun Oct 19 23:46:07 +0000 2008",
+  "created_at" : "2008-10-19 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ところてん",
-      "screen_name" : "tokoroten",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13602752",
-      "id" : 13602752
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "965098714",
-  "geo" : {
-  },
-  "id_str" : "965100981",
-  "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten 何かおごってもらうんですね",
-  "id" : 965100981,
-  "in_reply_to_status_id" : 965098714,
-  "created_at" : "Sat Oct 18 13:18:04 +0000 2008",
-  "in_reply_to_screen_name" : "tokoroten",
-  "in_reply_to_user_id_str" : "13602752",
+  "geo" : { },
+  "id_str" : "964732332",
+  "text" : "23.5\u304B\u30FB\u30FB\u30FB\u3002",
+  "id" : 964732332,
+  "created_at" : "2008-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ところてん",
-      "screen_name" : "tokoroten",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13602752",
-      "id" : 13602752
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "965091205",
-  "geo" : {
-  },
-  "id_str" : "965092859",
-  "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten 彼女だとさすがにイタズラするの可哀想だから、普通に「拾ったんですが」って送り返したげてｗ。",
-  "id" : 965092859,
-  "in_reply_to_status_id" : 965091205,
-  "created_at" : "Sat Oct 18 13:06:45 +0000 2008",
-  "in_reply_to_screen_name" : "tokoroten",
-  "in_reply_to_user_id_str" : "13602752",
+  "geo" : { },
+  "id_str" : "964971997",
+  "text" : "\u4ECA\u65E5\u306E\u5915\u98EF: \u934B http:\/\/f.hatena.ne.jp\/twitter\/20081018182914",
+  "id" : 964971997,
+  "created_at" : "2008-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "965025655",
+  "text" : "Virtual PC\u306E\u30BB\u30C3\u30C8\u30A2\u30C3\u30D7\u4E2D\u30FB\u30FB\u30FB\u3002",
+  "id" : 965025655,
+  "created_at" : "2008-10-18 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "965056534",
+  "text" : "\u3055\u3066\u3001\u6570\u5B66\u306E\u5BBF\u984C\u3084\u3063\u3066\u52A0\u7B46\u3057\u3088\u3002",
+  "id" : 965056534,
+  "created_at" : "2008-10-18 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "965072776",
+  "text" : "\u4E88\u60F3\u4EE5\u4E0A\u306BVirtual PC\u304C\u5FEB\u9069\u3067\u9A5A\u3044\u305F\u3002",
+  "id" : 965072776,
+  "created_at" : "2008-10-18 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ところてん",
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
       "screen_name" : "tokoroten",
       "indices" : [ 0, 10 ],
       "id_str" : "13602752",
@@ -4102,188 +4068,92 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "965079685",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "965081961",
   "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten 3. もらう",
+  "text" : "@tokoroten 3. \u3082\u3089\u3046",
   "id" : 965081961,
   "in_reply_to_status_id" : 965079685,
-  "created_at" : "Sat Oct 18 12:51:41 +0000 2008",
+  "created_at" : "2008-10-18 00:00:00 +0000",
   "in_reply_to_screen_name" : "tokoroten",
   "in_reply_to_user_id_str" : "13602752",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
+      "screen_name" : "tokoroten",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13602752",
+      "id" : 13602752
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "965072776",
-  "text" : "予想以上にVirtual PCが快適で驚いた。",
-  "id" : 965072776,
-  "created_at" : "Sat Oct 18 12:38:00 +0000 2008",
+  "in_reply_to_status_id_str" : "965091205",
+  "geo" : { },
+  "id_str" : "965092859",
+  "in_reply_to_user_id" : 13602752,
+  "text" : "@tokoroten \u5F7C\u5973\u3060\u3068\u3055\u3059\u304C\u306B\u30A4\u30BF\u30BA\u30E9\u3059\u308B\u306E\u53EF\u54C0\u60F3\u3060\u304B\u3089\u3001\u666E\u901A\u306B\u300C\u62FE\u3063\u305F\u3093\u3067\u3059\u304C\u300D\u3063\u3066\u9001\u308A\u8FD4\u3057\u305F\u3052\u3066\uFF57\u3002",
+  "id" : 965092859,
+  "in_reply_to_status_id" : 965091205,
+  "created_at" : "2008-10-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tokoroten",
+  "in_reply_to_user_id_str" : "13602752",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
+      "screen_name" : "tokoroten",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13602752",
+      "id" : 13602752
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "965056534",
-  "text" : "さて、数学の宿題やって加筆しよ。",
-  "id" : 965056534,
-  "created_at" : "Sat Oct 18 12:12:36 +0000 2008",
+  "in_reply_to_status_id_str" : "965098714",
+  "geo" : { },
+  "id_str" : "965100981",
+  "in_reply_to_user_id" : 13602752,
+  "text" : "@tokoroten \u4F55\u304B\u304A\u3054\u3063\u3066\u3082\u3089\u3046\u3093\u3067\u3059\u306D",
+  "id" : 965100981,
+  "in_reply_to_status_id" : 965098714,
+  "created_at" : "2008-10-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tokoroten",
+  "in_reply_to_user_id_str" : "13602752",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "965025655",
-  "text" : "Virtual PCのセットアップ中・・・。",
-  "id" : 965025655,
-  "created_at" : "Sat Oct 18 11:17:05 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "964971997",
-  "text" : "今日の夕飯: 鍋 http://f.hatena.ne.jp/twitter/20081018182914",
-  "id" : 964971997,
-  "created_at" : "Sat Oct 18 09:29:13 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "964732332",
-  "text" : "23.5か・・・。",
-  "id" : 964732332,
-  "created_at" : "Sat Oct 18 03:02:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "963760251",
-  "text" : "ちょっと部屋片付けるかー・・・。",
-  "id" : 963760251,
-  "created_at" : "Fri Oct 17 12:54:33 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "963703105",
-  "text" : "やっぱり普段よりはタイピング速度落ちてるなぁ。。",
-  "id" : 963703105,
-  "created_at" : "Fri Oct 17 11:54:41 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ultraviolet",
@@ -4297,50 +4167,70 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "963677506",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "963679107",
   "in_reply_to_user_id" : 4495161,
-  "text" : "@raurublock 49,800円が100円になるところもあるようでｗ。 http://www.kojima.net/netshop/netshopnews/ne016/index.htm",
+  "text" : "@raurublock 49,800\u5186\u304C100\u5186\u306B\u306A\u308B\u3068\u3053\u308D\u3082\u3042\u308B\u3088\u3046\u3067\uFF57\u3002 http:\/\/www.kojima.net\/netshop\/netshopnews\/ne016\/index.htm",
   "id" : 963679107,
   "in_reply_to_status_id" : 963677506,
-  "created_at" : "Fri Oct 17 11:24:12 +0000 2008",
+  "created_at" : "2008-10-17 00:00:00 +0000",
   "in_reply_to_screen_name" : "raurublock",
   "in_reply_to_user_id_str" : "4495161",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "963674822",
-  "text" : "今日のご飯何食べようかなー・・・。ご飯食べたら多分もっと元気が回復しそうだ。",
-  "id" : 963674822,
-  "created_at" : "Fri Oct 17 11:18:54 +0000 2008",
+  "geo" : { },
+  "id_str" : "963703105",
+  "text" : "\u3084\u3063\u3071\u308A\u666E\u6BB5\u3088\u308A\u306F\u30BF\u30A4\u30D4\u30F3\u30B0\u901F\u5EA6\u843D\u3061\u3066\u308B\u306A\u3041\u3002\u3002",
+  "id" : 963703105,
+  "created_at" : "2008-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "963760251",
+  "text" : "\u3061\u3087\u3063\u3068\u90E8\u5C4B\u7247\u4ED8\u3051\u308B\u304B\u30FC\u30FB\u30FB\u30FB\u3002",
+  "id" : 963760251,
+  "created_at" : "2008-10-17 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "talented statisticia",
@@ -4353,259 +4243,590 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "963672281",
-  "text" : "@t___s おかげさまでだいぶん楽になりましたねー。まだ喉痛いのとちょっと体を動かしづらいのがありますけど、それ以外はいたって平凡です、",
-  "id" : 963672281,
-  "created_at" : "Fri Oct 17 11:15:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "963639593",
-  "text" : "NS方程式を導いたストークスの原論文、確かデータで持ってたはずなのに、探しても見つからない。",
-  "id" : 963639593,
-  "created_at" : "Fri Oct 17 10:28:30 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "963624793",
-  "text" : "でもまた無理して寝込むのもアホらしいので、ほどほどにしておきます。",
-  "id" : 963624793,
-  "created_at" : "Fri Oct 17 10:05:50 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "963624434",
-  "text" : "あぁ、そういうわけでおはようございます（？）、結局5限目は出られませんでしたが、おかげで多少回復しました。",
-  "id" : 963624434,
-  "created_at" : "Fri Oct 17 10:05:21 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "talented statisticia",
-      "screen_name" : "T___S",
-      "indices" : [ 0, 6 ],
-      "id_str" : "163400308",
-      "id" : 163400308
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "963623031",
-  "text" : "@t___s ようこそハナキンへ！",
+  "text" : "@t___s \u3088\u3046\u3053\u305D\u30CF\u30CA\u30AD\u30F3\u3078\uFF01",
   "id" : 963623031,
-  "created_at" : "Fri Oct 17 10:03:18 +0000 2008",
+  "created_at" : "2008-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "963073102",
-  "text" : "とりあえずいってくるよー。",
-  "id" : 963073102,
-  "created_at" : "Thu Oct 16 23:23:27 +0000 2008",
+  "geo" : { },
+  "id_str" : "963624434",
+  "text" : "\u3042\u3041\u3001\u305D\u3046\u3044\u3046\u308F\u3051\u3067\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\uFF08\uFF1F\uFF09\u3001\u7D50\u5C405\u9650\u76EE\u306F\u51FA\u3089\u308C\u307E\u305B\u3093\u3067\u3057\u305F\u304C\u3001\u304A\u304B\u3052\u3067\u591A\u5C11\u56DE\u5FA9\u3057\u307E\u3057\u305F\u3002",
+  "id" : 963624434,
+  "created_at" : "2008-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "963072513",
-  "text" : "でもまぁ、とりあえず1・2限は頑張って出る。3・4限目は休講だし、5限目はー・・・まぁ、休むかもしれんｗ、",
-  "id" : 963072513,
-  "created_at" : "Thu Oct 16 23:22:52 +0000 2008",
+  "geo" : { },
+  "id_str" : "963624793",
+  "text" : "\u3067\u3082\u307E\u305F\u7121\u7406\u3057\u3066\u5BDD\u8FBC\u3080\u306E\u3082\u30A2\u30DB\u3089\u3057\u3044\u306E\u3067\u3001\u307B\u3069\u307B\u3069\u306B\u3057\u3066\u304A\u304D\u307E\u3059\u3002",
+  "id" : 963624793,
+  "created_at" : "2008-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "963071847",
-  "text" : "おはようございます。なんか風邪をぶり返したのか、体がえらいです。",
-  "id" : 963071847,
-  "created_at" : "Thu Oct 16 23:22:12 +0000 2008",
+  "geo" : { },
+  "id_str" : "963639593",
+  "text" : "NS\u65B9\u7A0B\u5F0F\u3092\u5C0E\u3044\u305F\u30B9\u30C8\u30FC\u30AF\u30B9\u306E\u539F\u8AD6\u6587\u3001\u78BA\u304B\u30C7\u30FC\u30BF\u3067\u6301\u3063\u3066\u305F\u306F\u305A\u306A\u306E\u306B\u3001\u63A2\u3057\u3066\u3082\u898B\u3064\u304B\u3089\u306A\u3044\u3002",
+  "id" : 963639593,
+  "created_at" : "2008-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "talented statisticia",
+      "screen_name" : "T___S",
+      "indices" : [ 0, 6 ],
+      "id_str" : "163400308",
+      "id" : 163400308
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "963672281",
+  "text" : "@t___s \u304A\u304B\u3052\u3055\u307E\u3067\u3060\u3044\u3076\u3093\u697D\u306B\u306A\u308A\u307E\u3057\u305F\u306D\u30FC\u3002\u307E\u3060\u5589\u75DB\u3044\u306E\u3068\u3061\u3087\u3063\u3068\u4F53\u3092\u52D5\u304B\u3057\u3065\u3089\u3044\u306E\u304C\u3042\u308A\u307E\u3059\u3051\u3069\u3001\u305D\u308C\u4EE5\u5916\u306F\u3044\u305F\u3063\u3066\u5E73\u51E1\u3067\u3059\u3001",
+  "id" : 963672281,
+  "created_at" : "2008-10-17 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962553726",
-  "text" : "今から毎月の生活費を1万円きりつめれば、春までには5万円は貯まる計算！これでライブ行ける！",
-  "id" : 962553726,
-  "created_at" : "Thu Oct 16 16:31:31 +0000 2008",
+  "geo" : { },
+  "id_str" : "963674822",
+  "text" : "\u4ECA\u65E5\u306E\u3054\u98EF\u4F55\u98DF\u3079\u3088\u3046\u304B\u306A\u30FC\u30FB\u30FB\u30FB\u3002\u3054\u98EF\u98DF\u3079\u305F\u3089\u591A\u5206\u3082\u3063\u3068\u5143\u6C17\u304C\u56DE\u5FA9\u3057\u305D\u3046\u3060\u3002",
+  "id" : 963674822,
+  "created_at" : "2008-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962548214",
-  "text" : "んでも、過去のライブ1回しか友達といったことないからよく分からない。6回もあるし、何回かは友達誘ってみるかなー・・・。",
-  "id" : 962548214,
-  "created_at" : "Thu Oct 16 16:27:07 +0000 2008",
+  "geo" : { },
+  "id_str" : "961972828",
+  "text" : "DID\u3092\u90FD\u5E02\u3068\u3057\u3066\u6349\u3048\u308B\u5834\u5408\u3001\u300C\u90FD\u5E02\u3068\u3057\u3066\u306E\u6A5F\u80FD\u300D\u306E\u90E8\u5206\u304C\u5B8C\u5168\u306B\u7121\u8996\u3055\u308C\u3066\u3044\u308B\u6C17\u304C\u3059\u308B\u3002",
+  "id" : 961972828,
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962545319",
-  "text" : "ちなみに、周囲にマッキーファンはいないので全部一人で行く予定。というか、コンサートって一人で行くもんだと思ってるけど、違うのかな？",
-  "id" : 962545319,
-  "created_at" : "Thu Oct 16 16:24:47 +0000 2008",
+  "geo" : { },
+  "id_str" : "961975110",
+  "text" : "\u5E30\u3063\u3066\u304D\u305F\u3089\u5BDD\u3088\u3046\u304B\u3068\u601D\u3063\u3066\u305F\u3051\u3069\u3001\u5148\u306B\u3046\u3061\u306EWindows\u30B5\u30FC\u30D0\u3067sendmail\u306E\u4EE3\u66FF\u624B\u6BB5\u304C\u306A\u3044\u304B\u8ABF\u3079\u3066\u307F\u308B\u3002",
+  "id" : 961975110,
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "961993359",
+  "text" : "\u3046\u30FC\u3093\u30FB\u30FB\u30FB\u3002\u3053\u308C\u306F\u4ED6\u306Bsendmail\u4F7F\u3048\u308B\u30B5\u30FC\u30D0\u501F\u308A\u305F\u307B\u3046\u304C\u65E9\u3044\u306A\u3002\u3002",
+  "id" : 961993359,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "961993688",
+  "text" : "\u3068\u3044\u3046\u304B\u3001\u3084\u3063\u3071\u308A\u81EA\u5206\u3067\u30B5\u30FC\u30D0\u7ACB\u3066\u305F\u307B\u3046\u304C\u90FD\u5408\u3088\u3055\u305D\u3046\u3060\uFF57\u3002",
+  "id" : 961993688,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962003632",
+  "text" : "\u30D5\u30A9\u30FC\u30E0\u306E\u8A66\u7528\u30C6\u30B9\u30C8\u306B\u4F7F\u3044\u305F\u3044\u3060\u3051\u306A\u3093\u3060\u3051\u3069\u306A\u3041\u30FB\u30FB\u30FB\u3002\u9762\u5012\u3060\u3002\u3002",
+  "id" : 962003632,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962020456",
+  "text" : "\u3068\u308A\u3042\u3048\u305A\u4F7F\u3048\u305D\u3046\u306A\u30B5\u30FC\u30D0\u3092\u501F\u308A\u305F\u3002\u305D\u3057\u3066\u7720\u304F\u306A\u3063\u3066\u304D\u305F\u306E\u3067\u5BDD\u308B\u3002",
+  "id" : 962020456,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
+      "screen_name" : "tokoroten",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13602752",
+      "id" : 13602752
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "962047951",
+  "geo" : { },
+  "id_str" : "962060494",
+  "in_reply_to_user_id" : 13602752,
+  "text" : "@tokoroten \u30AF\u30E9\u30B91\u3063\u3066\u78BA\u304B\u30AF\u30E9\u30B92\u306E\u534A\u5206\u3082\u51FA\u306A\u3044\u3063\u3066\u805E\u3044\u305F\u3053\u3068\u304C\u3042\u308B\u3093\u3067\u3001\u591A\u52060.5mW\u3088\u308A\u3082\u5C0F\u3055\u3044\u3093\u3058\u3083\u306A\u3044\u3067\u3059\u304B\uFF1F",
+  "id" : 962060494,
+  "in_reply_to_status_id" : 962047951,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tokoroten",
+  "in_reply_to_user_id_str" : "13602752",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962188813",
+  "text" : "@mel_mel \u30CD\u30AC\u30C6\u30A3\u30D6\u3082\u30DD\u30B8\u30C6\u30A3\u30D6\u3082\u3042\u3063\u305F\u307B\u3046\u304C\u89AA\u8FD1\u611F\u304C\u6CB8\u304D\u307E\u3059\u3088\uFF01\uFF08\u3047",
+  "id" : 962188813,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962191533",
+  "text" : "@mel_mel mel\u3055\u3093\u306E\u3064\u3076\u3084\u304D\u3092\u307F\u3066\u81EA\u5206\u3067\u3082\u8272\u3005\u8003\u3048\u305F\u308A\u3059\u308B\u3093\u3067\u3001\u3080\u3057\u308D\u30CD\u30AC\u30C6\u30A3\u30D6\u63A8\u5968\uFF42",
+  "id" : 962191533,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
+      "screen_name" : "tokoroten",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13602752",
+      "id" : 13602752
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "962099448",
+  "geo" : { },
+  "id_str" : "962194144",
+  "in_reply_to_user_id" : 13602752,
+  "text" : "@tokoroten \u81EA\u5206\u306E\u6301\u3063\u3066\u308B\u30DD\u30A4\u30F3\u30BF\u306F\u30AF\u30E9\u30B9II\u3067\u3059\u306D\u30FC\u3002\u3061\u306A\u307F\u306B\u3001\u4F55\u6545\u30B0\u30EA\u30FC\u30F3\u30DD\u30A4\u30F3\u30BF\u3092\u8CB7\u3046\u3064\u3082\u308A\u306B\uFF1F",
+  "id" : 962194144,
+  "in_reply_to_status_id" : 962099448,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tokoroten",
+  "in_reply_to_user_id_str" : "13602752",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962203556",
+  "text" : "\u610F\u5916\u306B\u52A0\u7B46\u30B3\u30F3\u306E\u7DE0\u3081\u5207\u308A\u306B\u9593\u306B\u5408\u308F\u306A\u3044\u3088\u3046\u306A\u6C17\u304C\u3057\u3066\u304D\u305F16\u65E5\u306E\u591C\u3002",
+  "id" : 962203556,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
+      "screen_name" : "tokoroten",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13602752",
+      "id" : 13602752
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "962205888",
+  "geo" : { },
+  "id_str" : "962208418",
+  "in_reply_to_user_id" : 13602752,
+  "text" : "@tokoroten \u3048\u30FC\u30FB\u30FB\u30FB\u306A\u3093\u304B\u7DD1\u306E\u307B\u3046\u304C\u8272\u7684\u306B\u304B\u3063\u3053\u60AA\u304F\u306A\u3044\u3067\u3059\u304B\u30FB\u30FB\u30FB\u3002",
+  "id" : 962208418,
+  "in_reply_to_status_id" : 962205888,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tokoroten",
+  "in_reply_to_user_id_str" : "13602752",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962269645",
+  "text" : "\u9244\u90E8\u5C4B\u3067\u9244\u306E\u8A71\u3092\u3055\u308C\u308B\u3068\u8A71\u984C\u306B\u3064\u3044\u3066\u3044\u3051\u306A\u3044\u4EBA\u304C\u4E00\u4EBA\uFF08\u81EA\u5206\uFF09\u3002",
+  "id" : 962269645,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
+      "screen_name" : "tokoroten",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13602752",
+      "id" : 13602752
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "962209889",
+  "geo" : { },
+  "id_str" : "962275808",
+  "in_reply_to_user_id" : 13602752,
+  "text" : "@tokoroten \u3042\u3041\u3001\u78BA\u304B\u7DD1\u306E\u30DD\u30A4\u30F3\u30BF\u306F\u8272\u76F2\u306E\u4EBA\u306B\u306F\u898B\u3048\u306B\u304F\u3044\u30FB\u30FB\u30FB\u3093\u3067\u3057\u305F\u3063\u3051\uFF1F",
+  "id" : 962275808,
+  "in_reply_to_status_id" : 962209889,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tokoroten",
+  "in_reply_to_user_id_str" : "13602752",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962401746",
+  "text" : "\u6700\u8FD1\u306EjawpML\u306F\u5E73\u548C\u3060\u30FB\u30FB\u30FB\u3002",
+  "id" : 962401746,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962524441",
+  "text" : "2\u6708\u306B\u5317\u6D77\u9053\u304B\u30FC\u30FB\u30FB\u30FB\u3002\u3059\u3054\u304F\u884C\u304D\u305F\u3044\u3051\u308C\u3069\u30014\u30FB5\u6708\u306B\u30DE\u30C3\u30AD\u30FC\u306E\u30E9\u30A4\u30D6\u304C\u3042\u308B\u3053\u3068\u3092\u8003\u3048\u308B\u3068\u60A9\u3080\u306A\u3041\u30FB\u30FB\u30FB\uFF08\u3082\u3061\u308D\u3093\u91D1\u92AD\u7684\u306B\u3002",
+  "id" : 962524441,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962525385",
+  "text" : "\u3068\u308A\u3042\u3048\u305A\u5927\u962A\u3068\u540D\u53E4\u5C4B\u306E\u516C\u6F14\u51686\u56DE\u306B\u884C\u304D\u305F\u3044\u3068\u601D\u3063\u3066\u308B\u3002\u304A\u91D1\u8CAF\u3081\u306A\u304D\u3083\u306A\uFF57\u3002",
+  "id" : 962525385,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "962529082",
+  "text" : "\u307E\u3041\u3001\u305D\u306E\u524D\u306B\u30AF\u30EA\u30B9\u30DE\u30B9\u306B\u3042\u308B\u30B3\u30F3\u30B5\u30FC\u30C8\uFF20\u6A2A\u6D5C\u304B\u306A\u3002\u307E\u3041\u3001\u3053\u308C\u306F\u30C1\u30B1\u30C3\u30C8\u53D6\u308C\u308B\u304B\u5206\u304B\u3089\u3093\u3051\u3069\u306D\u30FB\u30FB\u30FB\u3002",
+  "id" : 962529082,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tommy6",
@@ -4619,864 +4840,224 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "962313405",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "962542123",
   "in_reply_to_user_id" : 11020582,
-  "text" : "@Tommy6 鉄分ゼロってわけじゃないんですけどねー・・・。そんな興味あるわけでもないのです。",
+  "text" : "@Tommy6 \u9244\u5206\u30BC\u30ED\u3063\u3066\u308F\u3051\u3058\u3083\u306A\u3044\u3093\u3067\u3059\u3051\u3069\u306D\u30FC\u30FB\u30FB\u30FB\u3002\u305D\u3093\u306A\u8208\u5473\u3042\u308B\u308F\u3051\u3067\u3082\u306A\u3044\u306E\u3067\u3059\u3002",
   "id" : 962542123,
   "in_reply_to_status_id" : 962313405,
-  "created_at" : "Thu Oct 16 16:22:30 +0000 2008",
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "in_reply_to_screen_name" : "Tommy6",
   "in_reply_to_user_id_str" : "11020582",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962529082",
-  "text" : "まぁ、その前にクリスマスにあるコンサート＠横浜かな。まぁ、これはチケット取れるか分からんけどね・・・。",
-  "id" : 962529082,
-  "created_at" : "Thu Oct 16 16:13:18 +0000 2008",
+  "geo" : { },
+  "id_str" : "962545319",
+  "text" : "\u3061\u306A\u307F\u306B\u3001\u5468\u56F2\u306B\u30DE\u30C3\u30AD\u30FC\u30D5\u30A1\u30F3\u306F\u3044\u306A\u3044\u306E\u3067\u5168\u90E8\u4E00\u4EBA\u3067\u884C\u304F\u4E88\u5B9A\u3002\u3068\u3044\u3046\u304B\u3001\u30B3\u30F3\u30B5\u30FC\u30C8\u3063\u3066\u4E00\u4EBA\u3067\u884C\u304F\u3082\u3093\u3060\u3068\u601D\u3063\u3066\u308B\u3051\u3069\u3001\u9055\u3046\u306E\u304B\u306A\uFF1F",
+  "id" : 962545319,
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962525385",
-  "text" : "とりあえず大阪と名古屋の公演全6回に行きたいと思ってる。お金貯めなきゃなｗ。",
-  "id" : 962525385,
-  "created_at" : "Thu Oct 16 16:10:30 +0000 2008",
+  "geo" : { },
+  "id_str" : "962548214",
+  "text" : "\u3093\u3067\u3082\u3001\u904E\u53BB\u306E\u30E9\u30A4\u30D61\u56DE\u3057\u304B\u53CB\u9054\u3068\u3044\u3063\u305F\u3053\u3068\u306A\u3044\u304B\u3089\u3088\u304F\u5206\u304B\u3089\u306A\u3044\u30026\u56DE\u3082\u3042\u308B\u3057\u3001\u4F55\u56DE\u304B\u306F\u53CB\u9054\u8A98\u3063\u3066\u307F\u308B\u304B\u306A\u30FC\u30FB\u30FB\u30FB\u3002",
+  "id" : 962548214,
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962524441",
-  "text" : "2月に北海道かー・・・。すごく行きたいけれど、4・5月にマッキーのライブがあることを考えると悩むなぁ・・・（もちろん金銭的に。",
-  "id" : 962524441,
-  "created_at" : "Thu Oct 16 16:09:50 +0000 2008",
+  "geo" : { },
+  "id_str" : "962553726",
+  "text" : "\u4ECA\u304B\u3089\u6BCE\u6708\u306E\u751F\u6D3B\u8CBB\u30921\u4E07\u5186\u304D\u308A\u3064\u3081\u308C\u3070\u3001\u6625\u307E\u3067\u306B\u306F5\u4E07\u5186\u306F\u8CAF\u307E\u308B\u8A08\u7B97\uFF01\u3053\u308C\u3067\u30E9\u30A4\u30D6\u884C\u3051\u308B\uFF01",
+  "id" : 962553726,
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962401746",
-  "text" : "最近のjawpMLは平和だ・・・。",
-  "id" : 962401746,
-  "created_at" : "Thu Oct 16 14:38:10 +0000 2008",
+  "geo" : { },
+  "id_str" : "963071847",
+  "text" : "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u306A\u3093\u304B\u98A8\u90AA\u3092\u3076\u308A\u8FD4\u3057\u305F\u306E\u304B\u3001\u4F53\u304C\u3048\u3089\u3044\u3067\u3059\u3002",
+  "id" : 963071847,
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ところてん",
-      "screen_name" : "tokoroten",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13602752",
-      "id" : 13602752
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "962209889",
-  "geo" : {
-  },
-  "id_str" : "962275808",
-  "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten あぁ、確か緑のポインタは色盲の人には見えにくい・・・んでしたっけ？",
-  "id" : 962275808,
-  "in_reply_to_status_id" : 962209889,
-  "created_at" : "Thu Oct 16 12:59:15 +0000 2008",
-  "in_reply_to_screen_name" : "tokoroten",
-  "in_reply_to_user_id_str" : "13602752",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962269645",
-  "text" : "鉄部屋で鉄の話をされると話題についていけない人が一人（自分）。",
-  "id" : 962269645,
-  "created_at" : "Thu Oct 16 12:53:35 +0000 2008",
+  "geo" : { },
+  "id_str" : "963072513",
+  "text" : "\u3067\u3082\u307E\u3041\u3001\u3068\u308A\u3042\u3048\u305A1\u30FB2\u9650\u306F\u9811\u5F35\u3063\u3066\u51FA\u308B\u30023\u30FB4\u9650\u76EE\u306F\u4F11\u8B1B\u3060\u3057\u30015\u9650\u76EE\u306F\u30FC\u30FB\u30FB\u30FB\u307E\u3041\u3001\u4F11\u3080\u304B\u3082\u3057\u308C\u3093\uFF57\u3001",
+  "id" : 963072513,
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ところてん",
-      "screen_name" : "tokoroten",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13602752",
-      "id" : 13602752
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "962205888",
-  "geo" : {
-  },
-  "id_str" : "962208418",
-  "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten えー・・・なんか緑のほうが色的にかっこ悪くないですか・・・。",
-  "id" : 962208418,
-  "in_reply_to_status_id" : 962205888,
-  "created_at" : "Thu Oct 16 11:51:33 +0000 2008",
-  "in_reply_to_screen_name" : "tokoroten",
-  "in_reply_to_user_id_str" : "13602752",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962203556",
-  "text" : "意外に加筆コンの締め切りに間に合わないような気がしてきた16日の夜。",
-  "id" : 962203556,
-  "created_at" : "Thu Oct 16 11:46:11 +0000 2008",
+  "geo" : { },
+  "id_str" : "963073102",
+  "text" : "\u3068\u308A\u3042\u3048\u305A\u3044\u3063\u3066\u304F\u308B\u3088\u30FC\u3002",
+  "id" : 963073102,
+  "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ところてん",
-      "screen_name" : "tokoroten",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13602752",
-      "id" : 13602752
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "962099448",
-  "geo" : {
-  },
-  "id_str" : "962194144",
-  "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten 自分の持ってるポインタはクラスIIですねー。ちなみに、何故グリーンポインタを買うつもりに？",
-  "id" : 962194144,
-  "in_reply_to_status_id" : 962099448,
-  "created_at" : "Thu Oct 16 11:34:26 +0000 2008",
-  "in_reply_to_screen_name" : "tokoroten",
-  "in_reply_to_user_id_str" : "13602752",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "962191533",
-  "text" : "@mel_mel melさんのつぶやきをみて自分でも色々考えたりするんで、むしろネガティブ推奨ｂ",
-  "id" : 962191533,
-  "created_at" : "Thu Oct 16 11:31:07 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "962188813",
-  "text" : "@mel_mel ネガティブもポジティブもあったほうが親近感が沸きますよ！（ぇ",
-  "id" : 962188813,
-  "created_at" : "Thu Oct 16 11:27:29 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ところてん",
-      "screen_name" : "tokoroten",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13602752",
-      "id" : 13602752
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "962047951",
-  "geo" : {
-  },
-  "id_str" : "962060494",
-  "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten クラス1って確かクラス2の半分も出ないって聞いたことがあるんで、多分0.5mWよりも小さいんじゃないですか？",
-  "id" : 962060494,
-  "in_reply_to_status_id" : 962047951,
-  "created_at" : "Thu Oct 16 08:15:56 +0000 2008",
-  "in_reply_to_screen_name" : "tokoroten",
-  "in_reply_to_user_id_str" : "13602752",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962020456",
-  "text" : "とりあえず使えそうなサーバを借りた。そして眠くなってきたので寝る。",
-  "id" : 962020456,
-  "created_at" : "Thu Oct 16 07:14:52 +0000 2008",
+  "geo" : { },
+  "id_str" : "960479194",
+  "text" : "\u3046\u3061\u306E\u30B5\u30FC\u30D0\u3067sendmail\u3092\u5229\u7528\u3057\u3088\u3046\u3068\u601D\u3063\u305F\u3051\u3069\u3001\u3088\u304F\u8003\u3048\u305F\u3089Windows\u30B5\u30FC\u30D0\u306A\u306E\u306B\u4F7F\u3048\u308B\u306E\u304B\u306A\u30FB\u30FB\u30FB\u3002\u3067\u3082\u300C\u5229\u7528\u53EF\u80FD\u300D\u3063\u3066\u66F8\u3044\u3066\u3042\u308B\u3057\u306A\u3041\u3002\u3002",
+  "id" : 960479194,
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "962003632",
-  "text" : "フォームの試用テストに使いたいだけなんだけどなぁ・・・。面倒だ。。",
-  "id" : 962003632,
-  "created_at" : "Thu Oct 16 06:49:55 +0000 2008",
+  "geo" : { },
+  "id_str" : "960483618",
+  "text" : "\u3054\u98EF\uFF06\u30D1\u30BD\u30B3\u30F3\u30EA\u30D6\u30FC\u30C8",
+  "id" : 960483618,
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "961993688",
-  "text" : "というか、やっぱり自分でサーバ立てたほうが都合よさそうだｗ。",
-  "id" : 961993688,
-  "created_at" : "Thu Oct 16 06:35:23 +0000 2008",
+  "geo" : { },
+  "id_str" : "960547825",
+  "text" : "\u5473\u564C\u6C41\u4F5C\u3063\u305F\u3051\u3069\u3001\u5473\u564C\u304C\u8DB3\u308A\u306A\u304F\u3066\u5473\u304C\u8584\u304F\u306A\u3063\u305F\u30FB\u30FB\u30FB\u3002\u307E\u3041\u3001\u591A\u5206\u666E\u901A\u306E\u4EBA\uFF08\uFF1F\uFF09\u306F\u3053\u308C\u3050\u3089\u3044\u3067\u5341\u5206\u306A\u3093\u3060\u308D\u3046\u3051\u3069\u3001\u8D64\u51FA\u6C41\u3068\u3057\u3066\u306F\u00D7\u3060\u306A\u3002",
+  "id" : 960547825,
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "961993359",
-  "text" : "うーん・・・。これは他にsendmail使えるサーバ借りたほうが早いな。。",
-  "id" : 961993359,
-  "created_at" : "Thu Oct 16 06:34:55 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "961975110",
-  "text" : "帰ってきたら寝ようかと思ってたけど、先にうちのWindowsサーバでsendmailの代替手段がないか調べてみる。",
-  "id" : 961975110,
-  "created_at" : "Thu Oct 16 06:08:28 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "961972828",
-  "text" : "DIDを都市として捉える場合、「都市としての機能」の部分が完全に無視されている気がする。",
-  "id" : 961972828,
-  "created_at" : "Thu Oct 16 06:05:23 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "961372701",
-  "text" : "んじゃ、いってきますー。",
-  "id" : 961372701,
-  "created_at" : "Wed Oct 15 23:20:27 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "961367794",
-  "text" : "うーん・・・、なんかえらいお腹がすいてる感じがするんだけど、気のせいかな？",
-  "id" : 961367794,
-  "created_at" : "Wed Oct 15 23:16:19 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "961361928",
-  "text" : "とりあえず3限しかないし、頑張って起きてて帰ってきたら昼寝コースかな、これは。",
-  "id" : 961361928,
-  "created_at" : "Wed Oct 15 23:10:35 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "961360472",
-  "text" : "おはようございます。久しぶりに眠い朝です・・・。",
-  "id" : 961360472,
-  "created_at" : "Wed Oct 15 23:09:06 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960928925",
-  "text" : "さて、予定外に起きてしまってたので、さっさと寝る。明日は3限だから楽だ（今日は2限だったんですけどね。",
-  "id" : 960928925,
-  "created_at" : "Wed Oct 15 17:27:50 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960909167",
-  "text" : "あれ、DMになってなかったｗ。まぁいいや（ぇ",
-  "id" : 960909167,
-  "created_at" : "Wed Oct 15 17:13:26 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kazuhiro",
-      "screen_name" : "kzhr",
-      "indices" : [ 0, 5 ],
-      "id_str" : "11484132",
-      "id" : 11484132
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "960879030",
-  "geo" : {
-  },
-  "id_str" : "960901569",
-  "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr んー・・・まぁ確かにブロックしなきゃいけない理由が自分にもよく分かりませんが、それで覚悟（？）というか、精神的に何か違うのであればそういう手段も否定してはいけないのかな、と思います。",
-  "id" : 960901569,
-  "in_reply_to_status_id" : 960879030,
-  "created_at" : "Wed Oct 15 17:07:47 +0000 2008",
-  "in_reply_to_screen_name" : "kzhr",
-  "in_reply_to_user_id_str" : "11484132",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960892006",
-  "text" : "いや、あれだけの反対がある中で1賛成票の重みを考えたらむしろもっと重圧を感じるべきなのか・・・ｗ？",
-  "id" : 960892006,
-  "created_at" : "Wed Oct 15 17:01:03 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960889134",
-  "text" : "jawp：自分が管理者権限に対して楽な気持ちor姿勢でいるのは、反対票がある程度あったからだったのかもしれないなあ。",
-  "id" : 960889134,
-  "created_at" : "Wed Oct 15 16:59:05 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960863973",
-  "text" : "「ロジック的に正しいと確信しているものを、正しく伝えるところへの配慮不足」というものはこういうもんなんだろうなぁ・・・という事例だと思った。",
-  "id" : 960863973,
-  "created_at" : "Wed Oct 15 16:40:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960847291",
-  "text" : "さすがに歌を歌うのは無理か・・・。声がかれてる。",
-  "id" : 960847291,
-  "created_at" : "Wed Oct 15 16:29:36 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kei-Kei",
-      "screen_name" : "Kei_Kei",
-      "indices" : [ 0, 8 ],
-      "id_str" : "6529602",
-      "id" : 6529602
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "960708432",
-  "geo" : {
-  },
-  "id_str" : "960712239",
-  "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei 各務原のイオンにはキムチ専門店が3件ほどあります。",
-  "id" : 960712239,
-  "in_reply_to_status_id" : 960708432,
-  "created_at" : "Wed Oct 15 14:57:22 +0000 2008",
-  "in_reply_to_screen_name" : "Kei_Kei",
-  "in_reply_to_user_id_str" : "6529602",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960671991",
-  "text" : "問い合わせてみたら、やっぱりsendmailは使えないらしい。ということは、何か代替手段でsendmailを使うしかないのか・・・。",
-  "id" : 960671991,
-  "created_at" : "Wed Oct 15 14:29:54 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960570586",
-  "text" : "サワラのソテーwithバター醤油 http://f.hatena.ne.jp/twitter/20081015221511",
-  "id" : 960570586,
-  "created_at" : "Wed Oct 15 13:15:09 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960549083",
-  "text" : "ご飯炊けるまで待機。炊けたら鰆のソテーの予定。",
-  "id" : 960549083,
-  "created_at" : "Wed Oct 15 12:56:53 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "tosik",
@@ -5490,1147 +5071,92 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "960520841",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "960547876",
   "in_reply_to_user_id" : 3841051,
-  "text" : "@tosik やっぱりとろこん方式は使いやすいんですかねｗ。",
+  "text" : "@tosik \u3084\u3063\u3071\u308A\u3068\u308D\u3053\u3093\u65B9\u5F0F\u306F\u4F7F\u3044\u3084\u3059\u3044\u3093\u3067\u3059\u304B\u306D\uFF57\u3002",
   "id" : 960547876,
   "in_reply_to_status_id" : 960520841,
-  "created_at" : "Wed Oct 15 12:55:44 +0000 2008",
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "in_reply_to_screen_name" : "tosik",
   "in_reply_to_user_id_str" : "3841051",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "960547825",
-  "text" : "味噌汁作ったけど、味噌が足りなくて味が薄くなった・・・。まぁ、多分普通の人（？）はこれぐらいで十分なんだろうけど、赤出汁としては×だな。",
-  "id" : 960547825,
-  "created_at" : "Wed Oct 15 12:55:41 +0000 2008",
+  "geo" : { },
+  "id_str" : "960549083",
+  "text" : "\u3054\u98EF\u708A\u3051\u308B\u307E\u3067\u5F85\u6A5F\u3002\u708A\u3051\u305F\u3089\u9C06\u306E\u30BD\u30C6\u30FC\u306E\u4E88\u5B9A\u3002",
+  "id" : 960549083,
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "960483618",
-  "text" : "ご飯＆パソコンリブート",
-  "id" : 960483618,
-  "created_at" : "Wed Oct 15 11:53:27 +0000 2008",
+  "geo" : { },
+  "id_str" : "960570586",
+  "text" : "\u30B5\u30EF\u30E9\u306E\u30BD\u30C6\u30FCwith\u30D0\u30BF\u30FC\u91A4\u6CB9 http:\/\/f.hatena.ne.jp\/twitter\/20081015221511",
+  "id" : 960570586,
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "960479194",
-  "text" : "うちのサーバでsendmailを利用しようと思ったけど、よく考えたらWindowsサーバなのに使えるのかな・・・。でも「利用可能」って書いてあるしなぁ。。",
-  "id" : 960479194,
-  "created_at" : "Wed Oct 15 11:48:41 +0000 2008",
+  "geo" : { },
+  "id_str" : "960671991",
+  "text" : "\u554F\u3044\u5408\u308F\u305B\u3066\u307F\u305F\u3089\u3001\u3084\u3063\u3071\u308Asendmail\u306F\u4F7F\u3048\u306A\u3044\u3089\u3057\u3044\u3002\u3068\u3044\u3046\u3053\u3068\u306F\u3001\u4F55\u304B\u4EE3\u66FF\u624B\u6BB5\u3067sendmail\u3092\u4F7F\u3046\u3057\u304B\u306A\u3044\u306E\u304B\u30FB\u30FB\u30FB\u3002",
+  "id" : 960671991,
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960381236",
-  "text" : "「～すべき」という主張は、それをしたことによって必ず何かの見返りがあると期待しているとは限らない。",
-  "id" : 960381236,
-  "created_at" : "Wed Oct 15 09:34:29 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960380439",
-  "text" : "「～である」という主張は、「～であってほしくない」という期待を必ずしも含んでいるとは限らない。",
-  "id" : 960380439,
-  "created_at" : "Wed Oct 15 09:33:14 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "かぁーにぃー",
-      "screen_name" : "kaanee",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14487872",
-      "id" : 14487872
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "960376517",
-  "geo" : {
-  },
-  "id_str" : "960378523",
-  "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee 普通の人に月齢が何か大きく影響するってわけでもないので、なかなか話題にならないんじゃないですかね。",
-  "id" : 960378523,
-  "in_reply_to_status_id" : 960376517,
-  "created_at" : "Wed Oct 15 09:30:26 +0000 2008",
-  "in_reply_to_screen_name" : "kaanee",
-  "in_reply_to_user_id_str" : "14487872",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960371719",
-  "text" : "@mel_mel えらく深い意味のこもった\"it\"なんですねー。",
-  "id" : 960371719,
-  "created_at" : "Wed Oct 15 09:19:38 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960367657",
-  "text" : "@mel_mel itってなんですか・・・ｗ。",
-  "id" : 960367657,
-  "created_at" : "Wed Oct 15 09:13:20 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960367266",
-  "text" : "プリンタのカラー部分のインクがなくなってきた。買いに行かなきゃな。",
-  "id" : 960367266,
-  "created_at" : "Wed Oct 15 09:12:39 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "かぁーにぃー",
-      "screen_name" : "kaanee",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14487872",
-      "id" : 14487872
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "960025460",
-  "geo" : {
-  },
-  "id_str" : "960047702",
-  "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee ワンセグですかー・・・。あれってワンセグ対応のケイタイをもてない小さい子たち向けな気がしてるんですが、どうなんでしょうね？",
-  "id" : 960047702,
-  "in_reply_to_status_id" : 960025460,
-  "created_at" : "Wed Oct 15 02:52:44 +0000 2008",
-  "in_reply_to_screen_name" : "kaanee",
-  "in_reply_to_user_id_str" : "14487872",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960041657",
-  "text" : "まぁ、まだやってもいないからなんともいえないんだけどｗ。",
-  "id" : 960041657,
-  "created_at" : "Wed Oct 15 02:47:35 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960041343",
-  "text" : "んー・・・今改めてわくアニの内容見てみると、やっぱり最近の流れから変わってないな。。「物語」の部分が強すぎる気がする。",
-  "id" : 960041343,
-  "created_at" : "Wed Oct 15 02:47:20 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960018511",
-  "text" : "一応個人的メモ：牧場物語の『わくわくアニマルマーチ』(Wii)は10/30、『風のバザール』(DS)は12/28に発売。",
-  "id" : 960018511,
-  "created_at" : "Wed Oct 15 02:27:54 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "かぁーにぃー",
-      "screen_name" : "kaanee",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14487872",
-      "id" : 14487872
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "960013232",
-  "geo" : {
-  },
-  "id_str" : "960016943",
-  "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee あ、ちがった、12/28でしたｗ。",
-  "id" : 960016943,
-  "in_reply_to_status_id" : 960013232,
-  "created_at" : "Wed Oct 15 02:26:30 +0000 2008",
-  "in_reply_to_screen_name" : "kaanee",
-  "in_reply_to_user_id_str" : "14487872",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "かぁーにぃー",
-      "screen_name" : "kaanee",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14487872",
-      "id" : 14487872
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "960013232",
-  "geo" : {
-  },
-  "id_str" : "960016655",
-  "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee 30日にDSで新しい牧場物語が出るので、それに是非使ってくださいｗ。",
-  "id" : 960016655,
-  "in_reply_to_status_id" : 960013232,
-  "created_at" : "Wed Oct 15 02:26:14 +0000 2008",
-  "in_reply_to_screen_name" : "kaanee",
-  "in_reply_to_user_id_str" : "14487872",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "960014135",
-  "text" : "金田一の『雪影村』の話を何故すきなのか考えてみると、知り合って一時すごく仲が良かったけれど、ともすればもう一生接点はないだろうと思う人たちとの話だからだろうと思う。 How are they doing?",
-  "id" : 960014135,
-  "created_at" : "Wed Oct 15 02:23:59 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959999246",
-  "text" : "外を見ていたら、去年の研究室の先生にそっくりな人が歩いてたｗ。",
-  "id" : 959999246,
-  "created_at" : "Wed Oct 15 02:11:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 11, 19 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959997420",
-  "text" : "というようなことを、 @mel_mel のつぶやきを見てて考えた。もちろん、内容は個人的な話ですが。",
-  "id" : 959997420,
-  "created_at" : "Wed Oct 15 02:09:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959996015",
-  "text" : "何もなければ溶けてしまう絆なら、ただそこまでの絆であってそれ以上のものではなかったのだと気づくべきだ。",
-  "id" : 959996015,
-  "created_at" : "Wed Oct 15 02:08:33 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959995309",
-  "text" : "きっと私たちは離れるべきなんだろう。氷が溶けるように。",
-  "id" : 959995309,
-  "created_at" : "Wed Oct 15 02:07:57 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959987749",
-  "text" : "咳は出るけどタンももう出ないし大丈夫だな。今日は電磁気と論理学基礎論か。がんばろー。",
-  "id" : 959987749,
-  "created_at" : "Wed Oct 15 02:01:53 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959979999",
-  "text" : "昨日寝る間際にインストールかけていったOOo3がインストール完了してた。あんまり変わったって雰囲気はないけど、アイコンはやっぱり慣れないなー。",
-  "id" : 959979999,
-  "created_at" : "Wed Oct 15 01:55:17 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959978468",
-  "text" : "twitterは風邪をひいたり元気なくて大変な時には何の役にも立たない。そういう時こそ情報発信が必要な気がするんだけどなぁ・・・。",
-  "id" : 959978468,
-  "created_at" : "Wed Oct 15 01:53:59 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ところてん",
-      "screen_name" : "tokoroten",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13602752",
-      "id" : 13602752
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "959315554",
-  "geo" : {
-  },
-  "id_str" : "959976282",
-  "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten どこが卑猥なのかさっぱり分かりませんが、twit使ってお気に入りを見るっていうその方式です。",
-  "id" : 959976282,
-  "in_reply_to_status_id" : 959315554,
-  "created_at" : "Wed Oct 15 01:52:11 +0000 2008",
-  "in_reply_to_screen_name" : "tokoroten",
-  "in_reply_to_user_id_str" : "13602752",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959972594",
-  "text" : "起きた。今日は1,2限休講だったのが幸いしたかな。とりあえず体の調子は戻ったので3,4限目出るよ。",
-  "id" : 959972594,
-  "created_at" : "Wed Oct 15 01:49:09 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959169996",
-  "text" : "今のfollowingの人たちを眺めてると、何つながりでfollowした人だったか忘れた人が結構いる。",
-  "id" : 959169996,
-  "created_at" : "Tue Oct 14 15:20:11 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959168075",
-  "text" : "お味噌汁と納豆キムチご飯を食べた。明日は元気になって買い物いけるといいなぁ。。",
-  "id" : 959168075,
-  "created_at" : "Tue Oct 14 15:18:56 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959064556",
-  "text" : "タンが絡んでくるようになったからもう治りかけだとは思うんだけどなー・・・",
-  "id" : 959064556,
-  "created_at" : "Tue Oct 14 14:05:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959062436",
-  "text" : "とりあえずご飯食べて、でも寝すぎてこれ以上寝られない可能性があるので、そしたら加筆でもしようかなぁ。。",
-  "id" : 959062436,
-  "created_at" : "Tue Oct 14 14:03:52 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ところてん",
-      "screen_name" : "tokoroten",
-      "indices" : [ 18, 28 ],
-      "id_str" : "13602752",
-      "id" : 13602752
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959057832",
-  "text" : "TLが追いきれなくなってきたので、 @tokoroten 方式でいくことにした。",
-  "id" : 959057832,
-  "created_at" : "Tue Oct 14 14:00:32 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "959044772",
-  "text" : "お腹すいてきたのでもぞもぞ起きだしてきた。なんかバスケしてた夢をみてた。",
-  "id" : 959044772,
-  "created_at" : "Tue Oct 14 13:50:37 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "958466745",
-  "text" : "でもとりあえず返さなきゃいけないメールがあったので返しといた。そして寝る・・・。",
-  "id" : 958466745,
-  "created_at" : "Tue Oct 14 02:02:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "958404288",
-  "text" : "だめだ、やっぱり風邪で動けないので学校は今日は休む。",
-  "id" : 958404288,
-  "created_at" : "Tue Oct 14 01:03:58 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "957613178",
-  "text" : "喉痛いのもなんか治った気がする。ご飯の力は偉大だｗ。",
-  "id" : 957613178,
-  "created_at" : "Mon Oct 13 13:53:11 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "957609083",
-  "text" : "ご飯食べたら元気でた！！",
-  "id" : 957609083,
-  "created_at" : "Mon Oct 13 13:49:40 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "957323162",
-  "text" : "真剣に風邪をひいたっぽいです・・・orz",
-  "id" : 957323162,
-  "created_at" : "Mon Oct 13 07:02:00 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "956876334",
-  "text" : "@mel_mel おはようございますｗ（なんというタイミングｗｗ",
-  "id" : 956876334,
-  "created_at" : "Sun Oct 12 21:35:58 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "956875854",
-  "text" : "そういうわけで、おやすみなさい！",
-  "id" : 956875854,
-  "created_at" : "Sun Oct 12 21:35:28 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "956872125",
-  "text" : "微妙に寝てた。そして経過報告はとりあえずしっかり寝ておきてからにします。",
-  "id" : 956872125,
-  "created_at" : "Sun Oct 12 21:31:02 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "956214564",
-  "text" : "おみくじの「吉」には、\"good fortune\"と\"regular fortune\"の2つある。",
-  "id" : 956214564,
-  "created_at" : "Sun Oct 12 05:06:19 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "956202952",
-  "text" : "人が祈りをするのは、自分ではどうしようもない超越的な事象に対してであって、自分の願いや夢を神頼みするのはちょっと違う気がする。",
-  "id" : 956202952,
-  "created_at" : "Sun Oct 12 04:49:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955964741",
-  "text" : "おはようございます。準備してさっさとでかけますよ。",
-  "id" : 955964741,
-  "created_at" : "Sat Oct 11 23:49:40 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955544281",
-  "text" : "というわけで、おやすみ！",
-  "id" : 955544281,
-  "created_at" : "Sat Oct 11 15:42:56 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955544206",
-  "text" : "あー・・・シャワーは朝のほうがいいか。微妙に眠くなってきたし。",
-  "id" : 955544206,
-  "created_at" : "Sat Oct 11 15:42:51 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955543609",
-  "text" : "あ、そうそう。夕飯作りすぎた件、友人が「向かいの部屋の女の子におすそ分けして仲良くなるイベントを発生させるんだ！」とか言ってきたんですが「そんな物語みたいなことは起きないよ」って冷静に突っ込んでおきました。",
-  "id" : 955543609,
-  "created_at" : "Sat Oct 11 15:42:10 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -6643,51 +5169,1311 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "955537019",
-  "geo" : {
-  },
-  "id_str" : "955538629",
+  "in_reply_to_status_id_str" : "960708432",
+  "geo" : { },
+  "id_str" : "960712239",
   "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei 朝早いとかいっても、普通に9時ぐらいですけどね。休日にしては早起きしなきゃならんので大変です。",
-  "id" : 955538629,
-  "in_reply_to_status_id" : 955537019,
-  "created_at" : "Sat Oct 11 15:36:52 +0000 2008",
+  "text" : "@Kei_Kei \u5404\u52D9\u539F\u306E\u30A4\u30AA\u30F3\u306B\u306F\u30AD\u30E0\u30C1\u5C02\u9580\u5E97\u304C3\u4EF6\u307B\u3069\u3042\u308A\u307E\u3059\u3002",
+  "id" : 960712239,
+  "in_reply_to_status_id" : 960708432,
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "955534295",
-  "text" : "よく考えたら明日早起きだった！さっさとシャワー浴びて寝なきゃ！！",
-  "id" : 955534295,
-  "created_at" : "Sat Oct 11 15:32:29 +0000 2008",
+  "geo" : { },
+  "id_str" : "960847291",
+  "text" : "\u3055\u3059\u304C\u306B\u6B4C\u3092\u6B4C\u3046\u306E\u306F\u7121\u7406\u304B\u30FB\u30FB\u30FB\u3002\u58F0\u304C\u304B\u308C\u3066\u308B\u3002",
+  "id" : 960847291,
+  "created_at" : "2008-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960863973",
+  "text" : "\u300C\u30ED\u30B8\u30C3\u30AF\u7684\u306B\u6B63\u3057\u3044\u3068\u78BA\u4FE1\u3057\u3066\u3044\u308B\u3082\u306E\u3092\u3001\u6B63\u3057\u304F\u4F1D\u3048\u308B\u3068\u3053\u308D\u3078\u306E\u914D\u616E\u4E0D\u8DB3\u300D\u3068\u3044\u3046\u3082\u306E\u306F\u3053\u3046\u3044\u3046\u3082\u3093\u306A\u3093\u3060\u308D\u3046\u306A\u3041\u30FB\u30FB\u30FB\u3068\u3044\u3046\u4E8B\u4F8B\u3060\u3068\u601D\u3063\u305F\u3002",
+  "id" : 960863973,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960889134",
+  "text" : "jawp\uFF1A\u81EA\u5206\u304C\u7BA1\u7406\u8005\u6A29\u9650\u306B\u5BFE\u3057\u3066\u697D\u306A\u6C17\u6301\u3061or\u59FF\u52E2\u3067\u3044\u308B\u306E\u306F\u3001\u53CD\u5BFE\u7968\u304C\u3042\u308B\u7A0B\u5EA6\u3042\u3063\u305F\u304B\u3089\u3060\u3063\u305F\u306E\u304B\u3082\u3057\u308C\u306A\u3044\u306A\u3042\u3002",
+  "id" : 960889134,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960892006",
+  "text" : "\u3044\u3084\u3001\u3042\u308C\u3060\u3051\u306E\u53CD\u5BFE\u304C\u3042\u308B\u4E2D\u30671\u8CDB\u6210\u7968\u306E\u91CD\u307F\u3092\u8003\u3048\u305F\u3089\u3080\u3057\u308D\u3082\u3063\u3068\u91CD\u5727\u3092\u611F\u3058\u308B\u3079\u304D\u306A\u306E\u304B\u30FB\u30FB\u30FB\uFF57\uFF1F",
+  "id" : 960892006,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "kzhr",
+      "screen_name" : "kzhr",
+      "indices" : [ 0, 5 ],
+      "id_str" : "11484132",
+      "id" : 11484132
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "960879030",
+  "geo" : { },
+  "id_str" : "960901569",
+  "in_reply_to_user_id" : 11484132,
+  "text" : "@kzhr \u3093\u30FC\u30FB\u30FB\u30FB\u307E\u3041\u78BA\u304B\u306B\u30D6\u30ED\u30C3\u30AF\u3057\u306A\u304D\u3083\u3044\u3051\u306A\u3044\u7406\u7531\u304C\u81EA\u5206\u306B\u3082\u3088\u304F\u5206\u304B\u308A\u307E\u305B\u3093\u304C\u3001\u305D\u308C\u3067\u899A\u609F\uFF08\uFF1F\uFF09\u3068\u3044\u3046\u304B\u3001\u7CBE\u795E\u7684\u306B\u4F55\u304B\u9055\u3046\u306E\u3067\u3042\u308C\u3070\u305D\u3046\u3044\u3046\u624B\u6BB5\u3082\u5426\u5B9A\u3057\u3066\u306F\u3044\u3051\u306A\u3044\u306E\u304B\u306A\u3001\u3068\u601D\u3044\u307E\u3059\u3002",
+  "id" : 960901569,
+  "in_reply_to_status_id" : 960879030,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kzhr",
+  "in_reply_to_user_id_str" : "11484132",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960909167",
+  "text" : "\u3042\u308C\u3001DM\u306B\u306A\u3063\u3066\u306A\u304B\u3063\u305F\uFF57\u3002\u307E\u3041\u3044\u3044\u3084\uFF08\u3047",
+  "id" : 960909167,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960928925",
+  "text" : "\u3055\u3066\u3001\u4E88\u5B9A\u5916\u306B\u8D77\u304D\u3066\u3057\u307E\u3063\u3066\u305F\u306E\u3067\u3001\u3055\u3063\u3055\u3068\u5BDD\u308B\u3002\u660E\u65E5\u306F3\u9650\u3060\u304B\u3089\u697D\u3060\uFF08\u4ECA\u65E5\u306F2\u9650\u3060\u3063\u305F\u3093\u3067\u3059\u3051\u3069\u306D\u3002",
+  "id" : 960928925,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "961360472",
+  "text" : "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u4E45\u3057\u3076\u308A\u306B\u7720\u3044\u671D\u3067\u3059\u30FB\u30FB\u30FB\u3002",
+  "id" : 961360472,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "961361928",
+  "text" : "\u3068\u308A\u3042\u3048\u305A3\u9650\u3057\u304B\u306A\u3044\u3057\u3001\u9811\u5F35\u3063\u3066\u8D77\u304D\u3066\u3066\u5E30\u3063\u3066\u304D\u305F\u3089\u663C\u5BDD\u30B3\u30FC\u30B9\u304B\u306A\u3001\u3053\u308C\u306F\u3002",
+  "id" : 961361928,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "961367794",
+  "text" : "\u3046\u30FC\u3093\u30FB\u30FB\u30FB\u3001\u306A\u3093\u304B\u3048\u3089\u3044\u304A\u8179\u304C\u3059\u3044\u3066\u308B\u611F\u3058\u304C\u3059\u308B\u3093\u3060\u3051\u3069\u3001\u6C17\u306E\u305B\u3044\u304B\u306A\uFF1F",
+  "id" : 961367794,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "961372701",
+  "text" : "\u3093\u3058\u3083\u3001\u3044\u3063\u3066\u304D\u307E\u3059\u30FC\u3002",
+  "id" : 961372701,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959972594",
+  "text" : "\u8D77\u304D\u305F\u3002\u4ECA\u65E5\u306F1,2\u9650\u4F11\u8B1B\u3060\u3063\u305F\u306E\u304C\u5E78\u3044\u3057\u305F\u304B\u306A\u3002\u3068\u308A\u3042\u3048\u305A\u4F53\u306E\u8ABF\u5B50\u306F\u623B\u3063\u305F\u306E\u30673,4\u9650\u76EE\u51FA\u308B\u3088\u3002",
+  "id" : 959972594,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
+      "screen_name" : "tokoroten",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13602752",
+      "id" : 13602752
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "959315554",
+  "geo" : { },
+  "id_str" : "959976282",
+  "in_reply_to_user_id" : 13602752,
+  "text" : "@tokoroten \u3069\u3053\u304C\u5351\u7325\u306A\u306E\u304B\u3055\u3063\u3071\u308A\u5206\u304B\u308A\u307E\u305B\u3093\u304C\u3001twit\u4F7F\u3063\u3066\u304A\u6C17\u306B\u5165\u308A\u3092\u898B\u308B\u3063\u3066\u3044\u3046\u305D\u306E\u65B9\u5F0F\u3067\u3059\u3002",
+  "id" : 959976282,
+  "in_reply_to_status_id" : 959315554,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tokoroten",
+  "in_reply_to_user_id_str" : "13602752",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959978468",
+  "text" : "twitter\u306F\u98A8\u90AA\u3092\u3072\u3044\u305F\u308A\u5143\u6C17\u306A\u304F\u3066\u5927\u5909\u306A\u6642\u306B\u306F\u4F55\u306E\u5F79\u306B\u3082\u7ACB\u305F\u306A\u3044\u3002\u305D\u3046\u3044\u3046\u6642\u3053\u305D\u60C5\u5831\u767A\u4FE1\u304C\u5FC5\u8981\u306A\u6C17\u304C\u3059\u308B\u3093\u3060\u3051\u3069\u306A\u3041\u30FB\u30FB\u30FB\u3002",
+  "id" : 959978468,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959979999",
+  "text" : "\u6628\u65E5\u5BDD\u308B\u9593\u969B\u306B\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u304B\u3051\u3066\u3044\u3063\u305FOOo3\u304C\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u5B8C\u4E86\u3057\u3066\u305F\u3002\u3042\u3093\u307E\u308A\u5909\u308F\u3063\u305F\u3063\u3066\u96F0\u56F2\u6C17\u306F\u306A\u3044\u3051\u3069\u3001\u30A2\u30A4\u30B3\u30F3\u306F\u3084\u3063\u3071\u308A\u6163\u308C\u306A\u3044\u306A\u30FC\u3002",
+  "id" : 959979999,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959987749",
+  "text" : "\u54B3\u306F\u51FA\u308B\u3051\u3069\u30BF\u30F3\u3082\u3082\u3046\u51FA\u306A\u3044\u3057\u5927\u4E08\u592B\u3060\u306A\u3002\u4ECA\u65E5\u306F\u96FB\u78C1\u6C17\u3068\u8AD6\u7406\u5B66\u57FA\u790E\u8AD6\u304B\u3002\u304C\u3093\u3070\u308D\u30FC\u3002",
+  "id" : 959987749,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959995309",
+  "text" : "\u304D\u3063\u3068\u79C1\u305F\u3061\u306F\u96E2\u308C\u308B\u3079\u304D\u306A\u3093\u3060\u308D\u3046\u3002\u6C37\u304C\u6EB6\u3051\u308B\u3088\u3046\u306B\u3002",
+  "id" : 959995309,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959996015",
+  "text" : "\u4F55\u3082\u306A\u3051\u308C\u3070\u6EB6\u3051\u3066\u3057\u307E\u3046\u7D46\u306A\u3089\u3001\u305F\u3060\u305D\u3053\u307E\u3067\u306E\u7D46\u3067\u3042\u3063\u3066\u305D\u308C\u4EE5\u4E0A\u306E\u3082\u306E\u3067\u306F\u306A\u304B\u3063\u305F\u306E\u3060\u3068\u6C17\u3065\u304F\u3079\u304D\u3060\u3002",
+  "id" : 959996015,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 11, 19 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959997420",
+  "text" : "\u3068\u3044\u3046\u3088\u3046\u306A\u3053\u3068\u3092\u3001 @mel_mel \u306E\u3064\u3076\u3084\u304D\u3092\u898B\u3066\u3066\u8003\u3048\u305F\u3002\u3082\u3061\u308D\u3093\u3001\u5185\u5BB9\u306F\u500B\u4EBA\u7684\u306A\u8A71\u3067\u3059\u304C\u3002",
+  "id" : 959997420,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959999246",
+  "text" : "\u5916\u3092\u898B\u3066\u3044\u305F\u3089\u3001\u53BB\u5E74\u306E\u7814\u7A76\u5BA4\u306E\u5148\u751F\u306B\u305D\u3063\u304F\u308A\u306A\u4EBA\u304C\u6B69\u3044\u3066\u305F\uFF57\u3002",
+  "id" : 959999246,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960014135",
+  "text" : "\u91D1\u7530\u4E00\u306E\u300E\u96EA\u5F71\u6751\u300F\u306E\u8A71\u3092\u4F55\u6545\u3059\u304D\u306A\u306E\u304B\u8003\u3048\u3066\u307F\u308B\u3068\u3001\u77E5\u308A\u5408\u3063\u3066\u4E00\u6642\u3059\u3054\u304F\u4EF2\u304C\u826F\u304B\u3063\u305F\u3051\u308C\u3069\u3001\u3068\u3082\u3059\u308C\u3070\u3082\u3046\u4E00\u751F\u63A5\u70B9\u306F\u306A\u3044\u3060\u308D\u3046\u3068\u601D\u3046\u4EBA\u305F\u3061\u3068\u306E\u8A71\u3060\u304B\u3089\u3060\u308D\u3046\u3068\u601D\u3046\u3002 How are they doing?",
+  "id" : 960014135,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u304B\u3041\u30FC\u306B\u3043\u30FC",
+      "screen_name" : "kaanee",
+      "indices" : [ 0, 7 ],
+      "id_str" : "14487872",
+      "id" : 14487872
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "960013232",
+  "geo" : { },
+  "id_str" : "960016655",
+  "in_reply_to_user_id" : 14487872,
+  "text" : "@kaanee 30\u65E5\u306BDS\u3067\u65B0\u3057\u3044\u7267\u5834\u7269\u8A9E\u304C\u51FA\u308B\u306E\u3067\u3001\u305D\u308C\u306B\u662F\u975E\u4F7F\u3063\u3066\u304F\u3060\u3055\u3044\uFF57\u3002",
+  "id" : 960016655,
+  "in_reply_to_status_id" : 960013232,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kaanee",
+  "in_reply_to_user_id_str" : "14487872",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u304B\u3041\u30FC\u306B\u3043\u30FC",
+      "screen_name" : "kaanee",
+      "indices" : [ 0, 7 ],
+      "id_str" : "14487872",
+      "id" : 14487872
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "960013232",
+  "geo" : { },
+  "id_str" : "960016943",
+  "in_reply_to_user_id" : 14487872,
+  "text" : "@kaanee \u3042\u3001\u3061\u304C\u3063\u305F\u300112\/28\u3067\u3057\u305F\uFF57\u3002",
+  "id" : 960016943,
+  "in_reply_to_status_id" : 960013232,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kaanee",
+  "in_reply_to_user_id_str" : "14487872",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960018511",
+  "text" : "\u4E00\u5FDC\u500B\u4EBA\u7684\u30E1\u30E2\uFF1A\u7267\u5834\u7269\u8A9E\u306E\u300E\u308F\u304F\u308F\u304F\u30A2\u30CB\u30DE\u30EB\u30DE\u30FC\u30C1\u300F(Wii)\u306F10\/30\u3001\u300E\u98A8\u306E\u30D0\u30B6\u30FC\u30EB\u300F(DS)\u306F12\/28\u306B\u767A\u58F2\u3002",
+  "id" : 960018511,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960041343",
+  "text" : "\u3093\u30FC\u30FB\u30FB\u30FB\u4ECA\u6539\u3081\u3066\u308F\u304F\u30A2\u30CB\u306E\u5185\u5BB9\u898B\u3066\u307F\u308B\u3068\u3001\u3084\u3063\u3071\u308A\u6700\u8FD1\u306E\u6D41\u308C\u304B\u3089\u5909\u308F\u3063\u3066\u306A\u3044\u306A\u3002\u3002\u300C\u7269\u8A9E\u300D\u306E\u90E8\u5206\u304C\u5F37\u3059\u304E\u308B\u6C17\u304C\u3059\u308B\u3002",
+  "id" : 960041343,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960041657",
+  "text" : "\u307E\u3041\u3001\u307E\u3060\u3084\u3063\u3066\u3082\u3044\u306A\u3044\u304B\u3089\u306A\u3093\u3068\u3082\u3044\u3048\u306A\u3044\u3093\u3060\u3051\u3069\uFF57\u3002",
+  "id" : 960041657,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u304B\u3041\u30FC\u306B\u3043\u30FC",
+      "screen_name" : "kaanee",
+      "indices" : [ 0, 7 ],
+      "id_str" : "14487872",
+      "id" : 14487872
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "960025460",
+  "geo" : { },
+  "id_str" : "960047702",
+  "in_reply_to_user_id" : 14487872,
+  "text" : "@kaanee \u30EF\u30F3\u30BB\u30B0\u3067\u3059\u304B\u30FC\u30FB\u30FB\u30FB\u3002\u3042\u308C\u3063\u3066\u30EF\u30F3\u30BB\u30B0\u5BFE\u5FDC\u306E\u30B1\u30A4\u30BF\u30A4\u3092\u3082\u3066\u306A\u3044\u5C0F\u3055\u3044\u5B50\u305F\u3061\u5411\u3051\u306A\u6C17\u304C\u3057\u3066\u308B\u3093\u3067\u3059\u304C\u3001\u3069\u3046\u306A\u3093\u3067\u3057\u3087\u3046\u306D\uFF1F",
+  "id" : 960047702,
+  "in_reply_to_status_id" : 960025460,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kaanee",
+  "in_reply_to_user_id_str" : "14487872",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960367266",
+  "text" : "\u30D7\u30EA\u30F3\u30BF\u306E\u30AB\u30E9\u30FC\u90E8\u5206\u306E\u30A4\u30F3\u30AF\u304C\u306A\u304F\u306A\u3063\u3066\u304D\u305F\u3002\u8CB7\u3044\u306B\u884C\u304B\u306A\u304D\u3083\u306A\u3002",
+  "id" : 960367266,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960367657",
+  "text" : "@mel_mel it\u3063\u3066\u306A\u3093\u3067\u3059\u304B\u30FB\u30FB\u30FB\uFF57\u3002",
+  "id" : 960367657,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960371719",
+  "text" : "@mel_mel \u3048\u3089\u304F\u6DF1\u3044\u610F\u5473\u306E\u3053\u3082\u3063\u305F\"it\"\u306A\u3093\u3067\u3059\u306D\u30FC\u3002",
+  "id" : 960371719,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u304B\u3041\u30FC\u306B\u3043\u30FC",
+      "screen_name" : "kaanee",
+      "indices" : [ 0, 7 ],
+      "id_str" : "14487872",
+      "id" : 14487872
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "960376517",
+  "geo" : { },
+  "id_str" : "960378523",
+  "in_reply_to_user_id" : 14487872,
+  "text" : "@kaanee \u666E\u901A\u306E\u4EBA\u306B\u6708\u9F62\u304C\u4F55\u304B\u5927\u304D\u304F\u5F71\u97FF\u3059\u308B\u3063\u3066\u308F\u3051\u3067\u3082\u306A\u3044\u306E\u3067\u3001\u306A\u304B\u306A\u304B\u8A71\u984C\u306B\u306A\u3089\u306A\u3044\u3093\u3058\u3083\u306A\u3044\u3067\u3059\u304B\u306D\u3002",
+  "id" : 960378523,
+  "in_reply_to_status_id" : 960376517,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kaanee",
+  "in_reply_to_user_id_str" : "14487872",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960380439",
+  "text" : "\u300C\uFF5E\u3067\u3042\u308B\u300D\u3068\u3044\u3046\u4E3B\u5F35\u306F\u3001\u300C\uFF5E\u3067\u3042\u3063\u3066\u307B\u3057\u304F\u306A\u3044\u300D\u3068\u3044\u3046\u671F\u5F85\u3092\u5FC5\u305A\u3057\u3082\u542B\u3093\u3067\u3044\u308B\u3068\u306F\u9650\u3089\u306A\u3044\u3002",
+  "id" : 960380439,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "960381236",
+  "text" : "\u300C\uFF5E\u3059\u3079\u304D\u300D\u3068\u3044\u3046\u4E3B\u5F35\u306F\u3001\u305D\u308C\u3092\u3057\u305F\u3053\u3068\u306B\u3088\u3063\u3066\u5FC5\u305A\u4F55\u304B\u306E\u898B\u8FD4\u308A\u304C\u3042\u308B\u3068\u671F\u5F85\u3057\u3066\u3044\u308B\u3068\u306F\u9650\u3089\u306A\u3044\u3002",
+  "id" : 960381236,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "958404288",
+  "text" : "\u3060\u3081\u3060\u3001\u3084\u3063\u3071\u308A\u98A8\u90AA\u3067\u52D5\u3051\u306A\u3044\u306E\u3067\u5B66\u6821\u306F\u4ECA\u65E5\u306F\u4F11\u3080\u3002",
+  "id" : 958404288,
+  "created_at" : "2008-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "958466745",
+  "text" : "\u3067\u3082\u3068\u308A\u3042\u3048\u305A\u8FD4\u3055\u306A\u304D\u3083\u3044\u3051\u306A\u3044\u30E1\u30FC\u30EB\u304C\u3042\u3063\u305F\u306E\u3067\u8FD4\u3057\u3068\u3044\u305F\u3002\u305D\u3057\u3066\u5BDD\u308B\u30FB\u30FB\u30FB\u3002",
+  "id" : 958466745,
+  "created_at" : "2008-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959044772",
+  "text" : "\u304A\u8179\u3059\u3044\u3066\u304D\u305F\u306E\u3067\u3082\u305E\u3082\u305E\u8D77\u304D\u3060\u3057\u3066\u304D\u305F\u3002\u306A\u3093\u304B\u30D0\u30B9\u30B1\u3057\u3066\u305F\u5922\u3092\u307F\u3066\u305F\u3002",
+  "id" : 959044772,
+  "created_at" : "2008-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
+      "screen_name" : "tokoroten",
+      "indices" : [ 18, 28 ],
+      "id_str" : "13602752",
+      "id" : 13602752
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959057832",
+  "text" : "TL\u304C\u8FFD\u3044\u304D\u308C\u306A\u304F\u306A\u3063\u3066\u304D\u305F\u306E\u3067\u3001 @tokoroten \u65B9\u5F0F\u3067\u3044\u304F\u3053\u3068\u306B\u3057\u305F\u3002",
+  "id" : 959057832,
+  "created_at" : "2008-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959062436",
+  "text" : "\u3068\u308A\u3042\u3048\u305A\u3054\u98EF\u98DF\u3079\u3066\u3001\u3067\u3082\u5BDD\u3059\u304E\u3066\u3053\u308C\u4EE5\u4E0A\u5BDD\u3089\u308C\u306A\u3044\u53EF\u80FD\u6027\u304C\u3042\u308B\u306E\u3067\u3001\u305D\u3057\u305F\u3089\u52A0\u7B46\u3067\u3082\u3057\u3088\u3046\u304B\u306A\u3041\u3002\u3002",
+  "id" : 959062436,
+  "created_at" : "2008-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959064556",
+  "text" : "\u30BF\u30F3\u304C\u7D61\u3093\u3067\u304F\u308B\u3088\u3046\u306B\u306A\u3063\u305F\u304B\u3089\u3082\u3046\u6CBB\u308A\u304B\u3051\u3060\u3068\u306F\u601D\u3046\u3093\u3060\u3051\u3069\u306A\u30FC\u30FB\u30FB\u30FB",
+  "id" : 959064556,
+  "created_at" : "2008-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959168075",
+  "text" : "\u304A\u5473\u564C\u6C41\u3068\u7D0D\u8C46\u30AD\u30E0\u30C1\u3054\u98EF\u3092\u98DF\u3079\u305F\u3002\u660E\u65E5\u306F\u5143\u6C17\u306B\u306A\u3063\u3066\u8CB7\u3044\u7269\u3044\u3051\u308B\u3068\u3044\u3044\u306A\u3041\u3002\u3002",
+  "id" : 959168075,
+  "created_at" : "2008-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "959169996",
+  "text" : "\u4ECA\u306Efollowing\u306E\u4EBA\u305F\u3061\u3092\u773A\u3081\u3066\u308B\u3068\u3001\u4F55\u3064\u306A\u304C\u308A\u3067follow\u3057\u305F\u4EBA\u3060\u3063\u305F\u304B\u5FD8\u308C\u305F\u4EBA\u304C\u7D50\u69CB\u3044\u308B\u3002",
+  "id" : 959169996,
+  "created_at" : "2008-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "957323162",
+  "text" : "\u771F\u5263\u306B\u98A8\u90AA\u3092\u3072\u3044\u305F\u3063\u307D\u3044\u3067\u3059\u30FB\u30FB\u30FBorz",
+  "id" : 957323162,
+  "created_at" : "2008-10-13 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "957609083",
+  "text" : "\u3054\u98EF\u98DF\u3079\u305F\u3089\u5143\u6C17\u3067\u305F\uFF01\uFF01",
+  "id" : 957609083,
+  "created_at" : "2008-10-13 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "957613178",
+  "text" : "\u5589\u75DB\u3044\u306E\u3082\u306A\u3093\u304B\u6CBB\u3063\u305F\u6C17\u304C\u3059\u308B\u3002\u3054\u98EF\u306E\u529B\u306F\u5049\u5927\u3060\uFF57\u3002",
+  "id" : 957613178,
+  "created_at" : "2008-10-13 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "956202952",
+  "text" : "\u4EBA\u304C\u7948\u308A\u3092\u3059\u308B\u306E\u306F\u3001\u81EA\u5206\u3067\u306F\u3069\u3046\u3057\u3088\u3046\u3082\u306A\u3044\u8D85\u8D8A\u7684\u306A\u4E8B\u8C61\u306B\u5BFE\u3057\u3066\u3067\u3042\u3063\u3066\u3001\u81EA\u5206\u306E\u9858\u3044\u3084\u5922\u3092\u795E\u983C\u307F\u3059\u308B\u306E\u306F\u3061\u3087\u3063\u3068\u9055\u3046\u6C17\u304C\u3059\u308B\u3002",
+  "id" : 956202952,
+  "created_at" : "2008-10-12 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "956214564",
+  "text" : "\u304A\u307F\u304F\u3058\u306E\u300C\u5409\u300D\u306B\u306F\u3001\"good fortune\"\u3068\"regular fortune\"\u306E2\u3064\u3042\u308B\u3002",
+  "id" : 956214564,
+  "created_at" : "2008-10-12 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "956872125",
+  "text" : "\u5FAE\u5999\u306B\u5BDD\u3066\u305F\u3002\u305D\u3057\u3066\u7D4C\u904E\u5831\u544A\u306F\u3068\u308A\u3042\u3048\u305A\u3057\u3063\u304B\u308A\u5BDD\u3066\u304A\u304D\u3066\u304B\u3089\u306B\u3057\u307E\u3059\u3002",
+  "id" : 956872125,
+  "created_at" : "2008-10-12 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "956875854",
+  "text" : "\u305D\u3046\u3044\u3046\u308F\u3051\u3067\u3001\u304A\u3084\u3059\u307F\u306A\u3055\u3044\uFF01",
+  "id" : 956875854,
+  "created_at" : "2008-10-12 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "956876334",
+  "text" : "@mel_mel \u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\uFF57\uFF08\u306A\u3093\u3068\u3044\u3046\u30BF\u30A4\u30DF\u30F3\u30B0\uFF57\uFF57",
+  "id" : 956876334,
+  "created_at" : "2008-10-12 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955419084",
+  "text" : "\u4F5C\u308A\u3059\u304E\u305F\u30FB\u30FB\u30FB\u3002\u82E6\u3057\u3044\uFF57\u3002\u98DF\u3079\u304D\u308C\u306A\u3044\uFF57\uFF57\u3002",
+  "id" : 955419084,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955433799",
+  "text" : "\u4EAC\u90FD\u5927\u306F25\u4F4D\u304B\u30FB\u30FB\u30FB\u3002 http:\/\/tinyurl.com\/3q5c2l",
+  "id" : 955433799,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955434531",
+  "text" : "\u6771\u4EAC\u5927\u306F\"University of Tokyo\"\u306A\u306E\u304B\u3002\u4EAC\u90FD\u5927\u306F\"Kyoto University\"\u3060\u3051\u3069\u3002",
+  "id" : 955434531,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955436717",
+  "text" : "\"Technology\"\u306E\u30B9\u30B3\u30A2\u3060\u3068\u3001\u4EAC\u90FD\u3068\u3088\u308A\u6771\u5DE5\u306E\u307B\u3046\u304C\u308F\u305A\u304B\u306B\u4E0A\u306A\u306E\u304B\u30FC\u3002",
+  "id" : 955436717,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955450583",
+  "text" : "\u3055\u3066\u3001\u304A\u8179\u306E\u82E6\u3057\u3055\u3082\u5C11\u3057\u89E3\u6D88\u3055\u308C\u305F\u306E\u3067\u5F8C\u7247\u4ED8\u3051\u3057\u3066\u304F\u308B\u3002",
+  "id" : 955450583,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "takashi ota",
@@ -6701,763 +6487,653 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "955475074",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "955533889",
   "in_reply_to_user_id" : 1759801,
-  "text" : "@takot 何か違いがあるんでしょうかね・・・？＜大学の英名",
+  "text" : "@takot \u4F55\u304B\u9055\u3044\u304C\u3042\u308B\u3093\u3067\u3057\u3087\u3046\u304B\u306D\u30FB\u30FB\u30FB\uFF1F\uFF1C\u5927\u5B66\u306E\u82F1\u540D",
   "id" : 955533889,
   "in_reply_to_status_id" : 955475074,
-  "created_at" : "Sat Oct 11 15:32:05 +0000 2008",
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "in_reply_to_screen_name" : "takot",
   "in_reply_to_user_id_str" : "1759801",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "955450583",
-  "text" : "さて、お腹の苦しさも少し解消されたので後片付けしてくる。",
-  "id" : 955450583,
-  "created_at" : "Sat Oct 11 13:56:40 +0000 2008",
+  "geo" : { },
+  "id_str" : "955534295",
+  "text" : "\u3088\u304F\u8003\u3048\u305F\u3089\u660E\u65E5\u65E9\u8D77\u304D\u3060\u3063\u305F\uFF01\u3055\u3063\u3055\u3068\u30B7\u30E3\u30EF\u30FC\u6D74\u3073\u3066\u5BDD\u306A\u304D\u3083\uFF01\uFF01",
+  "id" : 955534295,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Kei-Kei",
+      "screen_name" : "Kei_Kei",
+      "indices" : [ 0, 8 ],
+      "id_str" : "6529602",
+      "id" : 6529602
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "955436717",
-  "text" : "\"Technology\"のスコアだと、京都とより東工のほうがわずかに上なのかー。",
-  "id" : 955436717,
-  "created_at" : "Sat Oct 11 13:38:20 +0000 2008",
+  "in_reply_to_status_id_str" : "955537019",
+  "geo" : { },
+  "id_str" : "955538629",
+  "in_reply_to_user_id" : 6529602,
+  "text" : "@Kei_Kei \u671D\u65E9\u3044\u3068\u304B\u3044\u3063\u3066\u3082\u3001\u666E\u901A\u306B9\u6642\u3050\u3089\u3044\u3067\u3059\u3051\u3069\u306D\u3002\u4F11\u65E5\u306B\u3057\u3066\u306F\u65E9\u8D77\u304D\u3057\u306A\u304D\u3083\u306A\u3089\u3093\u306E\u3067\u5927\u5909\u3067\u3059\u3002",
+  "id" : 955538629,
+  "in_reply_to_status_id" : 955537019,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Kei_Kei",
+  "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "955434531",
-  "text" : "東京大は\"University of Tokyo\"なのか。京都大は\"Kyoto University\"だけど。",
-  "id" : 955434531,
-  "created_at" : "Sat Oct 11 13:35:22 +0000 2008",
+  "geo" : { },
+  "id_str" : "955543609",
+  "text" : "\u3042\u3001\u305D\u3046\u305D\u3046\u3002\u5915\u98EF\u4F5C\u308A\u3059\u304E\u305F\u4EF6\u3001\u53CB\u4EBA\u304C\u300C\u5411\u304B\u3044\u306E\u90E8\u5C4B\u306E\u5973\u306E\u5B50\u306B\u304A\u3059\u305D\u5206\u3051\u3057\u3066\u4EF2\u826F\u304F\u306A\u308B\u30A4\u30D9\u30F3\u30C8\u3092\u767A\u751F\u3055\u305B\u308B\u3093\u3060\uFF01\u300D\u3068\u304B\u8A00\u3063\u3066\u304D\u305F\u3093\u3067\u3059\u304C\u300C\u305D\u3093\u306A\u7269\u8A9E\u307F\u305F\u3044\u306A\u3053\u3068\u306F\u8D77\u304D\u306A\u3044\u3088\u300D\u3063\u3066\u51B7\u9759\u306B\u7A81\u3063\u8FBC\u3093\u3067\u304A\u304D\u307E\u3057\u305F\u3002",
+  "id" : 955543609,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "955433799",
-  "text" : "京都大は25位か・・・。 http://tinyurl.com/3q5c2l",
-  "id" : 955433799,
-  "created_at" : "Sat Oct 11 13:34:27 +0000 2008",
+  "geo" : { },
+  "id_str" : "955544206",
+  "text" : "\u3042\u30FC\u30FB\u30FB\u30FB\u30B7\u30E3\u30EF\u30FC\u306F\u671D\u306E\u307B\u3046\u304C\u3044\u3044\u304B\u3002\u5FAE\u5999\u306B\u7720\u304F\u306A\u3063\u3066\u304D\u305F\u3057\u3002",
+  "id" : 955544206,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "955419084",
-  "text" : "作りすぎた・・・。苦しいｗ。食べきれないｗｗ。",
-  "id" : 955419084,
-  "created_at" : "Sat Oct 11 13:14:30 +0000 2008",
+  "geo" : { },
+  "id_str" : "955544281",
+  "text" : "\u3068\u3044\u3046\u308F\u3051\u3067\u3001\u304A\u3084\u3059\u307F\uFF01",
+  "id" : 955544281,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "955398172",
-  "text" : "今日のご飯。なんだかんだで豪華になりましたｗ。 http://f.hatena.ne.jp/twitter/20081011214326",
-  "id" : 955398172,
-  "created_at" : "Sat Oct 11 12:43:24 +0000 2008",
+  "geo" : { },
+  "id_str" : "955964741",
+  "text" : "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u6E96\u5099\u3057\u3066\u3055\u3063\u3055\u3068\u3067\u304B\u3051\u307E\u3059\u3088\u3002",
+  "id" : 955964741,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "955369195",
-  "text" : "プレーンオムレツを作るのに牛乳とケチャップがないことに気づいたのでコンビにに買いにいってくる。",
-  "id" : 955369195,
-  "created_at" : "Sat Oct 11 11:54:24 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955355412",
-  "text" : "ご飯炊けたー。食べよ食べよ。",
-  "id" : 955355412,
-  "created_at" : "Sat Oct 11 11:28:09 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955345616",
-  "text" : "うー、お腹すいた。けどまだご飯炊けない。。",
-  "id" : 955345616,
-  "created_at" : "Sat Oct 11 11:08:10 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955318128",
-  "text" : "って、最近ニュースを見るたびに「jawpで性急編集増えるだろうなぁ・・・」とか思ってしまうのはどうなんだろうｗ。",
-  "id" : 955318128,
-  "created_at" : "Sat Oct 11 10:10:47 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955317957",
-  "text" : "うわぁ、三浦和義さん自殺ですか・・・。これはまたjawpが・・・",
-  "id" : 955317957,
-  "created_at" : "Sat Oct 11 10:10:21 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955314986",
-  "text" : "ただいま。普通に味噌汁用具材と魚のソテー用の調味料だけ買ってきた。",
-  "id" : 955314986,
-  "created_at" : "Sat Oct 11 10:04:05 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955304354",
-  "text" : "「おたちよりください」が「あたちよりださい」に見えた。",
-  "id" : 955304354,
-  "created_at" : "Sat Oct 11 09:42:26 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955296802",
-  "text" : "買い物いくとかいいつつなんだかんだで行けてないので、意を決していくことにする。",
-  "id" : 955296802,
-  "created_at" : "Sat Oct 11 09:26:20 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955248139",
-  "text" : "よし、意を決して（？）買い物行こう。",
-  "id" : 955248139,
-  "created_at" : "Sat Oct 11 07:41:02 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "955220228",
-  "text" : "ちょっとゲームにしすぎてた。買い物行こうと思うけれども、眠くて動くのがえらい（ぇ",
-  "id" : 955220228,
-  "created_at" : "Sat Oct 11 06:44:49 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "954982526",
-  "text" : "さて、Wiiやるか。",
-  "id" : 954982526,
-  "created_at" : "Sat Oct 11 01:23:13 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "954978458",
-  "text" : "jawp：MLが平和でいいなぁ・・・ｗ。",
-  "id" : 954978458,
-  "created_at" : "Sat Oct 11 01:18:47 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "954976932",
-  "text" : "うちは母親が一応近畿圏（三重県）出身なので、そういう傾向があるのかもしれない。",
-  "id" : 954976932,
-  "created_at" : "Sat Oct 11 01:17:08 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "954976527",
-  "text" : "自分も以前、話の中に親とか妹が出てくることが多いって言われたことがあるけど、それって単に仲がいいだけじゃないかと思った。偏見かもしれないけれど、関東の人より関西の人のほうが家族とのつながりを大切にするんじゃないのかなぁ。。",
-  "id" : 954976527,
-  "created_at" : "Sat Oct 11 01:16:39 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "954975407",
-  "text" : "一昨日のYahoo!ライブトークで思うこと。「関西人の話の中では『おかん』の話が多くて、関東人に驚かれる」って話について。",
-  "id" : 954975407,
-  "created_at" : "Sat Oct 11 01:15:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "954971100",
-  "text" : "おはよう、そしてメールのSMTP問題が解決した！やっぱり向こうの設定ミスでポート587が開いてなかったらしい。これでようやく普通に使えるー。",
+  "text" : "\u304A\u306F\u3088\u3046\u3001\u305D\u3057\u3066\u30E1\u30FC\u30EB\u306ESMTP\u554F\u984C\u304C\u89E3\u6C7A\u3057\u305F\uFF01\u3084\u3063\u3071\u308A\u5411\u3053\u3046\u306E\u8A2D\u5B9A\u30DF\u30B9\u3067\u30DD\u30FC\u30C8587\u304C\u958B\u3044\u3066\u306A\u304B\u3063\u305F\u3089\u3057\u3044\u3002\u3053\u308C\u3067\u3088\u3046\u3084\u304F\u666E\u901A\u306B\u4F7F\u3048\u308B\u30FC\u3002",
   "id" : 954971100,
-  "created_at" : "Sat Oct 11 01:10:09 +0000 2008",
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954220894",
-  "text" : "まぁ、とりあえずディスプレイ置く机を片付けるのがめんどうなので、ベッドでごろごろしながら漫画でも読んで休む。",
-  "id" : 954220894,
-  "created_at" : "Fri Oct 10 14:31:06 +0000 2008",
+  "geo" : { },
+  "id_str" : "954975407",
+  "text" : "\u4E00\u6628\u65E5\u306EYahoo!\u30E9\u30A4\u30D6\u30C8\u30FC\u30AF\u3067\u601D\u3046\u3053\u3068\u3002\u300C\u95A2\u897F\u4EBA\u306E\u8A71\u306E\u4E2D\u3067\u306F\u300E\u304A\u304B\u3093\u300F\u306E\u8A71\u304C\u591A\u304F\u3066\u3001\u95A2\u6771\u4EBA\u306B\u9A5A\u304B\u308C\u308B\u300D\u3063\u3066\u8A71\u306B\u3064\u3044\u3066\u3002",
+  "id" : 954975407,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954214903",
-  "text" : "ってか、なんか堅いメール（？）って、自分の所属書くのがマナーなんじゃないの？とか思うんですが、自分がずれてるんですかね。",
-  "id" : 954214903,
-  "created_at" : "Fri Oct 10 14:26:42 +0000 2008",
+  "geo" : { },
+  "id_str" : "954976527",
+  "text" : "\u81EA\u5206\u3082\u4EE5\u524D\u3001\u8A71\u306E\u4E2D\u306B\u89AA\u3068\u304B\u59B9\u304C\u51FA\u3066\u304F\u308B\u3053\u3068\u304C\u591A\u3044\u3063\u3066\u8A00\u308F\u308C\u305F\u3053\u3068\u304C\u3042\u308B\u3051\u3069\u3001\u305D\u308C\u3063\u3066\u5358\u306B\u4EF2\u304C\u3044\u3044\u3060\u3051\u3058\u3083\u306A\u3044\u304B\u3068\u601D\u3063\u305F\u3002\u504F\u898B\u304B\u3082\u3057\u308C\u306A\u3044\u3051\u308C\u3069\u3001\u95A2\u6771\u306E\u4EBA\u3088\u308A\u95A2\u897F\u306E\u4EBA\u306E\u307B\u3046\u304C\u5BB6\u65CF\u3068\u306E\u3064\u306A\u304C\u308A\u3092\u5927\u5207\u306B\u3059\u308B\u3093\u3058\u3083\u306A\u3044\u306E\u304B\u306A\u3041\u3002\u3002",
+  "id" : 954976527,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954214155",
-  "text" : "メルアド変更お知らせメールに、大学名とかの所属を書いたら「自慢に聞こえる」とか言われた・・・。そんなつもりないんですけどねぇ。。",
-  "id" : 954214155,
-  "created_at" : "Fri Oct 10 14:26:08 +0000 2008",
+  "geo" : { },
+  "id_str" : "954976932",
+  "text" : "\u3046\u3061\u306F\u6BCD\u89AA\u304C\u4E00\u5FDC\u8FD1\u757F\u570F\uFF08\u4E09\u91CD\u770C\uFF09\u51FA\u8EAB\u306A\u306E\u3067\u3001\u305D\u3046\u3044\u3046\u50BE\u5411\u304C\u3042\u308B\u306E\u304B\u3082\u3057\u308C\u306A\u3044\u3002",
+  "id" : 954976932,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954124435",
-  "text" : "ご飯を冷凍してたと思ってたけどなかったので、ウインナー2パックで今日のご飯にする。明日は買い物いくので豪華になるかも！",
-  "id" : 954124435,
-  "created_at" : "Fri Oct 10 13:16:52 +0000 2008",
+  "geo" : { },
+  "id_str" : "954978458",
+  "text" : "jawp\uFF1AML\u304C\u5E73\u548C\u3067\u3044\u3044\u306A\u3041\u30FB\u30FB\u30FB\uFF57\u3002",
+  "id" : 954978458,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954118430",
-  "text" : "とりあえずご飯食べてWiiでもやろ！",
-  "id" : 954118430,
-  "created_at" : "Fri Oct 10 13:11:23 +0000 2008",
+  "geo" : { },
+  "id_str" : "954982526",
+  "text" : "\u3055\u3066\u3001Wii\u3084\u308B\u304B\u3002",
+  "id" : 954982526,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954096801",
-  "text" : "jawp：[[阪神タイガース]]とか[[メークドラマ]]の記事が荒れるなぁ・・・。これで中日が日本一になった日には・・・・・。",
-  "id" : 954096801,
-  "created_at" : "Fri Oct 10 12:51:30 +0000 2008",
+  "geo" : { },
+  "id_str" : "955220228",
+  "text" : "\u3061\u3087\u3063\u3068\u30B2\u30FC\u30E0\u306B\u3057\u3059\u304E\u3066\u305F\u3002\u8CB7\u3044\u7269\u884C\u3053\u3046\u3068\u601D\u3046\u3051\u308C\u3069\u3082\u3001\u7720\u304F\u3066\u52D5\u304F\u306E\u304C\u3048\u3089\u3044\uFF08\u3047",
+  "id" : 955220228,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954083151",
-  "text" : "普通にゲームでもする？",
-  "id" : 954083151,
-  "created_at" : "Fri Oct 10 12:38:07 +0000 2008",
+  "geo" : { },
+  "id_str" : "955248139",
+  "text" : "\u3088\u3057\u3001\u610F\u3092\u6C7A\u3057\u3066\uFF08\uFF1F\uFF09\u8CB7\u3044\u7269\u884C\u3053\u3046\u3002",
+  "id" : 955248139,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954083028",
-  "text" : "三連休直前の金曜日という日にこんな時間に寝るのはもったいないんだけれど、加筆する気力もない場合何をしたらいいだろう？",
-  "id" : 954083028,
-  "created_at" : "Fri Oct 10 12:38:01 +0000 2008",
+  "geo" : { },
+  "id_str" : "955296802",
+  "text" : "\u8CB7\u3044\u7269\u3044\u304F\u3068\u304B\u3044\u3044\u3064\u3064\u306A\u3093\u3060\u304B\u3093\u3060\u3067\u884C\u3051\u3066\u306A\u3044\u306E\u3067\u3001\u610F\u3092\u6C7A\u3057\u3066\u3044\u304F\u3053\u3068\u306B\u3059\u308B\u3002",
+  "id" : 955296802,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954049064",
-  "text" : "なんか鼻がムズムズするなぁって思って鼻かんだら、なんか黒い破片が出てきたｗ。なにこれｗｗ。",
-  "id" : 954049064,
-  "created_at" : "Fri Oct 10 12:01:29 +0000 2008",
+  "geo" : { },
+  "id_str" : "955304354",
+  "text" : "\u300C\u304A\u305F\u3061\u3088\u308A\u304F\u3060\u3055\u3044\u300D\u304C\u300C\u3042\u305F\u3061\u3088\u308A\u3060\u3055\u3044\u300D\u306B\u898B\u3048\u305F\u3002",
+  "id" : 955304354,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "954038121",
-  "text" : "メルアド変更のお知らせを送ると、その対応が大変だ！（うれしい悲鳴",
-  "id" : 954038121,
-  "created_at" : "Fri Oct 10 11:48:13 +0000 2008",
+  "geo" : { },
+  "id_str" : "955314986",
+  "text" : "\u305F\u3060\u3044\u307E\u3002\u666E\u901A\u306B\u5473\u564C\u6C41\u7528\u5177\u6750\u3068\u9B5A\u306E\u30BD\u30C6\u30FC\u7528\u306E\u8ABF\u5473\u6599\u3060\u3051\u8CB7\u3063\u3066\u304D\u305F\u3002",
+  "id" : 955314986,
+  "created_at" : "2008-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955317957",
+  "text" : "\u3046\u308F\u3041\u3001\u4E09\u6D66\u548C\u7FA9\u3055\u3093\u81EA\u6BBA\u3067\u3059\u304B\u30FB\u30FB\u30FB\u3002\u3053\u308C\u306F\u307E\u305Fjawp\u304C\u30FB\u30FB\u30FB",
+  "id" : 955317957,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955318128",
+  "text" : "\u3063\u3066\u3001\u6700\u8FD1\u30CB\u30E5\u30FC\u30B9\u3092\u898B\u308B\u305F\u3073\u306B\u300Cjawp\u3067\u6027\u6025\u7DE8\u96C6\u5897\u3048\u308B\u3060\u308D\u3046\u306A\u3041\u30FB\u30FB\u30FB\u300D\u3068\u304B\u601D\u3063\u3066\u3057\u307E\u3046\u306E\u306F\u3069\u3046\u306A\u3093\u3060\u308D\u3046\uFF57\u3002",
+  "id" : 955318128,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955345616",
+  "text" : "\u3046\u30FC\u3001\u304A\u8179\u3059\u3044\u305F\u3002\u3051\u3069\u307E\u3060\u3054\u98EF\u708A\u3051\u306A\u3044\u3002\u3002",
+  "id" : 955345616,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955355412",
+  "text" : "\u3054\u98EF\u708A\u3051\u305F\u30FC\u3002\u98DF\u3079\u3088\u98DF\u3079\u3088\u3002",
+  "id" : 955355412,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955369195",
+  "text" : "\u30D7\u30EC\u30FC\u30F3\u30AA\u30E0\u30EC\u30C4\u3092\u4F5C\u308B\u306E\u306B\u725B\u4E73\u3068\u30B1\u30C1\u30E3\u30C3\u30D7\u304C\u306A\u3044\u3053\u3068\u306B\u6C17\u3065\u3044\u305F\u306E\u3067\u30B3\u30F3\u30D3\u306B\u306B\u8CB7\u3044\u306B\u3044\u3063\u3066\u304F\u308B\u3002",
+  "id" : 955369195,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "955398172",
+  "text" : "\u4ECA\u65E5\u306E\u3054\u98EF\u3002\u306A\u3093\u3060\u304B\u3093\u3060\u3067\u8C6A\u83EF\u306B\u306A\u308A\u307E\u3057\u305F\uFF57\u3002 http:\/\/f.hatena.ne.jp\/twitter\/20081011214326",
+  "id" : 955398172,
+  "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "953701213",
+  "text" : "\u73FE\u5728\u306E\u90FD\u5E02\u306F\u3001\u751F\u6D3B\u7A7A\u9593\u306E\u91CD\u5C64\u6027\u3092\u5931\u3063\u3066\u3044\u308B\u3002",
+  "id" : 953701213,
+  "created_at" : "2008-10-10 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "953954644",
+  "text" : "\u305F\u3060\u3044\u307E\u3002",
+  "id" : 953954644,
+  "created_at" : "2008-10-10 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "953985603",
+  "text" : "\u304A\u3001\u3044\u307E\u3055\u3089\u6C17\u4ED8\u3044\u305F\u3051\u308C\u3069older\u5236\u9650\u89E3\u9664\u3055\u308C\u305F\u306E\u304B\u3002",
+  "id" : 953985603,
+  "created_at" : "2008-10-10 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "953987503",
+  "text" : "\u3068\u601D\u3063\u305F\u3051\u3069\u3001\u52D8\u9055\u3044\u3060\u3063\u305F\u3002",
+  "id" : 953987503,
+  "created_at" : "2008-10-10 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "953988449",
+  "text" : "\u3061\u3087\u3063\u3068\u30B1\u30A4\u30BF\u30A4\u306E\u30E1\u30EB\u30A2\u30C9\u5909\u3048\u3088\u3046\u3002",
+  "id" : 953988449,
+  "created_at" : "2008-10-10 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -7471,521 +7147,246 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "954028070",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "954035088",
   "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei 蚊が飛ぶってどんな暖かさですかｗ。",
+  "text" : "@Kei_Kei \u868A\u304C\u98DB\u3076\u3063\u3066\u3069\u3093\u306A\u6696\u304B\u3055\u3067\u3059\u304B\uFF57\u3002",
   "id" : 954035088,
   "in_reply_to_status_id" : 954028070,
-  "created_at" : "Fri Oct 10 11:44:34 +0000 2008",
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "953988449",
-  "text" : "ちょっとケイタイのメルアド変えよう。",
-  "id" : 953988449,
-  "created_at" : "Fri Oct 10 10:37:47 +0000 2008",
+  "geo" : { },
+  "id_str" : "954038121",
+  "text" : "\u30E1\u30EB\u30A2\u30C9\u5909\u66F4\u306E\u304A\u77E5\u3089\u305B\u3092\u9001\u308B\u3068\u3001\u305D\u306E\u5BFE\u5FDC\u304C\u5927\u5909\u3060\uFF01\uFF08\u3046\u308C\u3057\u3044\u60B2\u9CF4",
+  "id" : 954038121,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "953987503",
-  "text" : "と思ったけど、勘違いだった。",
-  "id" : 953987503,
-  "created_at" : "Fri Oct 10 10:36:25 +0000 2008",
+  "geo" : { },
+  "id_str" : "954049064",
+  "text" : "\u306A\u3093\u304B\u9F3B\u304C\u30E0\u30BA\u30E0\u30BA\u3059\u308B\u306A\u3041\u3063\u3066\u601D\u3063\u3066\u9F3B\u304B\u3093\u3060\u3089\u3001\u306A\u3093\u304B\u9ED2\u3044\u7834\u7247\u304C\u51FA\u3066\u304D\u305F\uFF57\u3002\u306A\u306B\u3053\u308C\uFF57\uFF57\u3002",
+  "id" : 954049064,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "953985603",
-  "text" : "お、いまさら気付いたけれどolder制限解除されたのか。",
-  "id" : 953985603,
-  "created_at" : "Fri Oct 10 10:33:48 +0000 2008",
+  "geo" : { },
+  "id_str" : "954083028",
+  "text" : "\u4E09\u9023\u4F11\u76F4\u524D\u306E\u91D1\u66DC\u65E5\u3068\u3044\u3046\u65E5\u306B\u3053\u3093\u306A\u6642\u9593\u306B\u5BDD\u308B\u306E\u306F\u3082\u3063\u305F\u3044\u306A\u3044\u3093\u3060\u3051\u308C\u3069\u3001\u52A0\u7B46\u3059\u308B\u6C17\u529B\u3082\u306A\u3044\u5834\u5408\u4F55\u3092\u3057\u305F\u3089\u3044\u3044\u3060\u308D\u3046\uFF1F",
+  "id" : 954083028,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "953954644",
-  "text" : "ただいま。",
-  "id" : 953954644,
-  "created_at" : "Fri Oct 10 09:44:42 +0000 2008",
+  "geo" : { },
+  "id_str" : "954083151",
+  "text" : "\u666E\u901A\u306B\u30B2\u30FC\u30E0\u3067\u3082\u3059\u308B\uFF1F",
+  "id" : 954083151,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "953701213",
-  "text" : "現在の都市は、生活空間の重層性を失っている。",
-  "id" : 953701213,
-  "created_at" : "Fri Oct 10 03:37:55 +0000 2008",
+  "geo" : { },
+  "id_str" : "954096801",
+  "text" : "jawp\uFF1A[[\u962A\u795E\u30BF\u30A4\u30AC\u30FC\u30B9]]\u3068\u304B[[\u30E1\u30FC\u30AF\u30C9\u30E9\u30DE]]\u306E\u8A18\u4E8B\u304C\u8352\u308C\u308B\u306A\u3041\u30FB\u30FB\u30FB\u3002\u3053\u308C\u3067\u4E2D\u65E5\u304C\u65E5\u672C\u4E00\u306B\u306A\u3063\u305F\u65E5\u306B\u306F\u30FB\u30FB\u30FB\u30FB\u30FB\u3002",
+  "id" : 954096801,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "952904889",
-  "text" : "とりあえず眠くてちょっと頭が働いてないので明日！おやすみ！",
-  "id" : 952904889,
-  "created_at" : "Thu Oct 09 16:08:08 +0000 2008",
+  "geo" : { },
+  "id_str" : "954118430",
+  "text" : "\u3068\u308A\u3042\u3048\u305A\u3054\u98EF\u98DF\u3079\u3066Wii\u3067\u3082\u3084\u308D\uFF01",
+  "id" : 954118430,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "952904623",
-  "text" : "あれ、でもよく考えたら、等流を1つの独立記事にするには量が少ないから・・・って開水路にまとめたはず？",
-  "id" : 952904623,
-  "created_at" : "Thu Oct 09 16:07:55 +0000 2008",
+  "geo" : { },
+  "id_str" : "954124435",
+  "text" : "\u3054\u98EF\u3092\u51B7\u51CD\u3057\u3066\u305F\u3068\u601D\u3063\u3066\u305F\u3051\u3069\u306A\u304B\u3063\u305F\u306E\u3067\u3001\u30A6\u30A4\u30F3\u30CA\u30FC2\u30D1\u30C3\u30AF\u3067\u4ECA\u65E5\u306E\u3054\u98EF\u306B\u3059\u308B\u3002\u660E\u65E5\u306F\u8CB7\u3044\u7269\u3044\u304F\u306E\u3067\u8C6A\u83EF\u306B\u306A\u308B\u304B\u3082\uFF01",
+  "id" : 954124435,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "952903781",
-  "text" : "記事メモ：「等流」というものが、開水路にどうかかわってくるかが問題で、等流がどういうものかを読者は求めてない。",
-  "id" : 952903781,
-  "created_at" : "Thu Oct 09 16:07:21 +0000 2008",
+  "geo" : { },
+  "id_str" : "954214155",
+  "text" : "\u30E1\u30EB\u30A2\u30C9\u5909\u66F4\u304A\u77E5\u3089\u305B\u30E1\u30FC\u30EB\u306B\u3001\u5927\u5B66\u540D\u3068\u304B\u306E\u6240\u5C5E\u3092\u66F8\u3044\u305F\u3089\u300C\u81EA\u6162\u306B\u805E\u3053\u3048\u308B\u300D\u3068\u304B\u8A00\u308F\u308C\u305F\u30FB\u30FB\u30FB\u3002\u305D\u3093\u306A\u3064\u3082\u308A\u306A\u3044\u3093\u3067\u3059\u3051\u3069\u306D\u3047\u3002\u3002",
+  "id" : 954214155,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "952850235",
-  "text" : "enwpの\"Open channel flow\"（開水路流れ）が、\"Manning formula\"（マニング式）へのリダイレクトになってる・・・。なんだこれ。。",
-  "id" : 952850235,
-  "created_at" : "Thu Oct 09 15:29:25 +0000 2008",
+  "geo" : { },
+  "id_str" : "954214903",
+  "text" : "\u3063\u3066\u304B\u3001\u306A\u3093\u304B\u5805\u3044\u30E1\u30FC\u30EB\uFF08\uFF1F\uFF09\u3063\u3066\u3001\u81EA\u5206\u306E\u6240\u5C5E\u66F8\u304F\u306E\u304C\u30DE\u30CA\u30FC\u306A\u3093\u3058\u3083\u306A\u3044\u306E\uFF1F\u3068\u304B\u601D\u3046\u3093\u3067\u3059\u304C\u3001\u81EA\u5206\u304C\u305A\u308C\u3066\u308B\u3093\u3067\u3059\u304B\u306D\u3002",
+  "id" : 954214903,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "952681185",
-  "text" : "いやー、面白かったｗ。",
-  "id" : 952681185,
-  "created_at" : "Thu Oct 09 13:22:25 +0000 2008",
+  "geo" : { },
+  "id_str" : "954220894",
+  "text" : "\u307E\u3041\u3001\u3068\u308A\u3042\u3048\u305A\u30C7\u30A3\u30B9\u30D7\u30EC\u30A4\u7F6E\u304F\u673A\u3092\u7247\u4ED8\u3051\u308B\u306E\u304C\u3081\u3093\u3069\u3046\u306A\u306E\u3067\u3001\u30D9\u30C3\u30C9\u3067\u3054\u308D\u3054\u308D\u3057\u306A\u304C\u3089\u6F2B\u753B\u3067\u3082\u8AAD\u3093\u3067\u4F11\u3080\u3002",
+  "id" : 954220894,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952669910",
-  "text" : "マッキー、またcELEBRATIONやらないのかなぁ。。",
-  "id" : 952669910,
-  "created_at" : "Thu Oct 09 13:12:45 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952663560",
-  "text" : "延長だｗ",
-  "id" : 952663560,
-  "created_at" : "Thu Oct 09 13:06:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952636557",
-  "text" : "「槇原敬之＝男版ユーミン」って否定できないよなー・・・、確かに。",
-  "id" : 952636557,
-  "created_at" : "Thu Oct 09 12:40:50 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952624554",
-  "text" : "ケイタイの番号を手打ちする時間とアドレス帳から呼び出す時間との差を積み上げると、人生のうち相当な時間を損することになるらしい。",
-  "id" : 952624554,
-  "created_at" : "Thu Oct 09 12:28:47 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952615746",
-  "text" : "藤井フミヤとホワイト家は家族ぐるみの付き合い。",
-  "id" : 952615746,
-  "created_at" : "Thu Oct 09 12:18:54 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952607465",
-  "text" : "飲み屋だよこれｗｗ。",
-  "id" : 952607465,
-  "created_at" : "Thu Oct 09 12:09:46 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952606562",
-  "text" : "有賀さんつながりだったのか・・・。",
-  "id" : 952606562,
-  "created_at" : "Thu Oct 09 12:08:38 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952601022",
-  "text" : "わーい！きたー！！",
-  "id" : 952601022,
-  "created_at" : "Thu Oct 09 12:02:24 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952596905",
-  "text" : "さて、そろそろライブおくか。",
-  "id" : 952596905,
-  "created_at" : "Thu Oct 09 11:57:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kei-Kei",
-      "screen_name" : "Kei_Kei",
-      "indices" : [ 0, 8 ],
-      "id_str" : "6529602",
-      "id" : 6529602
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "952593194",
-  "geo" : {
-  },
-  "id_str" : "952596653",
-  "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei もってきませんｗｗ。",
-  "id" : 952596653,
-  "in_reply_to_status_id" : 952593194,
-  "created_at" : "Thu Oct 09 11:57:21 +0000 2008",
-  "in_reply_to_screen_name" : "Kei_Kei",
-  "in_reply_to_user_id_str" : "6529602",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952587332",
-  "text" : "お！マッキーの全国ツアー開催決定か！しかもクリスマスコンサートもあるし！これは是非いかなきゃなｗ。",
-  "id" : 952587332,
-  "created_at" : "Thu Oct 09 11:46:03 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -7999,2114 +7400,48 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "952538832",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "952585925",
   "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei 鯖充っていわれると別のものに聞こえる。",
+  "text" : "@Kei_Kei \u9BD6\u5145\u3063\u3066\u3044\u308F\u308C\u308B\u3068\u5225\u306E\u3082\u306E\u306B\u805E\u3053\u3048\u308B\u3002",
   "id" : 952585925,
   "in_reply_to_status_id" : 952538832,
-  "created_at" : "Thu Oct 09 11:44:28 +0000 2008",
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "952585004",
-  "text" : "うおー、21時から槇原敬之＆藤井フミヤのライブトークがYahoo!であったの忘れてたｗ。あぶなー。",
-  "id" : 952585004,
-  "created_at" : "Thu Oct 09 11:43:12 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952532636",
-  "text" : "うし、ご飯食べよ！",
-  "id" : 952532636,
-  "created_at" : "Thu Oct 09 10:29:03 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952531353",
-  "text" : "最近、学食の「鯖の生姜煮」がおいしいことに気づいて毎日食べてる。",
-  "id" : 952531353,
-  "created_at" : "Thu Oct 09 10:26:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952507267",
-  "text" : "なんだかんだで10月も10日過ぎたんだなぁ・・・（と、久しぶりにwebから更新してみる。",
-  "id" : 952507267,
-  "created_at" : "Thu Oct 09 09:48:59 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952506501",
-  "text" : "まぁ、募集したところで誰も集まらないってのは分かってますよ、分かってますけどね。少しぐらい希望をもったっていいじゃないですか。",
-  "id" : 952506501,
-  "created_at" : "Thu Oct 09 09:47:56 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952506043",
-  "text" : "【急募】ウィキペディア日本語版の記事[[開水路]]を一緒に加筆してくれる人。特に専門外の人からの「これがよく分からないから加筆・修正」系。",
-  "id" : 952506043,
-  "created_at" : "Thu Oct 09 09:47:19 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952504904",
-  "text" : "期間が1ヶ月あるとはいえ、あの分量だと書くだけで精一杯な気がするので、誰か一緒に書いてくれる人募集中。特に専門外の人からの「これがよく分からないから加筆・修正」系のを特に募集。",
-  "id" : 952504904,
-  "created_at" : "Thu Oct 09 09:45:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952504030",
-  "text" : "jawp：とりあえず最低ライン（？）の基礎方程式まで[[開水路]]を加筆したから加筆コンにエントリーした。",
-  "id" : 952504030,
-  "created_at" : "Thu Oct 09 09:44:23 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952346992",
-  "text" : "ただいま。",
-  "id" : 952346992,
-  "created_at" : "Thu Oct 09 05:36:28 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "952272270",
-  "text" : "前の女の子2人の会話から「通常の炸薬がさ～（笑）」ってのが聞こえた。",
-  "id" : 952272270,
-  "created_at" : "Thu Oct 09 04:02:37 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "951311598",
-  "text" : "前に味噌汁作ってやけどした舌がようやく治りかけたと思ったら、また今日暖めなおした味噌汁で火傷した・・・。",
-  "id" : 951311598,
-  "created_at" : "Wed Oct 08 14:16:46 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "951308249",
-  "text" : "ご飯食べたし、今日は寝るよ！",
-  "id" : 951308249,
-  "created_at" : "Wed Oct 08 14:14:09 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "951224539",
-  "text" : "jawp：[[開水路]]は、とりあえず比力と比エネルギーまで説明終わった。明日中に保存則も書き上げて、とりあえず加筆コンにエントリーするぞー！",
-  "id" : 951224539,
-  "created_at" : "Wed Oct 08 13:03:59 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "951127060",
-  "text" : "今日は巨人ファンと阪神ファン盛り上がってるなー。中日ファンは特に興味もなく眺めてるけどｗ。",
-  "id" : 951127060,
-  "created_at" : "Wed Oct 08 11:13:45 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "951110421",
-  "text" : "あ、情報源は某授業の某先生の雑談ですｗ。",
-  "id" : 951110421,
-  "created_at" : "Wed Oct 08 10:49:37 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "951110244",
-  "text" : "さらに裏の話になると「ノーベル賞は地域で持ち回りで、アジアはなかなか順番が回ってこないから受賞できない」とかも言われてるらしい。",
-  "id" : 951110244,
-  "created_at" : "Wed Oct 08 10:49:20 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "951109863",
-  "text" : "ノーベル物理学賞裏話（？）：京大理学研究科では、益川先生は「ノーベル賞とって当たり前」だと言われてたらしい。さらに、大学内には「いつノーベル賞でもおかしくない」といわれる人が少なくとも片手で数え切れないとか。",
-  "id" : 951109863,
-  "created_at" : "Wed Oct 08 10:48:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "951050830",
-  "text" : "しかし、これだけギリギリまでペナントレースの優勝が決まらないって、生まれてから（物心ついてから）初めてじゃないかなぁ。。",
-  "id" : 951050830,
-  "created_at" : "Wed Oct 08 09:15:40 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "950990100",
-  "text" : "お昼食べ終わった後ぐらいに、また例の友人から「XBOX買ったー？」メールが来た。そんなに早く買えるか！って返信しておいた。",
-  "id" : 950990100,
-  "created_at" : "Wed Oct 08 07:38:16 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "950988985",
-  "text" : "今日の15時から益川先生との学生対話集会なるものがあったらしい。普通に授業中だったしｗ。",
-  "id" : 950988985,
-  "created_at" : "Wed Oct 08 07:36:28 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "950987193",
-  "text" : "ただいま。4限目がほぼ地下の教室なので授業終わった時(16:15)、既に外は暗くなってるのかと思った。",
-  "id" : 950987193,
-  "created_at" : "Wed Oct 08 07:33:53 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "950388127",
-  "text" : "おはよう。予定より1時間ぐらい早く起きたけど、まぁいいか。",
-  "id" : 950388127,
-  "created_at" : "Wed Oct 08 00:08:59 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949604520",
-  "text" : "さて、昨日から久しぶりに沈黙の艦隊を1巻から読み直してるので、それ読みながら寝る！おやすみー。",
-  "id" : 949604520,
-  "created_at" : "Tue Oct 07 13:29:13 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949552505",
-  "text" : "外から、「Secret of my heart」の口笛が聞こえたｗ",
-  "id" : 949552505,
-  "created_at" : "Tue Oct 07 12:43:12 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949516394",
-  "text" : "SMTP不調の原因が分かった。Yahoo!BBがポート25をブロックしてるのが原因らしい。どうにか対応してくれないのかな。",
-  "id" : 949516394,
-  "created_at" : "Tue Oct 07 12:04:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949464086",
-  "text" : "そして、それが終わったら今日はとっとと寝るよ！眠いし、加筆コンのやつは明日！",
-  "id" : 949464086,
-  "created_at" : "Tue Oct 07 10:56:03 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949463902",
-  "text" : "先日からサーバーのSMTPの調子がおかしいというか、まったく接続できなくなったので管理者に問い合わせる。",
-  "id" : 949463902,
-  "created_at" : "Tue Oct 07 10:55:45 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "meL_meL",
-      "screen_name" : "mel_mel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "277297225",
-      "id" : 277297225
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949463087",
-  "text" : "@mel_mel 妖精、とか言ってみる。同じかわいさで「現実にはいるかいないか」的対立として。＜幼女の反対",
-  "id" : 949463087,
-  "created_at" : "Tue Oct 07 10:54:32 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949462112",
-  "text" : "火曜日の授業は、3,4限出なくていいことがわかった。というか、出てても時間の無駄すぎるので、帰って別のことやってたほうが有意義。明らかに。",
-  "id" : 949462112,
-  "created_at" : "Tue Oct 07 10:53:01 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949461669",
-  "text" : "あ、というわけでただいまです。",
-  "id" : 949461669,
-  "created_at" : "Tue Oct 07 10:52:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "949461546",
-  "text" : "サークル勧誘のチラシをみて、グラフ理論的な問題を思いついて隣のやつに話してみたら、笑われた。",
-  "id" : 949461546,
-  "created_at" : "Tue Oct 07 10:52:12 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "948915507",
-  "text" : "おはよう。今日もがんばるよー。",
-  "id" : 948915507,
-  "created_at" : "Mon Oct 06 23:12:58 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "948288986",
-  "text" : "ロゴとかfaviconとか若干の変更で2時間ぐらいかかった。眠いからもう寝るよ！",
-  "id" : 948288986,
-  "created_at" : "Mon Oct 06 14:24:47 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "948116717",
-  "text" : "と思ったけど、サイト製作のやつ先にやる。",
-  "id" : 948116717,
-  "created_at" : "Mon Oct 06 11:32:14 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "948115284",
-  "text" : "レポート終わり！今日は眠すぎるのでさっさと寝ちゃうよ！！（ぉ",
-  "id" : 948115284,
-  "created_at" : "Mon Oct 06 11:30:25 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "948077714",
-  "text" : "jawp：管理者権限はとりあえず1週間は使わず他の人がどうやってるのか観察。その後ぼちぼち使い始めてみようかな。",
-  "id" : 948077714,
-  "created_at" : "Mon Oct 06 10:33:36 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "948076595",
-  "text" : "月曜日と火曜日は5限目まで授業があるので、ご飯をルネ（生協のカフェ）で食べることにした。",
-  "id" : 948076595,
-  "created_at" : "Mon Oct 06 10:31:50 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947949163",
-  "text" : "しかし、jawpのサーバーまだ重いのかー・・・。",
-  "id" : 947949163,
-  "created_at" : "Mon Oct 06 06:54:37 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947949038",
-  "text" : "さて、そろそろ学校戻るか。5限目は「人文地理学各論（都市）」です。帰ってきたらレポートあと1問終わらせて、今日は早めに寝たい。",
-  "id" : 947949038,
-  "created_at" : "Mon Oct 06 06:54:21 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947947917",
-  "text" : "twitterは「一人で一度にたくさん発言したらTL埋まるでしょ！マナー違反だ！！」とか言われないから楽でいいな。",
-  "id" : 947947917,
-  "created_at" : "Mon Oct 06 06:52:15 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947915681",
-  "text" : "さて、とりあえず微積の課題やるかな。",
-  "id" : 947915681,
-  "created_at" : "Mon Oct 06 05:56:55 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947907174",
-  "text" : "ブラウザのデフォルトフォントをメイリオにして2週間ぐらいたつけど、やっぱり慣れるとこっちのほうが見やすいってことに気付く。",
-  "id" : 947907174,
-  "created_at" : "Mon Oct 06 05:42:24 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947895078",
-  "text" : "3限目が早く終わりすぎて暇になったのでいったん帰ってきた。5限目は16:30からなので、あと2時間ぐらいある。",
-  "id" : 947895078,
-  "created_at" : "Mon Oct 06 05:22:26 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947709079",
-  "text" : "前の席のノートテイカーが交代して、服がピンクい人になった。目が痛くなりそうだｗ。",
-  "id" : 947709079,
-  "created_at" : "Mon Oct 06 01:33:13 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947703191",
-  "text" : "連続値で扱うためには、そもそもの演算処理の概念を変える必要があるだろうな・・・。ソフト的にどうこうできればいいけど、ハード的な問題になるともう触れないｗ。",
-  "id" : 947703191,
-  "created_at" : "Mon Oct 06 01:26:45 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947698944",
-  "text" : "連続値を離散化することなくコンピューターに計算させる方法を研究したい。実現可能性は別だけど。",
-  "id" : 947698944,
-  "created_at" : "Mon Oct 06 01:21:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947696697",
-  "text" : "縮約使う派だから、デカルト座標記号使われるといちいち書き直すのが大変。",
-  "id" : 947696697,
-  "created_at" : "Mon Oct 06 01:19:29 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947618038",
-  "text" : "初めての授業って、教室間違えてないか緊張するよねｗ。",
-  "id" : 947618038,
-  "created_at" : "Sun Oct 05 23:47:45 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947599792",
-  "text" : "さて、それじゃいってきます！今日は応力解析法っていう楽しみな授業があるので、ルンルン気分でいきます。",
-  "id" : 947599792,
-  "created_at" : "Sun Oct 05 23:24:57 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947575628",
-  "text" : "おはようございます。今日は雨降りです。",
-  "id" : 947575628,
-  "created_at" : "Sun Oct 05 22:54:35 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947136761",
-  "text" : "さて、寝よう。おやすみー。",
-  "id" : 947136761,
-  "created_at" : "Sun Oct 05 14:08:02 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947086320",
-  "text" : "感覚的にはもう2時過ぎという雰囲気ｗ。",
-  "id" : 947086320,
-  "created_at" : "Sun Oct 05 12:55:24 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947086059",
-  "text" : "しかし、まだ22時だというのがなんか信じられない。なんでだろう？早起きしたせいで起きてる時間が長いから？",
-  "id" : 947086059,
-  "created_at" : "Sun Oct 05 12:55:00 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947078034",
-  "text" : "いくら親切心だからって、いくら正しいからって、伝え方によっては相手はどんどん印象悪くするだけってことがある。",
-  "id" : 947078034,
-  "created_at" : "Sun Oct 05 12:41:59 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "947030666",
-  "text" : "jawp：他の管理者さんにいろいろ話を聞きつつ今後の具体的活動をイメージ中",
-  "id" : 947030666,
-  "created_at" : "Sun Oct 05 11:14:41 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946989963",
-  "text" : "「内積ノルムの三角不等式を証明せよ」って問題で、コーシー＝シュワルツの不等式を証明なしに使っていいものだろうか。",
-  "id" : 946989963,
-  "created_at" : "Sun Oct 05 09:45:43 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946988867",
-  "text" : "IRCでの一コマ：「昔のノートパソコンは画面暗かったなぁ」→自分「そうですね、ブラウン管は暗かったです」。　素でボケてしまいましたｗｗ。",
-  "id" : 946988867,
-  "created_at" : "Sun Oct 05 09:43:21 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946987885",
-  "text" : "普通の人に「メタ」って言ってもなかなか通じないことに気づいた。",
-  "id" : 946987885,
-  "created_at" : "Sun Oct 05 09:40:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946963799",
-  "text" : "まだ確定じゃないけど、jawpRfAは、最終支持率79%でした。ちょっとギリギリ？ http://tinyurl.com/rfa-aokomoriuta",
-  "id" : 946963799,
-  "created_at" : "Sun Oct 05 08:47:39 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946957430",
-  "text" : "jawp：あー・・・、管理者投票終わったー。なんだかんだでつかれたよーｗ。",
-  "id" : 946957430,
-  "created_at" : "Sun Oct 05 08:34:19 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946940559",
-  "text" : "あとさんじっぷんー",
-  "id" : 946940559,
-  "created_at" : "Sun Oct 05 07:59:29 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946926475",
-  "text" : "久々にTeX触ると何がなんだか忘れるなーｗ",
-  "id" : 946926475,
-  "created_at" : "Sun Oct 05 07:28:30 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946779273",
-  "text" : "というわけで、今日のお昼ご飯。 http://f.hatena.ne.jp/twitter/20081005122345",
-  "id" : 946779273,
-  "created_at" : "Sun Oct 05 03:23:45 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946762932",
-  "text" : "火を使う作業熱いわー・・・。",
-  "id" : 946762932,
-  "created_at" : "Sun Oct 05 03:03:03 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946737020",
-  "text" : "お、ご飯炊けた。じゃお昼食べよー。",
-  "id" : 946737020,
-  "created_at" : "Sun Oct 05 02:30:14 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946734711",
-  "text" : "jawp：RfA投票締め切りまで９さんが1時間切って、自分はあと6時間ぐらい。全終了（CarkuniさんCU）まではあと7時間半。",
-  "id" : 946734711,
-  "created_at" : "Sun Oct 05 02:27:15 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946699318",
-  "text" : "まぁ、「ネット上の百科事典」って言ったら「あー」みたいな反応してたけれど。名前はそんなに売れてないのかなぁ・・・。個人的には名前が先行してしまってる感じがあったけれど。",
-  "id" : 946699318,
-  "created_at" : "Sun Oct 05 01:41:09 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946698863",
-  "text" : "そういえば先週家に帰った時に、母親と妹が「ウィキペディア」って言って何か分からなかったっていうことがあった。2人ともそれなりにネットやってる人たちだから意外だった。",
-  "id" : 946698863,
-  "created_at" : "Sun Oct 05 01:40:29 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946694235",
-  "text" : "お腹すいてきたし、ご飯炊こー",
-  "id" : 946694235,
-  "created_at" : "Sun Oct 05 01:34:27 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946658288",
-  "text" : "まだ10時前かー・・・。早起きすると時間的に得した気分になるなｗ。",
-  "id" : 946658288,
-  "created_at" : "Sun Oct 05 00:47:11 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946616240",
-  "text" : "おはよう、さて、今日こそ加筆するぞ！目標はRfA終了までに！",
-  "id" : 946616240,
-  "created_at" : "Sat Oct 04 23:51:51 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946144065",
-  "text" : "あー・・・開水路の加筆ぜんぜん進まないｗ。明日こそやろう！",
-  "id" : 946144065,
-  "created_at" : "Sat Oct 04 14:14:36 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946143464",
-  "text" : "enwpにあるからって特筆性を満たしてるとは限らないんだよなぁ。。",
-  "id" : 946143464,
-  "created_at" : "Sat Oct 04 14:13:46 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "946133661",
-  "text" : "jawp：最近、自分が大項目主義になったのは、今のjawpの記事が小項目主義すぎて全体像がよく分からなくなってしまっているのが原因だと思ったから。",
-  "id" : 946133661,
-  "created_at" : "Sat Oct 04 14:01:37 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "945780928",
-  "text" : "作業しながらいろいろやるのは大変だｗ",
-  "id" : 945780928,
-  "created_at" : "Sat Oct 04 03:26:57 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "かぁーにぃー",
-      "screen_name" : "kaanee",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14487872",
-      "id" : 14487872
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "945763602",
-  "geo" : {
-  },
-  "id_str" : "945765639",
-  "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee もうこれ以上具はいらないですｗ。",
-  "id" : 945765639,
-  "in_reply_to_status_id" : 945763602,
-  "created_at" : "Sat Oct 04 03:06:50 +0000 2008",
-  "in_reply_to_screen_name" : "kaanee",
-  "in_reply_to_user_id_str" : "14487872",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "945531417",
-  "text" : "望んだり求めることはあっても、それを必然とは思わない。それがかなわなかったからといって、裏切られた気持ちになるのはおかしいことだと思う。",
-  "id" : 945531417,
-  "created_at" : "Fri Oct 03 22:32:52 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "945530382",
-  "text" : "論理的に正しいことを伝えて相手が怒るのは、確かにこっちの伝え方ももっと工夫できるとは思うけど、一方、相手にも「善意に取る」という行動をもっと要求したい。",
-  "id" : 945530382,
-  "created_at" : "Fri Oct 03 22:31:47 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "945487372",
-  "text" : "おはよう。一瞬朝の6時かと思ったけど、よく考えたらこの時期6時でこんなに明るいわけないかｗ。",
-  "id" : 945487372,
-  "created_at" : "Fri Oct 03 21:47:35 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "944966362",
-  "text" : "意識がさっきから断片的に飛んでるので寝ます。",
-  "id" : 944966362,
-  "created_at" : "Fri Oct 03 14:32:07 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "944918735",
-  "text" : "うあー、眠い。眠すぎて記事書けないよ！",
-  "id" : 944918735,
-  "created_at" : "Fri Oct 03 13:53:27 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "944858801",
-  "text" : "帰ってきた。",
-  "id" : 944858801,
-  "created_at" : "Fri Oct 03 12:59:44 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "944793080",
-  "text" : "BOXでギョウザ作ってる。 http://f.hatena.ne.jp/twitter/20081003204517",
-  "id" : 944793080,
-  "created_at" : "Fri Oct 03 11:45:17 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "944453400",
-  "text" : "昼ご飯が早く食べ終わったので、水理学の本読んで開水路について復習中。昨日は予定外に出かけたので、今日中に開水路の概要と基礎式ぐらいは書きたい。",
-  "id" : 944453400,
-  "created_at" : "Fri Oct 03 03:27:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "944447109",
-  "text" : "午前中に人文地理学各論の経済地理と村落を受けたけど、なかなか楽しそうｗ。",
-  "id" : 944447109,
-  "created_at" : "Fri Oct 03 03:22:27 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "943931364",
-  "text" : "おはようございます。",
-  "id" : 943931364,
-  "created_at" : "Thu Oct 02 22:49:09 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "943306043",
-  "text" : "さて寝る。おやすみー。",
-  "id" : 943306043,
-  "created_at" : "Thu Oct 02 14:19:03 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "943265292",
-  "text" : "1ヶ月あったら十分加筆できるかなぁ・・・。",
-  "id" : 943265292,
-  "created_at" : "Thu Oct 02 13:46:45 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "943264883",
-  "text" : "[[開水路]]を加筆コンクールに出そうと節立てしたらすごい量になってるっていうｗｗ。これどうしよう。",
-  "id" : 943264883,
-  "created_at" : "Thu Oct 02 13:46:27 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "943249087",
-  "text" : "jawp：[[コンクリート工]]が10/2の新着記事に選ばれた！月間感謝賞もそうだったけど、知らない間に話が進んでて驚いてるｗ。",
-  "id" : 943249087,
-  "created_at" : "Thu Oct 02 13:32:40 +0000 2008",
+  "geo" : { },
+  "id_str" : "952587332",
+  "text" : "\u304A\uFF01\u30DE\u30C3\u30AD\u30FC\u306E\u5168\u56FD\u30C4\u30A2\u30FC\u958B\u50AC\u6C7A\u5B9A\u304B\uFF01\u3057\u304B\u3082\u30AF\u30EA\u30B9\u30DE\u30B9\u30B3\u30F3\u30B5\u30FC\u30C8\u3082\u3042\u308B\u3057\uFF01\u3053\u308C\u306F\u662F\u975E\u3044\u304B\u306A\u304D\u3083\u306A\uFF57\u3002",
+  "id" : 952587332,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -10119,212 +7454,2222 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "943125227",
-  "geo" : {
-  },
-  "id_str" : "943190496",
+  "in_reply_to_status_id_str" : "952593194",
+  "geo" : { },
+  "id_str" : "952596653",
   "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei はなんというか、一応予想範囲内の人でしたｗ。がまぁ、強いて言えば思ってたよりもやせてらっしゃったｗ。",
-  "id" : 943190496,
-  "in_reply_to_status_id" : 943125227,
-  "created_at" : "Thu Oct 02 12:36:18 +0000 2008",
+  "text" : "@Kei_Kei \u3082\u3063\u3066\u304D\u307E\u305B\u3093\uFF57\uFF57\u3002",
+  "id" : 952596653,
+  "in_reply_to_status_id" : 952593194,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "943189726",
-  "text" : "あ、帰ってきました。ちょっと報告忘れたｗ。",
-  "id" : 943189726,
-  "created_at" : "Thu Oct 02 12:35:31 +0000 2008",
+  "geo" : { },
+  "id_str" : "952596905",
+  "text" : "\u3055\u3066\u3001\u305D\u308D\u305D\u308D\u30E9\u30A4\u30D6\u304A\u304F\u304B\u3002",
+  "id" : 952596905,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "943138686",
-  "text" : "も良く考えたら、手をつなぐという行為に果たして生物的に何か意味（あるいは価値）があるかって言えば、特にないだろうな。",
-  "id" : 943138686,
-  "created_at" : "Thu Oct 02 11:35:13 +0000 2008",
+  "geo" : { },
+  "id_str" : "952601022",
+  "text" : "\u308F\u30FC\u3044\uFF01\u304D\u305F\u30FC\uFF01\uFF01",
+  "id" : 952601022,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "943133455",
-  "text" : "みたいなことを、前でイチャイチャしてるカップルを見て考えてみた。やっぱり生物的な本能じゃない部分もありそうだ。",
-  "id" : 943133455,
-  "created_at" : "Thu Oct 02 11:28:38 +0000 2008",
+  "geo" : { },
+  "id_str" : "952606562",
+  "text" : "\u6709\u8CC0\u3055\u3093\u3064\u306A\u304C\u308A\u3060\u3063\u305F\u306E\u304B\u30FB\u30FB\u30FB\u3002",
+  "id" : 952606562,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "943132225",
-  "text" : "何故人は手をつなぎたがるのか、もっと言えば、何故性的なものに興奮するのか、それは本能によるものなのか、人格形成によるものなのか。",
-  "id" : 943132225,
-  "created_at" : "Thu Oct 02 11:26:49 +0000 2008",
+  "geo" : { },
+  "id_str" : "952607465",
+  "text" : "\u98F2\u307F\u5C4B\u3060\u3088\u3053\u308C\uFF57\uFF57\u3002",
+  "id" : 952607465,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "943121181",
-  "text" : "しまった、写真撮り忘れたｗｗ。",
-  "id" : 943121181,
-  "created_at" : "Thu Oct 02 11:11:05 +0000 2008",
+  "geo" : { },
+  "id_str" : "952615746",
+  "text" : "\u85E4\u4E95\u30D5\u30DF\u30E4\u3068\u30DB\u30EF\u30A4\u30C8\u5BB6\u306F\u5BB6\u65CF\u3050\u308B\u307F\u306E\u4ED8\u304D\u5408\u3044\u3002",
+  "id" : 952615746,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "943053161",
-  "text" : "京都駅へ電車で向かう。",
-  "id" : 943053161,
-  "created_at" : "Thu Oct 02 09:20:47 +0000 2008",
+  "geo" : { },
+  "id_str" : "952624554",
+  "text" : "\u30B1\u30A4\u30BF\u30A4\u306E\u756A\u53F7\u3092\u624B\u6253\u3061\u3059\u308B\u6642\u9593\u3068\u30A2\u30C9\u30EC\u30B9\u5E33\u304B\u3089\u547C\u3073\u51FA\u3059\u6642\u9593\u3068\u306E\u5DEE\u3092\u7A4D\u307F\u4E0A\u3052\u308B\u3068\u3001\u4EBA\u751F\u306E\u3046\u3061\u76F8\u5F53\u306A\u6642\u9593\u3092\u640D\u3059\u308B\u3053\u3068\u306B\u306A\u308B\u3089\u3057\u3044\u3002",
+  "id" : 952624554,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "942989177",
-  "text" : "小腹が空いたのでじゃがりこ食べながら待機中。待ち人現れず。\n http://f.hatena.ne.jp/twitter/20081002163233",
-  "id" : 942989177,
-  "created_at" : "Thu Oct 02 07:32:31 +0000 2008",
+  "geo" : { },
+  "id_str" : "952636557",
+  "text" : "\u300C\u69C7\u539F\u656C\u4E4B\uFF1D\u7537\u7248\u30E6\u30FC\u30DF\u30F3\u300D\u3063\u3066\u5426\u5B9A\u3067\u304D\u306A\u3044\u3088\u306A\u30FC\u30FB\u30FB\u30FB\u3001\u78BA\u304B\u306B\u3002",
+  "id" : 952636557,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "942984377",
-  "text" : "とりあえずレンタサイクルっぽい人を探してる。なかなか現れないので、怖くて逃げたんじゃないかと推測。",
-  "id" : 942984377,
-  "created_at" : "Thu Oct 02 07:24:10 +0000 2008",
+  "geo" : { },
+  "id_str" : "952663560",
+  "text" : "\u5EF6\u9577\u3060\uFF57",
+  "id" : 952663560,
+  "created_at" : "2008-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952669910",
+  "text" : "\u30DE\u30C3\u30AD\u30FC\u3001\u307E\u305FcELEBRATION\u3084\u3089\u306A\u3044\u306E\u304B\u306A\u3041\u3002\u3002",
+  "id" : 952669910,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952681185",
+  "text" : "\u3044\u3084\u30FC\u3001\u9762\u767D\u304B\u3063\u305F\uFF57\u3002",
+  "id" : 952681185,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952850235",
+  "text" : "enwp\u306E\"Open channel flow\"\uFF08\u958B\u6C34\u8DEF\u6D41\u308C\uFF09\u304C\u3001\"Manning formula\"\uFF08\u30DE\u30CB\u30F3\u30B0\u5F0F\uFF09\u3078\u306E\u30EA\u30C0\u30A4\u30EC\u30AF\u30C8\u306B\u306A\u3063\u3066\u308B\u30FB\u30FB\u30FB\u3002\u306A\u3093\u3060\u3053\u308C\u3002\u3002",
+  "id" : 952850235,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952903781",
+  "text" : "\u8A18\u4E8B\u30E1\u30E2\uFF1A\u300C\u7B49\u6D41\u300D\u3068\u3044\u3046\u3082\u306E\u304C\u3001\u958B\u6C34\u8DEF\u306B\u3069\u3046\u304B\u304B\u308F\u3063\u3066\u304F\u308B\u304B\u304C\u554F\u984C\u3067\u3001\u7B49\u6D41\u304C\u3069\u3046\u3044\u3046\u3082\u306E\u304B\u3092\u8AAD\u8005\u306F\u6C42\u3081\u3066\u306A\u3044\u3002",
+  "id" : 952903781,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952904623",
+  "text" : "\u3042\u308C\u3001\u3067\u3082\u3088\u304F\u8003\u3048\u305F\u3089\u3001\u7B49\u6D41\u30921\u3064\u306E\u72EC\u7ACB\u8A18\u4E8B\u306B\u3059\u308B\u306B\u306F\u91CF\u304C\u5C11\u306A\u3044\u304B\u3089\u30FB\u30FB\u30FB\u3063\u3066\u958B\u6C34\u8DEF\u306B\u307E\u3068\u3081\u305F\u306F\u305A\uFF1F",
+  "id" : 952904623,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952904889",
+  "text" : "\u3068\u308A\u3042\u3048\u305A\u7720\u304F\u3066\u3061\u3087\u3063\u3068\u982D\u304C\u50CD\u3044\u3066\u306A\u3044\u306E\u3067\u660E\u65E5\uFF01\u304A\u3084\u3059\u307F\uFF01",
+  "id" : 952904889,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952272270",
+  "text" : "\u524D\u306E\u5973\u306E\u5B502\u4EBA\u306E\u4F1A\u8A71\u304B\u3089\u300C\u901A\u5E38\u306E\u70B8\u85AC\u304C\u3055\uFF5E\uFF08\u7B11\uFF09\u300D\u3063\u3066\u306E\u304C\u805E\u3053\u3048\u305F\u3002",
+  "id" : 952272270,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952346992",
+  "text" : "\u305F\u3060\u3044\u307E\u3002",
+  "id" : 952346992,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952504030",
+  "text" : "jawp\uFF1A\u3068\u308A\u3042\u3048\u305A\u6700\u4F4E\u30E9\u30A4\u30F3\uFF08\uFF1F\uFF09\u306E\u57FA\u790E\u65B9\u7A0B\u5F0F\u307E\u3067[[\u958B\u6C34\u8DEF]]\u3092\u52A0\u7B46\u3057\u305F\u304B\u3089\u52A0\u7B46\u30B3\u30F3\u306B\u30A8\u30F3\u30C8\u30EA\u30FC\u3057\u305F\u3002",
+  "id" : 952504030,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952504904",
+  "text" : "\u671F\u9593\u304C1\u30F6\u6708\u3042\u308B\u3068\u306F\u3044\u3048\u3001\u3042\u306E\u5206\u91CF\u3060\u3068\u66F8\u304F\u3060\u3051\u3067\u7CBE\u4E00\u676F\u306A\u6C17\u304C\u3059\u308B\u306E\u3067\u3001\u8AB0\u304B\u4E00\u7DD2\u306B\u66F8\u3044\u3066\u304F\u308C\u308B\u4EBA\u52DF\u96C6\u4E2D\u3002\u7279\u306B\u5C02\u9580\u5916\u306E\u4EBA\u304B\u3089\u306E\u300C\u3053\u308C\u304C\u3088\u304F\u5206\u304B\u3089\u306A\u3044\u304B\u3089\u52A0\u7B46\u30FB\u4FEE\u6B63\u300D\u7CFB\u306E\u3092\u7279\u306B\u52DF\u96C6\u3002",
+  "id" : 952504904,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952506043",
+  "text" : "\u3010\u6025\u52DF\u3011\u30A6\u30A3\u30AD\u30DA\u30C7\u30A3\u30A2\u65E5\u672C\u8A9E\u7248\u306E\u8A18\u4E8B[[\u958B\u6C34\u8DEF]]\u3092\u4E00\u7DD2\u306B\u52A0\u7B46\u3057\u3066\u304F\u308C\u308B\u4EBA\u3002\u7279\u306B\u5C02\u9580\u5916\u306E\u4EBA\u304B\u3089\u306E\u300C\u3053\u308C\u304C\u3088\u304F\u5206\u304B\u3089\u306A\u3044\u304B\u3089\u52A0\u7B46\u30FB\u4FEE\u6B63\u300D\u7CFB\u3002",
+  "id" : 952506043,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952506501",
+  "text" : "\u307E\u3041\u3001\u52DF\u96C6\u3057\u305F\u3068\u3053\u308D\u3067\u8AB0\u3082\u96C6\u307E\u3089\u306A\u3044\u3063\u3066\u306E\u306F\u5206\u304B\u3063\u3066\u307E\u3059\u3088\u3001\u5206\u304B\u3063\u3066\u307E\u3059\u3051\u3069\u306D\u3002\u5C11\u3057\u3050\u3089\u3044\u5E0C\u671B\u3092\u3082\u3063\u305F\u3063\u3066\u3044\u3044\u3058\u3083\u306A\u3044\u3067\u3059\u304B\u3002",
+  "id" : 952506501,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952507267",
+  "text" : "\u306A\u3093\u3060\u304B\u3093\u3060\u306710\u6708\u308210\u65E5\u904E\u304E\u305F\u3093\u3060\u306A\u3041\u30FB\u30FB\u30FB\uFF08\u3068\u3001\u4E45\u3057\u3076\u308A\u306Bweb\u304B\u3089\u66F4\u65B0\u3057\u3066\u307F\u308B\u3002",
+  "id" : 952507267,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952531353",
+  "text" : "\u6700\u8FD1\u3001\u5B66\u98DF\u306E\u300C\u9BD6\u306E\u751F\u59DC\u716E\u300D\u304C\u304A\u3044\u3057\u3044\u3053\u3068\u306B\u6C17\u3065\u3044\u3066\u6BCE\u65E5\u98DF\u3079\u3066\u308B\u3002",
+  "id" : 952531353,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952532636",
+  "text" : "\u3046\u3057\u3001\u3054\u98EF\u98DF\u3079\u3088\uFF01",
+  "id" : 952532636,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "952585004",
+  "text" : "\u3046\u304A\u30FC\u300121\u6642\u304B\u3089\u69C7\u539F\u656C\u4E4B\uFF06\u85E4\u4E95\u30D5\u30DF\u30E4\u306E\u30E9\u30A4\u30D6\u30C8\u30FC\u30AF\u304CYahoo!\u3067\u3042\u3063\u305F\u306E\u5FD8\u308C\u3066\u305F\uFF57\u3002\u3042\u3076\u306A\u30FC\u3002",
+  "id" : 952585004,
+  "created_at" : "2008-10-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "950388127",
+  "text" : "\u304A\u306F\u3088\u3046\u3002\u4E88\u5B9A\u3088\u308A1\u6642\u9593\u3050\u3089\u3044\u65E9\u304F\u8D77\u304D\u305F\u3051\u3069\u3001\u307E\u3041\u3044\u3044\u304B\u3002",
+  "id" : 950388127,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "950987193",
+  "text" : "\u305F\u3060\u3044\u307E\u30024\u9650\u76EE\u304C\u307B\u307C\u5730\u4E0B\u306E\u6559\u5BA4\u306A\u306E\u3067\u6388\u696D\u7D42\u308F\u3063\u305F\u6642(16:15)\u3001\u65E2\u306B\u5916\u306F\u6697\u304F\u306A\u3063\u3066\u308B\u306E\u304B\u3068\u601D\u3063\u305F\u3002",
+  "id" : 950987193,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "950988985",
+  "text" : "\u4ECA\u65E5\u306E15\u6642\u304B\u3089\u76CA\u5DDD\u5148\u751F\u3068\u306E\u5B66\u751F\u5BFE\u8A71\u96C6\u4F1A\u306A\u308B\u3082\u306E\u304C\u3042\u3063\u305F\u3089\u3057\u3044\u3002\u666E\u901A\u306B\u6388\u696D\u4E2D\u3060\u3063\u305F\u3057\uFF57\u3002",
+  "id" : 950988985,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "950990100",
+  "text" : "\u304A\u663C\u98DF\u3079\u7D42\u308F\u3063\u305F\u5F8C\u3050\u3089\u3044\u306B\u3001\u307E\u305F\u4F8B\u306E\u53CB\u4EBA\u304B\u3089\u300CXBOX\u8CB7\u3063\u305F\u30FC\uFF1F\u300D\u30E1\u30FC\u30EB\u304C\u6765\u305F\u3002\u305D\u3093\u306A\u306B\u65E9\u304F\u8CB7\u3048\u308B\u304B\uFF01\u3063\u3066\u8FD4\u4FE1\u3057\u3066\u304A\u3044\u305F\u3002",
+  "id" : 950990100,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "951050830",
+  "text" : "\u3057\u304B\u3057\u3001\u3053\u308C\u3060\u3051\u30AE\u30EA\u30AE\u30EA\u307E\u3067\u30DA\u30CA\u30F3\u30C8\u30EC\u30FC\u30B9\u306E\u512A\u52DD\u304C\u6C7A\u307E\u3089\u306A\u3044\u3063\u3066\u3001\u751F\u307E\u308C\u3066\u304B\u3089\uFF08\u7269\u5FC3\u3064\u3044\u3066\u304B\u3089\uFF09\u521D\u3081\u3066\u3058\u3083\u306A\u3044\u304B\u306A\u3041\u3002\u3002",
+  "id" : 951050830,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "951109863",
+  "text" : "\u30CE\u30FC\u30D9\u30EB\u7269\u7406\u5B66\u8CDE\u88CF\u8A71\uFF08\uFF1F\uFF09\uFF1A\u4EAC\u5927\u7406\u5B66\u7814\u7A76\u79D1\u3067\u306F\u3001\u76CA\u5DDD\u5148\u751F\u306F\u300C\u30CE\u30FC\u30D9\u30EB\u8CDE\u3068\u3063\u3066\u5F53\u305F\u308A\u524D\u300D\u3060\u3068\u8A00\u308F\u308C\u3066\u305F\u3089\u3057\u3044\u3002\u3055\u3089\u306B\u3001\u5927\u5B66\u5185\u306B\u306F\u300C\u3044\u3064\u30CE\u30FC\u30D9\u30EB\u8CDE\u3067\u3082\u304A\u304B\u3057\u304F\u306A\u3044\u300D\u3068\u3044\u308F\u308C\u308B\u4EBA\u304C\u5C11\u306A\u304F\u3068\u3082\u7247\u624B\u3067\u6570\u3048\u5207\u308C\u306A\u3044\u3068\u304B\u3002",
+  "id" : 951109863,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "951110244",
+  "text" : "\u3055\u3089\u306B\u88CF\u306E\u8A71\u306B\u306A\u308B\u3068\u300C\u30CE\u30FC\u30D9\u30EB\u8CDE\u306F\u5730\u57DF\u3067\u6301\u3061\u56DE\u308A\u3067\u3001\u30A2\u30B8\u30A2\u306F\u306A\u304B\u306A\u304B\u9806\u756A\u304C\u56DE\u3063\u3066\u3053\u306A\u3044\u304B\u3089\u53D7\u8CDE\u3067\u304D\u306A\u3044\u300D\u3068\u304B\u3082\u8A00\u308F\u308C\u3066\u308B\u3089\u3057\u3044\u3002",
+  "id" : 951110244,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "951110421",
+  "text" : "\u3042\u3001\u60C5\u5831\u6E90\u306F\u67D0\u6388\u696D\u306E\u67D0\u5148\u751F\u306E\u96D1\u8AC7\u3067\u3059\uFF57\u3002",
+  "id" : 951110421,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "951127060",
+  "text" : "\u4ECA\u65E5\u306F\u5DE8\u4EBA\u30D5\u30A1\u30F3\u3068\u962A\u795E\u30D5\u30A1\u30F3\u76DB\u308A\u4E0A\u304C\u3063\u3066\u308B\u306A\u30FC\u3002\u4E2D\u65E5\u30D5\u30A1\u30F3\u306F\u7279\u306B\u8208\u5473\u3082\u306A\u304F\u773A\u3081\u3066\u308B\u3051\u3069\uFF57\u3002",
+  "id" : 951127060,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "951224539",
+  "text" : "jawp\uFF1A[[\u958B\u6C34\u8DEF]]\u306F\u3001\u3068\u308A\u3042\u3048\u305A\u6BD4\u529B\u3068\u6BD4\u30A8\u30CD\u30EB\u30AE\u30FC\u307E\u3067\u8AAC\u660E\u7D42\u308F\u3063\u305F\u3002\u660E\u65E5\u4E2D\u306B\u4FDD\u5B58\u5247\u3082\u66F8\u304D\u4E0A\u3052\u3066\u3001\u3068\u308A\u3042\u3048\u305A\u52A0\u7B46\u30B3\u30F3\u306B\u30A8\u30F3\u30C8\u30EA\u30FC\u3059\u308B\u305E\u30FC\uFF01",
+  "id" : 951224539,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "951308249",
+  "text" : "\u3054\u98EF\u98DF\u3079\u305F\u3057\u3001\u4ECA\u65E5\u306F\u5BDD\u308B\u3088\uFF01",
+  "id" : 951308249,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "951311598",
+  "text" : "\u524D\u306B\u5473\u564C\u6C41\u4F5C\u3063\u3066\u3084\u3051\u3069\u3057\u305F\u820C\u304C\u3088\u3046\u3084\u304F\u6CBB\u308A\u304B\u3051\u305F\u3068\u601D\u3063\u305F\u3089\u3001\u307E\u305F\u4ECA\u65E5\u6696\u3081\u306A\u304A\u3057\u305F\u5473\u564C\u6C41\u3067\u706B\u50B7\u3057\u305F\u30FB\u30FB\u30FB\u3002",
+  "id" : 951311598,
+  "created_at" : "2008-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949461546",
+  "text" : "\u30B5\u30FC\u30AF\u30EB\u52E7\u8A98\u306E\u30C1\u30E9\u30B7\u3092\u307F\u3066\u3001\u30B0\u30E9\u30D5\u7406\u8AD6\u7684\u306A\u554F\u984C\u3092\u601D\u3044\u3064\u3044\u3066\u96A3\u306E\u3084\u3064\u306B\u8A71\u3057\u3066\u307F\u305F\u3089\u3001\u7B11\u308F\u308C\u305F\u3002",
+  "id" : 949461546,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949461669",
+  "text" : "\u3042\u3001\u3068\u3044\u3046\u308F\u3051\u3067\u305F\u3060\u3044\u307E\u3067\u3059\u3002",
+  "id" : 949461669,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949462112",
+  "text" : "\u706B\u66DC\u65E5\u306E\u6388\u696D\u306F\u30013,4\u9650\u51FA\u306A\u304F\u3066\u3044\u3044\u3053\u3068\u304C\u308F\u304B\u3063\u305F\u3002\u3068\u3044\u3046\u304B\u3001\u51FA\u3066\u3066\u3082\u6642\u9593\u306E\u7121\u99C4\u3059\u304E\u308B\u306E\u3067\u3001\u5E30\u3063\u3066\u5225\u306E\u3053\u3068\u3084\u3063\u3066\u305F\u307B\u3046\u304C\u6709\u610F\u7FA9\u3002\u660E\u3089\u304B\u306B\u3002",
+  "id" : 949462112,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "meL_meL",
+      "screen_name" : "mel_mel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "277297225",
+      "id" : 277297225
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949463087",
+  "text" : "@mel_mel \u5996\u7CBE\u3001\u3068\u304B\u8A00\u3063\u3066\u307F\u308B\u3002\u540C\u3058\u304B\u308F\u3044\u3055\u3067\u300C\u73FE\u5B9F\u306B\u306F\u3044\u308B\u304B\u3044\u306A\u3044\u304B\u300D\u7684\u5BFE\u7ACB\u3068\u3057\u3066\u3002\uFF1C\u5E7C\u5973\u306E\u53CD\u5BFE",
+  "id" : 949463087,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949463902",
+  "text" : "\u5148\u65E5\u304B\u3089\u30B5\u30FC\u30D0\u30FC\u306ESMTP\u306E\u8ABF\u5B50\u304C\u304A\u304B\u3057\u3044\u3068\u3044\u3046\u304B\u3001\u307E\u3063\u305F\u304F\u63A5\u7D9A\u3067\u304D\u306A\u304F\u306A\u3063\u305F\u306E\u3067\u7BA1\u7406\u8005\u306B\u554F\u3044\u5408\u308F\u305B\u308B\u3002",
+  "id" : 949463902,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949464086",
+  "text" : "\u305D\u3057\u3066\u3001\u305D\u308C\u304C\u7D42\u308F\u3063\u305F\u3089\u4ECA\u65E5\u306F\u3068\u3063\u3068\u3068\u5BDD\u308B\u3088\uFF01\u7720\u3044\u3057\u3001\u52A0\u7B46\u30B3\u30F3\u306E\u3084\u3064\u306F\u660E\u65E5\uFF01",
+  "id" : 949464086,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949516394",
+  "text" : "SMTP\u4E0D\u8ABF\u306E\u539F\u56E0\u304C\u5206\u304B\u3063\u305F\u3002Yahoo!BB\u304C\u30DD\u30FC\u30C825\u3092\u30D6\u30ED\u30C3\u30AF\u3057\u3066\u308B\u306E\u304C\u539F\u56E0\u3089\u3057\u3044\u3002\u3069\u3046\u306B\u304B\u5BFE\u5FDC\u3057\u3066\u304F\u308C\u306A\u3044\u306E\u304B\u306A\u3002",
+  "id" : 949516394,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949552505",
+  "text" : "\u5916\u304B\u3089\u3001\u300CSecret of my heart\u300D\u306E\u53E3\u7B1B\u304C\u805E\u3053\u3048\u305F\uFF57",
+  "id" : 949552505,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "949604520",
+  "text" : "\u3055\u3066\u3001\u6628\u65E5\u304B\u3089\u4E45\u3057\u3076\u308A\u306B\u6C88\u9ED9\u306E\u8266\u968A\u30921\u5DFB\u304B\u3089\u8AAD\u307F\u76F4\u3057\u3066\u308B\u306E\u3067\u3001\u305D\u308C\u8AAD\u307F\u306A\u304C\u3089\u5BDD\u308B\uFF01\u304A\u3084\u3059\u307F\u30FC\u3002",
+  "id" : 949604520,
+  "created_at" : "2008-10-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947696697",
+  "text" : "\u7E2E\u7D04\u4F7F\u3046\u6D3E\u3060\u304B\u3089\u3001\u30C7\u30AB\u30EB\u30C8\u5EA7\u6A19\u8A18\u53F7\u4F7F\u308F\u308C\u308B\u3068\u3044\u3061\u3044\u3061\u66F8\u304D\u76F4\u3059\u306E\u304C\u5927\u5909\u3002",
+  "id" : 947696697,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947698944",
+  "text" : "\u9023\u7D9A\u5024\u3092\u96E2\u6563\u5316\u3059\u308B\u3053\u3068\u306A\u304F\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30FC\u306B\u8A08\u7B97\u3055\u305B\u308B\u65B9\u6CD5\u3092\u7814\u7A76\u3057\u305F\u3044\u3002\u5B9F\u73FE\u53EF\u80FD\u6027\u306F\u5225\u3060\u3051\u3069\u3002",
+  "id" : 947698944,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947703191",
+  "text" : "\u9023\u7D9A\u5024\u3067\u6271\u3046\u305F\u3081\u306B\u306F\u3001\u305D\u3082\u305D\u3082\u306E\u6F14\u7B97\u51E6\u7406\u306E\u6982\u5FF5\u3092\u5909\u3048\u308B\u5FC5\u8981\u304C\u3042\u308B\u3060\u308D\u3046\u306A\u30FB\u30FB\u30FB\u3002\u30BD\u30D5\u30C8\u7684\u306B\u3069\u3046\u3053\u3046\u3067\u304D\u308C\u3070\u3044\u3044\u3051\u3069\u3001\u30CF\u30FC\u30C9\u7684\u306A\u554F\u984C\u306B\u306A\u308B\u3068\u3082\u3046\u89E6\u308C\u306A\u3044\uFF57\u3002",
+  "id" : 947703191,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947709079",
+  "text" : "\u524D\u306E\u5E2D\u306E\u30CE\u30FC\u30C8\u30C6\u30A4\u30AB\u30FC\u304C\u4EA4\u4EE3\u3057\u3066\u3001\u670D\u304C\u30D4\u30F3\u30AF\u3044\u4EBA\u306B\u306A\u3063\u305F\u3002\u76EE\u304C\u75DB\u304F\u306A\u308A\u305D\u3046\u3060\uFF57\u3002",
+  "id" : 947709079,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947895078",
+  "text" : "3\u9650\u76EE\u304C\u65E9\u304F\u7D42\u308F\u308A\u3059\u304E\u3066\u6687\u306B\u306A\u3063\u305F\u306E\u3067\u3044\u3063\u305F\u3093\u5E30\u3063\u3066\u304D\u305F\u30025\u9650\u76EE\u306F16:30\u304B\u3089\u306A\u306E\u3067\u3001\u3042\u30682\u6642\u9593\u3050\u3089\u3044\u3042\u308B\u3002",
+  "id" : 947895078,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947907174",
+  "text" : "\u30D6\u30E9\u30A6\u30B6\u306E\u30C7\u30D5\u30A9\u30EB\u30C8\u30D5\u30A9\u30F3\u30C8\u3092\u30E1\u30A4\u30EA\u30AA\u306B\u3057\u30662\u9031\u9593\u3050\u3089\u3044\u305F\u3064\u3051\u3069\u3001\u3084\u3063\u3071\u308A\u6163\u308C\u308B\u3068\u3053\u3063\u3061\u306E\u307B\u3046\u304C\u898B\u3084\u3059\u3044\u3063\u3066\u3053\u3068\u306B\u6C17\u4ED8\u304F\u3002",
+  "id" : 947907174,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947915681",
+  "text" : "\u3055\u3066\u3001\u3068\u308A\u3042\u3048\u305A\u5FAE\u7A4D\u306E\u8AB2\u984C\u3084\u308B\u304B\u306A\u3002",
+  "id" : 947915681,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947947917",
+  "text" : "twitter\u306F\u300C\u4E00\u4EBA\u3067\u4E00\u5EA6\u306B\u305F\u304F\u3055\u3093\u767A\u8A00\u3057\u305F\u3089TL\u57CB\u307E\u308B\u3067\u3057\u3087\uFF01\u30DE\u30CA\u30FC\u9055\u53CD\u3060\uFF01\uFF01\u300D\u3068\u304B\u8A00\u308F\u308C\u306A\u3044\u304B\u3089\u697D\u3067\u3044\u3044\u306A\u3002",
+  "id" : 947947917,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947949038",
+  "text" : "\u3055\u3066\u3001\u305D\u308D\u305D\u308D\u5B66\u6821\u623B\u308B\u304B\u30025\u9650\u76EE\u306F\u300C\u4EBA\u6587\u5730\u7406\u5B66\u5404\u8AD6\uFF08\u90FD\u5E02\uFF09\u300D\u3067\u3059\u3002\u5E30\u3063\u3066\u304D\u305F\u3089\u30EC\u30DD\u30FC\u30C8\u3042\u30681\u554F\u7D42\u308F\u3089\u305B\u3066\u3001\u4ECA\u65E5\u306F\u65E9\u3081\u306B\u5BDD\u305F\u3044\u3002",
+  "id" : 947949038,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947949163",
+  "text" : "\u3057\u304B\u3057\u3001jawp\u306E\u30B5\u30FC\u30D0\u30FC\u307E\u3060\u91CD\u3044\u306E\u304B\u30FC\u30FB\u30FB\u30FB\u3002",
+  "id" : 947949163,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "948076595",
+  "text" : "\u6708\u66DC\u65E5\u3068\u706B\u66DC\u65E5\u306F5\u9650\u76EE\u307E\u3067\u6388\u696D\u304C\u3042\u308B\u306E\u3067\u3001\u3054\u98EF\u3092\u30EB\u30CD\uFF08\u751F\u5354\u306E\u30AB\u30D5\u30A7\uFF09\u3067\u98DF\u3079\u308B\u3053\u3068\u306B\u3057\u305F\u3002",
+  "id" : 948076595,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "948077714",
+  "text" : "jawp\uFF1A\u7BA1\u7406\u8005\u6A29\u9650\u306F\u3068\u308A\u3042\u3048\u305A1\u9031\u9593\u306F\u4F7F\u308F\u305A\u4ED6\u306E\u4EBA\u304C\u3069\u3046\u3084\u3063\u3066\u308B\u306E\u304B\u89B3\u5BDF\u3002\u305D\u306E\u5F8C\u307C\u3061\u307C\u3061\u4F7F\u3044\u59CB\u3081\u3066\u307F\u3088\u3046\u304B\u306A\u3002",
+  "id" : 948077714,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "948115284",
+  "text" : "\u30EC\u30DD\u30FC\u30C8\u7D42\u308F\u308A\uFF01\u4ECA\u65E5\u306F\u7720\u3059\u304E\u308B\u306E\u3067\u3055\u3063\u3055\u3068\u5BDD\u3061\u3083\u3046\u3088\uFF01\uFF01\uFF08\u3049",
+  "id" : 948115284,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "948116717",
+  "text" : "\u3068\u601D\u3063\u305F\u3051\u3069\u3001\u30B5\u30A4\u30C8\u88FD\u4F5C\u306E\u3084\u3064\u5148\u306B\u3084\u308B\u3002",
+  "id" : 948116717,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "948288986",
+  "text" : "\u30ED\u30B4\u3068\u304Bfavicon\u3068\u304B\u82E5\u5E72\u306E\u5909\u66F4\u30672\u6642\u9593\u3050\u3089\u3044\u304B\u304B\u3063\u305F\u3002\u7720\u3044\u304B\u3089\u3082\u3046\u5BDD\u308B\u3088\uFF01",
+  "id" : 948288986,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "948915507",
+  "text" : "\u304A\u306F\u3088\u3046\u3002\u4ECA\u65E5\u3082\u304C\u3093\u3070\u308B\u3088\u30FC\u3002",
+  "id" : 948915507,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947575628",
+  "text" : "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u4ECA\u65E5\u306F\u96E8\u964D\u308A\u3067\u3059\u3002",
+  "id" : 947575628,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947599792",
+  "text" : "\u3055\u3066\u3001\u305D\u308C\u3058\u3083\u3044\u3063\u3066\u304D\u307E\u3059\uFF01\u4ECA\u65E5\u306F\u5FDC\u529B\u89E3\u6790\u6CD5\u3063\u3066\u3044\u3046\u697D\u3057\u307F\u306A\u6388\u696D\u304C\u3042\u308B\u306E\u3067\u3001\u30EB\u30F3\u30EB\u30F3\u6C17\u5206\u3067\u3044\u304D\u307E\u3059\u3002",
+  "id" : 947599792,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947618038",
+  "text" : "\u521D\u3081\u3066\u306E\u6388\u696D\u3063\u3066\u3001\u6559\u5BA4\u9593\u9055\u3048\u3066\u306A\u3044\u304B\u7DCA\u5F35\u3059\u308B\u3088\u306D\uFF57\u3002",
+  "id" : 947618038,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946658288",
+  "text" : "\u307E\u306010\u6642\u524D\u304B\u30FC\u30FB\u30FB\u30FB\u3002\u65E9\u8D77\u304D\u3059\u308B\u3068\u6642\u9593\u7684\u306B\u5F97\u3057\u305F\u6C17\u5206\u306B\u306A\u308B\u306A\uFF57\u3002",
+  "id" : 946658288,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946694235",
+  "text" : "\u304A\u8179\u3059\u3044\u3066\u304D\u305F\u3057\u3001\u3054\u98EF\u708A\u3053\u30FC",
+  "id" : 946694235,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946698863",
+  "text" : "\u305D\u3046\u3044\u3048\u3070\u5148\u9031\u5BB6\u306B\u5E30\u3063\u305F\u6642\u306B\u3001\u6BCD\u89AA\u3068\u59B9\u304C\u300C\u30A6\u30A3\u30AD\u30DA\u30C7\u30A3\u30A2\u300D\u3063\u3066\u8A00\u3063\u3066\u4F55\u304B\u5206\u304B\u3089\u306A\u304B\u3063\u305F\u3063\u3066\u3044\u3046\u3053\u3068\u304C\u3042\u3063\u305F\u30022\u4EBA\u3068\u3082\u305D\u308C\u306A\u308A\u306B\u30CD\u30C3\u30C8\u3084\u3063\u3066\u308B\u4EBA\u305F\u3061\u3060\u304B\u3089\u610F\u5916\u3060\u3063\u305F\u3002",
+  "id" : 946698863,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946699318",
+  "text" : "\u307E\u3041\u3001\u300C\u30CD\u30C3\u30C8\u4E0A\u306E\u767E\u79D1\u4E8B\u5178\u300D\u3063\u3066\u8A00\u3063\u305F\u3089\u300C\u3042\u30FC\u300D\u307F\u305F\u3044\u306A\u53CD\u5FDC\u3057\u3066\u305F\u3051\u308C\u3069\u3002\u540D\u524D\u306F\u305D\u3093\u306A\u306B\u58F2\u308C\u3066\u306A\u3044\u306E\u304B\u306A\u3041\u30FB\u30FB\u30FB\u3002\u500B\u4EBA\u7684\u306B\u306F\u540D\u524D\u304C\u5148\u884C\u3057\u3066\u3057\u307E\u3063\u3066\u308B\u611F\u3058\u304C\u3042\u3063\u305F\u3051\u308C\u3069\u3002",
+  "id" : 946699318,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946734711",
+  "text" : "jawp\uFF1ARfA\u6295\u7968\u7DE0\u3081\u5207\u308A\u307E\u3067\uFF19\u3055\u3093\u304C1\u6642\u9593\u5207\u3063\u3066\u3001\u81EA\u5206\u306F\u3042\u30686\u6642\u9593\u3050\u3089\u3044\u3002\u5168\u7D42\u4E86\uFF08Carkuni\u3055\u3093CU\uFF09\u307E\u3067\u306F\u3042\u30687\u6642\u9593\u534A\u3002",
+  "id" : 946734711,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946737020",
+  "text" : "\u304A\u3001\u3054\u98EF\u708A\u3051\u305F\u3002\u3058\u3083\u304A\u663C\u98DF\u3079\u3088\u30FC\u3002",
+  "id" : 946737020,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946762932",
+  "text" : "\u706B\u3092\u4F7F\u3046\u4F5C\u696D\u71B1\u3044\u308F\u30FC\u30FB\u30FB\u30FB\u3002",
+  "id" : 946762932,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946779273",
+  "text" : "\u3068\u3044\u3046\u308F\u3051\u3067\u3001\u4ECA\u65E5\u306E\u304A\u663C\u3054\u98EF\u3002 http:\/\/f.hatena.ne.jp\/twitter\/20081005122345",
+  "id" : 946779273,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946926475",
+  "text" : "\u4E45\u3005\u306BTeX\u89E6\u308B\u3068\u4F55\u304C\u306A\u3093\u3060\u304B\u5FD8\u308C\u308B\u306A\u30FC\uFF57",
+  "id" : 946926475,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946940559",
+  "text" : "\u3042\u3068\u3055\u3093\u3058\u3063\u3077\u3093\u30FC",
+  "id" : 946940559,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946957430",
+  "text" : "jawp\uFF1A\u3042\u30FC\u30FB\u30FB\u30FB\u3001\u7BA1\u7406\u8005\u6295\u7968\u7D42\u308F\u3063\u305F\u30FC\u3002\u306A\u3093\u3060\u304B\u3093\u3060\u3067\u3064\u304B\u308C\u305F\u3088\u30FC\uFF57\u3002",
+  "id" : 946957430,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946963799",
+  "text" : "\u307E\u3060\u78BA\u5B9A\u3058\u3083\u306A\u3044\u3051\u3069\u3001jawpRfA\u306F\u3001\u6700\u7D42\u652F\u6301\u738779%\u3067\u3057\u305F\u3002\u3061\u3087\u3063\u3068\u30AE\u30EA\u30AE\u30EA\uFF1F http:\/\/tinyurl.com\/rfa-aokomoriuta",
+  "id" : 946963799,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946987885",
+  "text" : "\u666E\u901A\u306E\u4EBA\u306B\u300C\u30E1\u30BF\u300D\u3063\u3066\u8A00\u3063\u3066\u3082\u306A\u304B\u306A\u304B\u901A\u3058\u306A\u3044\u3053\u3068\u306B\u6C17\u3065\u3044\u305F\u3002",
+  "id" : 946987885,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946988867",
+  "text" : "IRC\u3067\u306E\u4E00\u30B3\u30DE\uFF1A\u300C\u6614\u306E\u30CE\u30FC\u30C8\u30D1\u30BD\u30B3\u30F3\u306F\u753B\u9762\u6697\u304B\u3063\u305F\u306A\u3041\u300D\u2192\u81EA\u5206\u300C\u305D\u3046\u3067\u3059\u306D\u3001\u30D6\u30E9\u30A6\u30F3\u7BA1\u306F\u6697\u304B\u3063\u305F\u3067\u3059\u300D\u3002\u3000\u7D20\u3067\u30DC\u30B1\u3066\u3057\u307E\u3044\u307E\u3057\u305F\uFF57\uFF57\u3002",
+  "id" : 946988867,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946989963",
+  "text" : "\u300C\u5185\u7A4D\u30CE\u30EB\u30E0\u306E\u4E09\u89D2\u4E0D\u7B49\u5F0F\u3092\u8A3C\u660E\u305B\u3088\u300D\u3063\u3066\u554F\u984C\u3067\u3001\u30B3\u30FC\u30B7\u30FC\uFF1D\u30B7\u30E5\u30EF\u30EB\u30C4\u306E\u4E0D\u7B49\u5F0F\u3092\u8A3C\u660E\u306A\u3057\u306B\u4F7F\u3063\u3066\u3044\u3044\u3082\u306E\u3060\u308D\u3046\u304B\u3002",
+  "id" : 946989963,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947030666",
+  "text" : "jawp\uFF1A\u4ED6\u306E\u7BA1\u7406\u8005\u3055\u3093\u306B\u3044\u308D\u3044\u308D\u8A71\u3092\u805E\u304D\u3064\u3064\u4ECA\u5F8C\u306E\u5177\u4F53\u7684\u6D3B\u52D5\u3092\u30A4\u30E1\u30FC\u30B8\u4E2D",
+  "id" : 947030666,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947078034",
+  "text" : "\u3044\u304F\u3089\u89AA\u5207\u5FC3\u3060\u304B\u3089\u3063\u3066\u3001\u3044\u304F\u3089\u6B63\u3057\u3044\u304B\u3089\u3063\u3066\u3001\u4F1D\u3048\u65B9\u306B\u3088\u3063\u3066\u306F\u76F8\u624B\u306F\u3069\u3093\u3069\u3093\u5370\u8C61\u60AA\u304F\u3059\u308B\u3060\u3051\u3063\u3066\u3053\u3068\u304C\u3042\u308B\u3002",
+  "id" : 947078034,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947086059",
+  "text" : "\u3057\u304B\u3057\u3001\u307E\u306022\u6642\u3060\u3068\u3044\u3046\u306E\u304C\u306A\u3093\u304B\u4FE1\u3058\u3089\u308C\u306A\u3044\u3002\u306A\u3093\u3067\u3060\u308D\u3046\uFF1F\u65E9\u8D77\u304D\u3057\u305F\u305B\u3044\u3067\u8D77\u304D\u3066\u308B\u6642\u9593\u304C\u9577\u3044\u304B\u3089\uFF1F",
+  "id" : 947086059,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947086320",
+  "text" : "\u611F\u899A\u7684\u306B\u306F\u3082\u30462\u6642\u904E\u304E\u3068\u3044\u3046\u96F0\u56F2\u6C17\uFF57\u3002",
+  "id" : 947086320,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "947136761",
+  "text" : "\u3055\u3066\u3001\u5BDD\u3088\u3046\u3002\u304A\u3084\u3059\u307F\u30FC\u3002",
+  "id" : 947136761,
+  "created_at" : "2008-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u304B\u3041\u30FC\u306B\u3043\u30FC",
+      "screen_name" : "kaanee",
+      "indices" : [ 0, 7 ],
+      "id_str" : "14487872",
+      "id" : 14487872
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "945763602",
+  "geo" : { },
+  "id_str" : "945765639",
+  "in_reply_to_user_id" : 14487872,
+  "text" : "@kaanee \u3082\u3046\u3053\u308C\u4EE5\u4E0A\u5177\u306F\u3044\u3089\u306A\u3044\u3067\u3059\uFF57\u3002",
+  "id" : 945765639,
+  "in_reply_to_status_id" : 945763602,
+  "created_at" : "2008-10-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kaanee",
+  "in_reply_to_user_id_str" : "14487872",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "945780928",
+  "text" : "\u4F5C\u696D\u3057\u306A\u304C\u3089\u3044\u308D\u3044\u308D\u3084\u308B\u306E\u306F\u5927\u5909\u3060\uFF57",
+  "id" : 945780928,
+  "created_at" : "2008-10-04 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946133661",
+  "text" : "jawp\uFF1A\u6700\u8FD1\u3001\u81EA\u5206\u304C\u5927\u9805\u76EE\u4E3B\u7FA9\u306B\u306A\u3063\u305F\u306E\u306F\u3001\u4ECA\u306Ejawp\u306E\u8A18\u4E8B\u304C\u5C0F\u9805\u76EE\u4E3B\u7FA9\u3059\u304E\u3066\u5168\u4F53\u50CF\u304C\u3088\u304F\u5206\u304B\u3089\u306A\u304F\u306A\u3063\u3066\u3057\u307E\u3063\u3066\u3044\u308B\u306E\u304C\u539F\u56E0\u3060\u3068\u601D\u3063\u305F\u304B\u3089\u3002",
+  "id" : 946133661,
+  "created_at" : "2008-10-04 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946143464",
+  "text" : "enwp\u306B\u3042\u308B\u304B\u3089\u3063\u3066\u7279\u7B46\u6027\u3092\u6E80\u305F\u3057\u3066\u308B\u3068\u306F\u9650\u3089\u306A\u3044\u3093\u3060\u3088\u306A\u3041\u3002\u3002",
+  "id" : 946143464,
+  "created_at" : "2008-10-04 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946144065",
+  "text" : "\u3042\u30FC\u30FB\u30FB\u30FB\u958B\u6C34\u8DEF\u306E\u52A0\u7B46\u305C\u3093\u305C\u3093\u9032\u307E\u306A\u3044\uFF57\u3002\u660E\u65E5\u3053\u305D\u3084\u308D\u3046\uFF01",
+  "id" : 946144065,
+  "created_at" : "2008-10-04 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "946616240",
+  "text" : "\u304A\u306F\u3088\u3046\u3001\u3055\u3066\u3001\u4ECA\u65E5\u3053\u305D\u52A0\u7B46\u3059\u308B\u305E\uFF01\u76EE\u6A19\u306FRfA\u7D42\u4E86\u307E\u3067\u306B\uFF01",
+  "id" : 946616240,
+  "created_at" : "2008-10-04 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "944447109",
+  "text" : "\u5348\u524D\u4E2D\u306B\u4EBA\u6587\u5730\u7406\u5B66\u5404\u8AD6\u306E\u7D4C\u6E08\u5730\u7406\u3068\u6751\u843D\u3092\u53D7\u3051\u305F\u3051\u3069\u3001\u306A\u304B\u306A\u304B\u697D\u3057\u305D\u3046\uFF57\u3002",
+  "id" : 944447109,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "944453400",
+  "text" : "\u663C\u3054\u98EF\u304C\u65E9\u304F\u98DF\u3079\u7D42\u308F\u3063\u305F\u306E\u3067\u3001\u6C34\u7406\u5B66\u306E\u672C\u8AAD\u3093\u3067\u958B\u6C34\u8DEF\u306B\u3064\u3044\u3066\u5FA9\u7FD2\u4E2D\u3002\u6628\u65E5\u306F\u4E88\u5B9A\u5916\u306B\u51FA\u304B\u3051\u305F\u306E\u3067\u3001\u4ECA\u65E5\u4E2D\u306B\u958B\u6C34\u8DEF\u306E\u6982\u8981\u3068\u57FA\u790E\u5F0F\u3050\u3089\u3044\u306F\u66F8\u304D\u305F\u3044\u3002",
+  "id" : 944453400,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "944793080",
+  "text" : "BOX\u3067\u30AE\u30E7\u30A6\u30B6\u4F5C\u3063\u3066\u308B\u3002 http:\/\/f.hatena.ne.jp\/twitter\/20081003204517",
+  "id" : 944793080,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "944858801",
+  "text" : "\u5E30\u3063\u3066\u304D\u305F\u3002",
+  "id" : 944858801,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "944918735",
+  "text" : "\u3046\u3042\u30FC\u3001\u7720\u3044\u3002\u7720\u3059\u304E\u3066\u8A18\u4E8B\u66F8\u3051\u306A\u3044\u3088\uFF01",
+  "id" : 944918735,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "944966362",
+  "text" : "\u610F\u8B58\u304C\u3055\u3063\u304D\u304B\u3089\u65AD\u7247\u7684\u306B\u98DB\u3093\u3067\u308B\u306E\u3067\u5BDD\u307E\u3059\u3002",
+  "id" : 944966362,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "945487372",
+  "text" : "\u304A\u306F\u3088\u3046\u3002\u4E00\u77AC\u671D\u306E6\u6642\u304B\u3068\u601D\u3063\u305F\u3051\u3069\u3001\u3088\u304F\u8003\u3048\u305F\u3089\u3053\u306E\u6642\u671F6\u6642\u3067\u3053\u3093\u306A\u306B\u660E\u308B\u3044\u308F\u3051\u306A\u3044\u304B\uFF57\u3002",
+  "id" : 945487372,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "945530382",
+  "text" : "\u8AD6\u7406\u7684\u306B\u6B63\u3057\u3044\u3053\u3068\u3092\u4F1D\u3048\u3066\u76F8\u624B\u304C\u6012\u308B\u306E\u306F\u3001\u78BA\u304B\u306B\u3053\u3063\u3061\u306E\u4F1D\u3048\u65B9\u3082\u3082\u3063\u3068\u5DE5\u592B\u3067\u304D\u308B\u3068\u306F\u601D\u3046\u3051\u3069\u3001\u4E00\u65B9\u3001\u76F8\u624B\u306B\u3082\u300C\u5584\u610F\u306B\u53D6\u308B\u300D\u3068\u3044\u3046\u884C\u52D5\u3092\u3082\u3063\u3068\u8981\u6C42\u3057\u305F\u3044\u3002",
+  "id" : 945530382,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "945531417",
+  "text" : "\u671B\u3093\u3060\u308A\u6C42\u3081\u308B\u3053\u3068\u306F\u3042\u3063\u3066\u3082\u3001\u305D\u308C\u3092\u5FC5\u7136\u3068\u306F\u601D\u308F\u306A\u3044\u3002\u305D\u308C\u304C\u304B\u306A\u308F\u306A\u304B\u3063\u305F\u304B\u3089\u3068\u3044\u3063\u3066\u3001\u88CF\u5207\u3089\u308C\u305F\u6C17\u6301\u3061\u306B\u306A\u308B\u306E\u306F\u304A\u304B\u3057\u3044\u3053\u3068\u3060\u3068\u601D\u3046\u3002",
+  "id" : 945531417,
+  "created_at" : "2008-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -10338,76 +9683,414 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "942960158",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "942981419",
   "in_reply_to_user_id" : 6529602,
-  "text" : "予想より @Kei_Kei の移動速度が速く、南下しすぎたので烏丸通を北上。結局、今出川通まで戻ってきたというオチ。",
+  "text" : "\u4E88\u60F3\u3088\u308A @Kei_Kei \u306E\u79FB\u52D5\u901F\u5EA6\u304C\u901F\u304F\u3001\u5357\u4E0B\u3057\u3059\u304E\u305F\u306E\u3067\u70CF\u4E38\u901A\u3092\u5317\u4E0A\u3002\u7D50\u5C40\u3001\u4ECA\u51FA\u5DDD\u901A\u307E\u3067\u623B\u3063\u3066\u304D\u305F\u3068\u3044\u3046\u30AA\u30C1\u3002",
   "id" : 942981419,
   "in_reply_to_status_id" : 942960158,
-  "created_at" : "Thu Oct 02 07:19:18 +0000 2008",
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "942914818",
-  "text" : "←実は四条より南はあんまり行かないのでそこまで詳しくない人。",
-  "id" : 942914818,
-  "created_at" : "Thu Oct 02 05:45:25 +0000 2008",
+  "geo" : { },
+  "id_str" : "942984377",
+  "text" : "\u3068\u308A\u3042\u3048\u305A\u30EC\u30F3\u30BF\u30B5\u30A4\u30AF\u30EB\u3063\u307D\u3044\u4EBA\u3092\u63A2\u3057\u3066\u308B\u3002\u306A\u304B\u306A\u304B\u73FE\u308C\u306A\u3044\u306E\u3067\u3001\u6016\u304F\u3066\u9003\u3052\u305F\u3093\u3058\u3083\u306A\u3044\u304B\u3068\u63A8\u6E2C\u3002",
+  "id" : 942984377,
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "942914529",
-  "text" : "というか、京都駅付近ってことは、京女の子達に聞いたほうがいいんかなぁ。。",
-  "id" : 942914529,
-  "created_at" : "Thu Oct 02 05:45:07 +0000 2008",
+  "geo" : { },
+  "id_str" : "942989177",
+  "text" : "\u5C0F\u8179\u304C\u7A7A\u3044\u305F\u306E\u3067\u3058\u3083\u304C\u308A\u3053\u98DF\u3079\u306A\u304C\u3089\u5F85\u6A5F\u4E2D\u3002\u5F85\u3061\u4EBA\u73FE\u308C\u305A\u3002\n http:\/\/f.hatena.ne.jp\/twitter\/20081002163233",
+  "id" : 942989177,
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943053161",
+  "text" : "\u4EAC\u90FD\u99C5\u3078\u96FB\u8ECA\u3067\u5411\u304B\u3046\u3002",
+  "id" : 943053161,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943121181",
+  "text" : "\u3057\u307E\u3063\u305F\u3001\u5199\u771F\u64AE\u308A\u5FD8\u308C\u305F\uFF57\uFF57\u3002",
+  "id" : 943121181,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943132225",
+  "text" : "\u4F55\u6545\u4EBA\u306F\u624B\u3092\u3064\u306A\u304E\u305F\u304C\u308B\u306E\u304B\u3001\u3082\u3063\u3068\u8A00\u3048\u3070\u3001\u4F55\u6545\u6027\u7684\u306A\u3082\u306E\u306B\u8208\u596E\u3059\u308B\u306E\u304B\u3001\u305D\u308C\u306F\u672C\u80FD\u306B\u3088\u308B\u3082\u306E\u306A\u306E\u304B\u3001\u4EBA\u683C\u5F62\u6210\u306B\u3088\u308B\u3082\u306E\u306A\u306E\u304B\u3002",
+  "id" : 943132225,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943133455",
+  "text" : "\u307F\u305F\u3044\u306A\u3053\u3068\u3092\u3001\u524D\u3067\u30A4\u30C1\u30E3\u30A4\u30C1\u30E3\u3057\u3066\u308B\u30AB\u30C3\u30D7\u30EB\u3092\u898B\u3066\u8003\u3048\u3066\u307F\u305F\u3002\u3084\u3063\u3071\u308A\u751F\u7269\u7684\u306A\u672C\u80FD\u3058\u3083\u306A\u3044\u90E8\u5206\u3082\u3042\u308A\u305D\u3046\u3060\u3002",
+  "id" : 943133455,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943138686",
+  "text" : "\u3082\u826F\u304F\u8003\u3048\u305F\u3089\u3001\u624B\u3092\u3064\u306A\u3050\u3068\u3044\u3046\u884C\u70BA\u306B\u679C\u305F\u3057\u3066\u751F\u7269\u7684\u306B\u4F55\u304B\u610F\u5473\uFF08\u3042\u308B\u3044\u306F\u4FA1\u5024\uFF09\u304C\u3042\u308B\u304B\u3063\u3066\u8A00\u3048\u3070\u3001\u7279\u306B\u306A\u3044\u3060\u308D\u3046\u306A\u3002",
+  "id" : 943138686,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943189726",
+  "text" : "\u3042\u3001\u5E30\u3063\u3066\u304D\u307E\u3057\u305F\u3002\u3061\u3087\u3063\u3068\u5831\u544A\u5FD8\u308C\u305F\uFF57\u3002",
+  "id" : 943189726,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ところてん",
+      "name" : "Kei-Kei",
+      "screen_name" : "Kei_Kei",
+      "indices" : [ 0, 8 ],
+      "id_str" : "6529602",
+      "id" : 6529602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "943125227",
+  "geo" : { },
+  "id_str" : "943190496",
+  "in_reply_to_user_id" : 6529602,
+  "text" : "@Kei_Kei \u306F\u306A\u3093\u3068\u3044\u3046\u304B\u3001\u4E00\u5FDC\u4E88\u60F3\u7BC4\u56F2\u5185\u306E\u4EBA\u3067\u3057\u305F\uFF57\u3002\u304C\u307E\u3041\u3001\u5F37\u3044\u3066\u8A00\u3048\u3070\u601D\u3063\u3066\u305F\u3088\u308A\u3082\u3084\u305B\u3066\u3089\u3063\u3057\u3083\u3063\u305F\uFF57\u3002",
+  "id" : 943190496,
+  "in_reply_to_status_id" : 943125227,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Kei_Kei",
+  "in_reply_to_user_id_str" : "6529602",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943249087",
+  "text" : "jawp\uFF1A[[\u30B3\u30F3\u30AF\u30EA\u30FC\u30C8\u5DE5]]\u304C10\/2\u306E\u65B0\u7740\u8A18\u4E8B\u306B\u9078\u3070\u308C\u305F\uFF01\u6708\u9593\u611F\u8B1D\u8CDE\u3082\u305D\u3046\u3060\u3063\u305F\u3051\u3069\u3001\u77E5\u3089\u306A\u3044\u9593\u306B\u8A71\u304C\u9032\u3093\u3067\u3066\u9A5A\u3044\u3066\u308B\uFF57\u3002",
+  "id" : 943249087,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943264883",
+  "text" : "[[\u958B\u6C34\u8DEF]]\u3092\u52A0\u7B46\u30B3\u30F3\u30AF\u30FC\u30EB\u306B\u51FA\u305D\u3046\u3068\u7BC0\u7ACB\u3066\u3057\u305F\u3089\u3059\u3054\u3044\u91CF\u306B\u306A\u3063\u3066\u308B\u3063\u3066\u3044\u3046\uFF57\uFF57\u3002\u3053\u308C\u3069\u3046\u3057\u3088\u3046\u3002",
+  "id" : 943264883,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943265292",
+  "text" : "1\u30F6\u6708\u3042\u3063\u305F\u3089\u5341\u5206\u52A0\u7B46\u3067\u304D\u308B\u304B\u306A\u3041\u30FB\u30FB\u30FB\u3002",
+  "id" : 943265292,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943306043",
+  "text" : "\u3055\u3066\u5BDD\u308B\u3002\u304A\u3084\u3059\u307F\u30FC\u3002",
+  "id" : 943306043,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "943931364",
+  "text" : "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3002",
+  "id" : 943931364,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "942643593",
+  "text" : "\u60C5\u5831\u51E6\u7406\u304A\u3088\u3073\u6F14\u7FD2\u306E\u6388\u696D\u4E2D\u3002\u306A\u306B\u3053\u306E\u4E2D\u5B66\u751F\u30EC\u30D9\u30EB\u306E\u6388\u696D\uFF57\uFF57\u3002",
+  "id" : 942643593,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "942644100",
+  "text" : "\u3072\u307E\u3059\u304E\u308B\u306E\u3067\u30B5\u30FC\u30D5\u30A3\u30F3\u3057\u3066\u305F\u3089\u3053\u3093\u306A\u306E\u898B\u3064\u3051\u305F\u3002\u305D\u3046\u304B\u3001C#\u306F\u6570\u5024\u8A08\u7B97\u901F\u5EA6\u901F\u304B\u3063\u305F\u306E\u304B\u3002 http:\/\/homepage2.nifty.com\/Fujimaki\/download\/Comparison\/",
+  "id" : 942644100,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "942644456",
+  "text" : "\u307E\u3041\u3001\u30C7\u30FC\u30BF\u304C\u53E4\u3059\u304E\u308B\u3051\u3069\u3002\u4ECA\u306F\u3069\u3046\u306A\u3093\u3060\u308D\u3046\uFF1F",
+  "id" : 942644456,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
       "screen_name" : "tokoroten",
       "indices" : [ 0, 10 ],
       "id_str" : "13602752",
@@ -10417,153 +10100,93 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "942909281",
-  "geo" : {
-  },
-  "id_str" : "942911650",
+  "in_reply_to_status_id_str" : "942647874",
+  "geo" : { },
+  "id_str" : "942656530",
   "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten え、死ぬんですか私ｗ。",
-  "id" : 942911650,
-  "in_reply_to_status_id" : 942909281,
-  "created_at" : "Thu Oct 02 05:40:39 +0000 2008",
+  "text" : "@tokoroten \u3093\u30FC\u3002\u7D50\u5C40\u305D\u306E\u8FBA\u306A\u3093\u3067\u3057\u3087\u3046\u306D\u3002\u8A00\u8A9E\u4ED5\u69D8\u3068\u3044\u3046\u3088\u308A\u306F\u30B3\u30F3\u30D1\u30A4\u30E9\u3042\u308B\u3044\u306F\u4EEE\u60F3\u30DE\u30B7\u30F3\u306E\u6027\u80FD\u306B\u3082\u306E\u306A\u6C17\u304C\u3057\u307E\u3059\u3002",
+  "id" : 942656530,
+  "in_reply_to_status_id" : 942647874,
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "tokoroten",
   "in_reply_to_user_id_str" : "13602752",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kei-Kei",
-      "screen_name" : "Kei_Kei",
-      "indices" : [ 0, 8 ],
-      "id_str" : "6529602",
-      "id" : 6529602
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "942907541",
-  "geo" : {
-  },
-  "id_str" : "942911346",
-  "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei とりあえずDM送っておきましたんで、そちらにー。",
-  "id" : 942911346,
-  "in_reply_to_status_id" : 942907541,
-  "created_at" : "Thu Oct 02 05:40:10 +0000 2008",
-  "in_reply_to_screen_name" : "Kei_Kei",
-  "in_reply_to_user_id_str" : "6529602",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kazuhiro",
-      "screen_name" : "kzhr",
-      "indices" : [ 0, 5 ],
-      "id_str" : "11484132",
-      "id" : 11484132
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "942901834",
-  "geo" : {
-  },
-  "id_str" : "942902555",
-  "in_reply_to_user_id" : 11484132,
-  "text" : "@kzhr 要約欄だと取り消しが効かないのでほんといやですよねぇ・・・（ならタイプミスするなってはなしですが。",
-  "id" : 942902555,
-  "in_reply_to_status_id" : 942901834,
-  "created_at" : "Thu Oct 02 05:26:55 +0000 2008",
-  "in_reply_to_screen_name" : "kzhr",
-  "in_reply_to_user_id_str" : "11484132",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "942899157",
-  "text" : "[[開水路]]の履歴を見てみると、要約欄に「stab追加」とかいうコメントを自分がしているのを見つけた。はずかしい・・・。",
-  "id" : 942899157,
-  "created_at" : "Thu Oct 02 05:22:02 +0000 2008",
+  "geo" : { },
+  "id_str" : "942879230",
+  "text" : "\u5E30\u3063\u3066\u304D\u305F\u30023\u9650\u306E\u65E5\u306A\u4E0A\u306B\u3001\u6388\u696D\u958B\u59CB\u7B2C1\u9031\u76EE\u3060\u304B\u3089\u30AC\u30A4\u30C0\u30F3\u30B9\u3060\u3051\u3067\u65E9\u3044\u306E\u306A\u3093\u306E\u3063\u3066\uFF57\u3002",
+  "id" : 942879230,
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kei-Kei",
-      "screen_name" : "Kei_Kei",
-      "indices" : [ 0, 8 ],
-      "id_str" : "6529602",
-      "id" : 6529602
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "942894749",
-  "geo" : {
-  },
-  "id_str" : "942898250",
-  "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei 割と本気でｗ。役に立てるかどうか知りませんがｗｗ。",
-  "id" : 942898250,
-  "in_reply_to_status_id" : 942894749,
-  "created_at" : "Thu Oct 02 05:20:51 +0000 2008",
-  "in_reply_to_screen_name" : "Kei_Kei",
-  "in_reply_to_user_id_str" : "6529602",
+  "geo" : { },
+  "id_str" : "942885925",
+  "text" : "Microsoft\u304CManaged DirectX\u306E\u958B\u767A\u3092\u3084\u3081\u3066XNA\u306B\u7D71\u5408\u3057\u3066\u3057\u307E\u3063\u305F\u306E\u306F\u826F\u304F\u306A\u304B\u3063\u305F\u3068\u601D\u3046\u306A\u3002C#\u4F7F\u3044\u306E\u7814\u7A76\u8005\u306B\u3068\u3063\u3066\u306F\u7279\u306B\u3002",
+  "id" : 942885925,
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "942890292",
+  "text" : "\u3055\u3066\u3001\u305B\u3063\u304B\u304F\u4F59\u5206\u306A\u6642\u9593\u3082\u624B\u306B\u5165\u308C\u305F\u3057\u3001\u52A0\u7B46\u3084\u308B\u305E\u30FC\u3002",
+  "id" : 942890292,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kei-Kei",
@@ -10577,99 +10200,150 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "942890104",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "942892782",
   "in_reply_to_user_id" : 6529602,
-  "text" : "@Kei_Kei よかったらお手伝いしましょうかｗ？＜住居探し",
+  "text" : "@Kei_Kei \u3088\u304B\u3063\u305F\u3089\u304A\u624B\u4F1D\u3044\u3057\u307E\u3057\u3087\u3046\u304B\uFF57\uFF1F\uFF1C\u4F4F\u5C45\u63A2\u3057",
   "id" : 942892782,
   "in_reply_to_status_id" : 942890104,
-  "created_at" : "Thu Oct 02 05:13:13 +0000 2008",
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kei_Kei",
   "in_reply_to_user_id_str" : "6529602",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942890292",
-  "text" : "さて、せっかく余分な時間も手に入れたし、加筆やるぞー。",
-  "id" : 942890292,
-  "created_at" : "Thu Oct 02 05:09:30 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942885925",
-  "text" : "MicrosoftがManaged DirectXの開発をやめてXNAに統合してしまったのは良くなかったと思うな。C#使いの研究者にとっては特に。",
-  "id" : 942885925,
-  "created_at" : "Thu Oct 02 05:03:20 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942879230",
-  "text" : "帰ってきた。3限の日な上に、授業開始第1週目だからガイダンスだけで早いのなんのってｗ。",
-  "id" : 942879230,
-  "created_at" : "Thu Oct 02 04:53:53 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ところてん",
+      "name" : "Kei-Kei",
+      "screen_name" : "Kei_Kei",
+      "indices" : [ 0, 8 ],
+      "id_str" : "6529602",
+      "id" : 6529602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "942894749",
+  "geo" : { },
+  "id_str" : "942898250",
+  "in_reply_to_user_id" : 6529602,
+  "text" : "@Kei_Kei \u5272\u3068\u672C\u6C17\u3067\uFF57\u3002\u5F79\u306B\u7ACB\u3066\u308B\u304B\u3069\u3046\u304B\u77E5\u308A\u307E\u305B\u3093\u304C\uFF57\uFF57\u3002",
+  "id" : 942898250,
+  "in_reply_to_status_id" : 942894749,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Kei_Kei",
+  "in_reply_to_user_id_str" : "6529602",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "942899157",
+  "text" : "[[\u958B\u6C34\u8DEF]]\u306E\u5C65\u6B74\u3092\u898B\u3066\u307F\u308B\u3068\u3001\u8981\u7D04\u6B04\u306B\u300Cstab\u8FFD\u52A0\u300D\u3068\u304B\u3044\u3046\u30B3\u30E1\u30F3\u30C8\u3092\u81EA\u5206\u304C\u3057\u3066\u3044\u308B\u306E\u3092\u898B\u3064\u3051\u305F\u3002\u306F\u305A\u304B\u3057\u3044\u30FB\u30FB\u30FB\u3002",
+  "id" : 942899157,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "kzhr",
+      "screen_name" : "kzhr",
+      "indices" : [ 0, 5 ],
+      "id_str" : "11484132",
+      "id" : 11484132
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "942901834",
+  "geo" : { },
+  "id_str" : "942902555",
+  "in_reply_to_user_id" : 11484132,
+  "text" : "@kzhr \u8981\u7D04\u6B04\u3060\u3068\u53D6\u308A\u6D88\u3057\u304C\u52B9\u304B\u306A\u3044\u306E\u3067\u307B\u3093\u3068\u3044\u3084\u3067\u3059\u3088\u306D\u3047\u30FB\u30FB\u30FB\uFF08\u306A\u3089\u30BF\u30A4\u30D7\u30DF\u30B9\u3059\u308B\u306A\u3063\u3066\u306F\u306A\u3057\u3067\u3059\u304C\u3002",
+  "id" : 942902555,
+  "in_reply_to_status_id" : 942901834,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kzhr",
+  "in_reply_to_user_id_str" : "11484132",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kei-Kei",
+      "screen_name" : "Kei_Kei",
+      "indices" : [ 0, 8 ],
+      "id_str" : "6529602",
+      "id" : 6529602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "942907541",
+  "geo" : { },
+  "id_str" : "942911346",
+  "in_reply_to_user_id" : 6529602,
+  "text" : "@Kei_Kei \u3068\u308A\u3042\u3048\u305ADM\u9001\u3063\u3066\u304A\u304D\u307E\u3057\u305F\u3093\u3067\u3001\u305D\u3061\u3089\u306B\u30FC\u3002",
+  "id" : 942911346,
+  "in_reply_to_status_id" : 942907541,
+  "created_at" : "2008-10-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Kei_Kei",
+  "in_reply_to_user_id_str" : "6529602",
+  "user" : {
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
+    "screen_name" : "aokomoriuta",
+    "protected" : false,
+    "id_str" : "10902082",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
+    "id" : 10902082,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u3053\u308D\u3066\u3093",
       "screen_name" : "tokoroten",
       "indices" : [ 0, 10 ],
       "id_str" : "13602752",
@@ -10679,976 +10353,66 @@ Grailbird.data.tweets_2008_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "942647874",
-  "geo" : {
-  },
-  "id_str" : "942656530",
+  "in_reply_to_status_id_str" : "942909281",
+  "geo" : { },
+  "id_str" : "942911650",
   "in_reply_to_user_id" : 13602752,
-  "text" : "@tokoroten んー。結局その辺なんでしょうね。言語仕様というよりはコンパイラあるいは仮想マシンの性能にものな気がします。",
-  "id" : 942656530,
-  "in_reply_to_status_id" : 942647874,
-  "created_at" : "Thu Oct 02 00:51:04 +0000 2008",
+  "text" : "@tokoroten \u3048\u3001\u6B7B\u306C\u3093\u3067\u3059\u304B\u79C1\uFF57\u3002",
+  "id" : 942911650,
+  "in_reply_to_status_id" : 942909281,
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "tokoroten",
   "in_reply_to_user_id_str" : "13602752",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "942644456",
-  "text" : "まぁ、データが古すぎるけど。今はどうなんだろう？",
-  "id" : 942644456,
-  "created_at" : "Thu Oct 02 00:38:20 +0000 2008",
+  "geo" : { },
+  "id_str" : "942914529",
+  "text" : "\u3068\u3044\u3046\u304B\u3001\u4EAC\u90FD\u99C5\u4ED8\u8FD1\u3063\u3066\u3053\u3068\u306F\u3001\u4EAC\u5973\u306E\u5B50\u9054\u306B\u805E\u3044\u305F\u307B\u3046\u304C\u3044\u3044\u3093\u304B\u306A\u3041\u3002\u3002",
+  "id" : 942914529,
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "942644100",
-  "text" : "ひますぎるのでサーフィンしてたらこんなの見つけた。そうか、C#は数値計算速度速かったのか。 http://homepage2.nifty.com/Fujimaki/download/Comparison/",
-  "id" : 942644100,
-  "created_at" : "Thu Oct 02 00:37:55 +0000 2008",
+  "geo" : { },
+  "id_str" : "942914818",
+  "text" : "\u2190\u5B9F\u306F\u56DB\u6761\u3088\u308A\u5357\u306F\u3042\u3093\u307E\u308A\u884C\u304B\u306A\u3044\u306E\u3067\u305D\u3053\u307E\u3067\u8A73\u3057\u304F\u306A\u3044\u4EBA\u3002",
+  "id" : 942914818,
+  "created_at" : "2008-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "青子守歌",
+    "name" : "\u9752\u5B50\u5B88\u6B4C",
     "screen_name" : "aokomoriuta",
     "protected" : false,
     "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942643593",
-  "text" : "情報処理および演習の授業中。なにこの中学生レベルの授業ｗｗ。",
-  "id" : 942643593,
-  "created_at" : "Thu Oct 02 00:37:22 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942556618",
-  "text" : "カバンには常に最低1冊の本が入ってる。ちょっと遠くへ出かける時には、2, 3冊は必ず。",
-  "id" : 942556618,
-  "created_at" : "Wed Oct 01 23:05:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942555918",
-  "text" : "さて、早めに行く準備するかー。暇な時に読むように水理の本持ってく。",
-  "id" : 942555918,
-  "created_at" : "Wed Oct 01 23:05:06 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "かぁーにぃー",
-      "screen_name" : "kaanee",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14487872",
-      "id" : 14487872
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "942485614",
-  "geo" : {
-  },
-  "id_str" : "942554837",
-  "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee このままだんだん寒くなってくると考えただけでもうテンションあがってきますｗ。",
-  "id" : 942554837,
-  "in_reply_to_status_id" : 942485614,
-  "created_at" : "Wed Oct 01 23:03:58 +0000 2008",
-  "in_reply_to_screen_name" : "kaanee",
-  "in_reply_to_user_id_str" : "14487872",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "かぁーにぃー",
-      "screen_name" : "kaanee",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14487872",
-      "id" : 14487872
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "942472190",
-  "geo" : {
-  },
-  "id_str" : "942482919",
-  "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee この朝日のまぶしさが秋っぽいです。",
-  "id" : 942482919,
-  "in_reply_to_status_id" : 942472190,
-  "created_at" : "Wed Oct 01 21:51:01 +0000 2008",
-  "in_reply_to_screen_name" : "kaanee",
-  "in_reply_to_user_id_str" : "14487872",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942471374",
-  "text" : "セキュリティソフトの関係上リブートする。",
-  "id" : 942471374,
-  "created_at" : "Wed Oct 01 21:40:07 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942447224",
-  "text" : "そういえば、小中学校のころ国語とか道徳で「本読み」ってあったよね。順番に読んでいくやつで、読めない漢字とかあるとみんなに笑われるやつｗ。",
-  "id" : 942447224,
-  "created_at" : "Wed Oct 01 21:17:35 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942446027",
-  "text" : "さて、今日は3限で授業終わるし、加筆コンクールに出す記事を今日中に書いてしまうつもりなので、そのための本読みするかー。",
-  "id" : 942446027,
-  "created_at" : "Wed Oct 01 21:16:35 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942430329",
-  "text" : "jawp：2008年9月月間感謝賞もらった！！まったく予想外だから驚いたｗ。",
-  "id" : 942430329,
-  "created_at" : "Wed Oct 01 21:02:15 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942367505",
-  "text" : "自分らの環境で「ナビエ・ストークス方程式」っていうと重力項はもともと入ってるんだけど、機械とかそのほかの人たちにはそれは普通じゃないんだろうなぁ。。",
-  "id" : 942367505,
-  "created_at" : "Wed Oct 01 20:08:10 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942365215",
-  "text" : "まぁ、またこれは朝まで起きてるコースかなぁ。",
-  "id" : 942365215,
-  "created_at" : "Wed Oct 01 20:06:13 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "942364818",
-  "text" : "仮眠のつもりが本格的に寝てしまって、こんな時間に起きたｗ。",
-  "id" : 942364818,
-  "created_at" : "Wed Oct 01 20:05:51 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941642813",
-  "text" : "だめだー、頭痛くて集中できん。なんでこんな頭痛がするんだ。。寝よう。",
-  "id" : 941642813,
-  "created_at" : "Wed Oct 01 08:14:04 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941630514",
-  "text" : "とりあえずちょっと本読みながら考える。お腹もすいたのでついでに何か食べる。",
-  "id" : 941630514,
-  "created_at" : "Wed Oct 01 07:53:01 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941628329",
-  "text" : "一番有力なのは[[開水路]]。でもそれ以外にも[[ベルヌーイの定理]]とかでもいいし、[[NS方程式]]の連続体力学的観点からの誘導をしてもいい気がする。",
-  "id" : 941628329,
-  "created_at" : "Wed Oct 01 07:49:24 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941625429",
-  "text" : "加筆コンクールに出す記事を悩み中・・・。うーん。。どれがいいかなぁ。",
-  "id" : 941625429,
-  "created_at" : "Wed Oct 01 07:45:07 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941617027",
-  "text" : "そして今は、お金がかからない論文を検索中。cc138のほうに載せてみるんだ！",
-  "id" : 941617027,
-  "created_at" : "Wed Oct 01 07:30:38 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941616651",
-  "text" : "とりあえず、明日の1限に情報処理の授業があるから、その時に登録を試みる。",
-  "id" : 941616651,
-  "created_at" : "Wed Oct 01 07:30:09 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941604669",
-  "text" : "ちなみに、論文の手続きのほうは、10月いっぱい図書館が改修工事で休館らしくできませんでしたｗ。昨日のうちに行っておけばよかったなぁ。。",
-  "id" : 941604669,
-  "created_at" : "Wed Oct 01 07:09:50 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941602918",
-  "text" : "jawp：[[WORKING!! (WEB版)?]]のほうは議論とりあえず終わりかな。なんだかんだで無事に終わってよかった気がするー。",
-  "id" : 941602918,
-  "created_at" : "Wed Oct 01 07:06:48 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941601465",
-  "text" : "ちなみに、個人的に中日の4番は外国人強打者ってイメージが強い。",
-  "id" : 941601465,
-  "created_at" : "Wed Oct 01 07:04:57 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941600450",
-  "text" : "そりゃ確かに今年はあんまりいい成績残してはいなかったけど、あの威圧感と「隙があったらホームラン」っていうので十分相手にダメージ与えてたと思うんだけどなぁ。。",
-  "id" : 941600450,
-  "created_at" : "Wed Oct 01 07:03:15 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941599314",
-  "text" : "えー！ウッズやめるの！？なんでまた。。",
-  "id" : 941599314,
-  "created_at" : "Wed Oct 01 07:01:29 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941597230",
-  "text" : "まぁ、強い風が吹きそうでも、そもそも風に当たらない作業してればいいんだけど。というか、そういう作業をまずは中心にやろうかと思ってるし。",
-  "id" : 941597230,
-  "created_at" : "Wed Oct 01 06:58:15 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941596907",
-  "text" : "jawp：うあー・・・RfAほんと微妙になってきたなぁ。。これは信任されても風当たり強そうだｗ。",
-  "id" : 941596907,
-  "created_at" : "Wed Oct 01 06:57:36 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941581407",
-  "text" : "あれ、今日モバツイから更新した分がTL抜けしてる？Twitだけ？",
-  "id" : 941581407,
-  "created_at" : "Wed Oct 01 06:32:36 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941578727",
-  "text" : "帰ってきたけど、なんか頭痛いっていう。",
-  "id" : 941578727,
-  "created_at" : "Wed Oct 01 06:28:16 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941458357",
-  "text" : "セミ鳴いてるｗｗ。",
-  "id" : 941458357,
-  "created_at" : "Wed Oct 01 03:42:59 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941342848",
-  "text" : "と思ったら、左前にいるの編入生の友達だったｗｗ。",
-  "id" : 941342848,
-  "created_at" : "Wed Oct 01 01:42:26 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941320872",
-  "text" : "ちなみに、今日は授業終わったら、図書館行って論文ダウンロードの手続きしてくる予定。",
-  "id" : 941320872,
-  "created_at" : "Wed Oct 01 01:17:49 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941319575",
-  "text" : "もしかしたら、水曜日、友達の誰とも会えんかもしれんｗｗ。",
-  "id" : 941319575,
-  "created_at" : "Wed Oct 01 01:16:19 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941213101",
-  "text" : "とかいいつつ、初日の今日は3限しかないけどね。",
-  "id" : 941213101,
-  "created_at" : "Tue Sep 30 23:23:40 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941212790",
-  "text" : "さて、後期もがんばるかー。",
-  "id" : 941212790,
-  "created_at" : "Tue Sep 30 23:23:18 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941135527",
-  "text" : "というか、もうあと1時間で起きなきゃいけない時間になった。",
-  "id" : 941135527,
-  "created_at" : "Tue Sep 30 22:04:14 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://movatwitter.jp/\" rel=\"nofollow\">movatwitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941078734",
-  "text" : "天狗なすのソテー。\n http://f.hatena.ne.jp/twitter/20081001061055",
-  "id" : 941078734,
-  "created_at" : "Tue Sep 30 21:10:58 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "かぁーにぃー",
-      "screen_name" : "kaanee",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14487872",
-      "id" : 14487872
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "940282906",
-  "geo" : {
-  },
-  "id_str" : "941043806",
-  "in_reply_to_user_id" : 14487872,
-  "text" : "@kaanee 他のおかず作ったりする余裕があまりないので、お味噌汁でたくさん栄養とるためには仕方がないのですｗ。",
-  "id" : 941043806,
-  "in_reply_to_status_id" : 940282906,
-  "created_at" : "Tue Sep 30 20:39:33 +0000 2008",
-  "in_reply_to_screen_name" : "kaanee",
-  "in_reply_to_user_id_str" : "14487872",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "941043185",
-  "text" : "ちなみに、所用で少し前まで出かけてたので、今からご飯食べるって言う。",
-  "id" : 941043185,
-  "created_at" : "Tue Sep 30 20:38:55 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
-    "id" : 10902082,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "940982308",
-  "text" : "論理的な正しさについては問題はもうないだろう。あとはその正しさをいかに正確に、いい印象で伝えるかが問題だ。",
-  "id" : 940982308,
-  "created_at" : "Tue Sep 30 19:43:46 +0000 2008",
-  "user" : {
-    "name" : "青子守歌",
-    "screen_name" : "aokomoriuta",
-    "protected" : false,
-    "id_str" : "10902082",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2184669622/author_logo_square_mini_new_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617634272933851136\/JSsWKFTz_normal.png",
     "id" : 10902082,
     "verified" : false
   }
