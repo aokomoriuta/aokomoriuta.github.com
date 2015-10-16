@@ -5,13 +5,14 @@ $(document).ready(function()
 		var text = $("#input").val()
 			.replace(/\s/g, '')
 			.split("\n");
+		var base = $("#base").val();
 		var output = "";
 		try
 		{
 			var makeOutput = function(scale, accidental, length)
 			{
 				var l = "";
-				if(length != 4)
+				if(length != base)
 				{
 					l += length;
 				}
@@ -26,8 +27,8 @@ $(document).ready(function()
 			for(var i in text)
 			{
 				var scale = "";
-				var accidental = ""
-				var length = 4;
+				var accidental = "";
+				var length = base;
 				for(var j in text[i])
 				{
 					var c = text[i][j];
@@ -36,64 +37,64 @@ $(document).ready(function()
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "c";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "レ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "d";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "ミ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "e";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "フ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "f";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "ソ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "g";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "ラ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "a";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "シ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "b";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "・")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "r";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "↑")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = ">";
-						accidental = ""
-						length = 4;
+						accidental = "";
+						length = base;
 					}
 					else if(c == "↓")
 					{
@@ -125,6 +126,10 @@ $(document).ready(function()
 						)
 						{
 							error(i, j, "「" + scale + "」は縮められません。");
+						}
+						if(length == 64)
+						{
+							error(i, j, "「ッ」の数が多すぎます。");
 						}
 						length *= 2;
 					}
