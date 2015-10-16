@@ -97,6 +97,7 @@ $(document).ready(function()
 						error(i, j, "使用できない文字「" + c + "」があります。");
 					}
 				}
+				output += makeOutput(scale, length);
 			}
 		}
 		catch(e)
