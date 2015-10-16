@@ -5,18 +5,24 @@ $(document).ready(function()
 		var text = $("#input").val()
 			.replace(/\s/g, '')
 			.split("\n");
-		var base = $("#base").val();
+		var inputBase = $("#input_base").val();
+		var outputBase = $("#output_base").val();
 		var output = "";
 		try
 		{
 			var makeOutput = function(scale, accidental, length)
 			{
-				var l = "";
-				if(length != base)
+				var result = "";
+				if(scale != "")
 				{
-					l += length;
+					var l = "";
+					if(length != outputBase)
+					{
+						l += length;
+					}
+					result = scale + accidental + l;
 				}
-				return scale + accidental + l;
+				return result;
 			}
 			var error = function(i, j, msg)
 			{
@@ -28,7 +34,7 @@ $(document).ready(function()
 			{
 				var scale = "";
 				var accidental = "";
-				var length = base;
+				var length = inputBase;
 				for(var j in text[i])
 				{
 					var c = text[i][j];
@@ -38,70 +44,70 @@ $(document).ready(function()
 						output += makeOutput(scale, accidental, length);
 						scale = "c";
 						accidental = "";
-						length = base;
+						length = inputBase;
 					}
 					else if(c == "レ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "d";
 						accidental = "";
-						length = base;
+						length = inputBase;
 					}
 					else if(c == "ミ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "e";
 						accidental = "";
-						length = base;
+						length = inputBase;
 					}
 					else if(c == "フ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "f";
 						accidental = "";
-						length = base;
+						length = inputBase;
 					}
 					else if(c == "ソ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "g";
 						accidental = "";
-						length = base;
+						length = inputBase;
 					}
 					else if(c == "ラ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "a";
 						accidental = "";
-						length = base;
+						length = inputBase;
 					}
 					else if(c == "シ")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "b";
 						accidental = "";
-						length = base;
+						length = inputBase;
 					}
 					else if(c == "・")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "r";
 						accidental = "";
-						length = base;
+						length = inputBase;
 					}
 					else if(c == "↑")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = ">";
 						accidental = "";
-						length = base;
+						length = outputBase;
 					}
 					else if(c == "↓")
 					{
 						output += makeOutput(scale, accidental, length);
 						scale = "<";
 						accidental = ""
-						length = 4;
+						length = outputBase;
 					}
 					else if(c == "ー")
 					{
