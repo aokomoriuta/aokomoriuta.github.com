@@ -73,6 +73,12 @@ $(document).ready(function()
 						scale = "b";
 						length = 4;
 					}
+					else if(c == "・")
+					{
+						output += makeOutput(scale, length);
+						scale = "r";
+						length = 4;
+					}
 					else if(c == "ー")
 					{
 						if(length == 1)
