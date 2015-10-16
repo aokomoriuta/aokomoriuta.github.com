@@ -79,8 +79,27 @@ $(document).ready(function()
 						scale = "r";
 						length = 4;
 					}
+					else if(c == "↑")
+					{
+						output += makeOutput(scale, length);
+						scale = ">";
+						length = 4;
+					}
+					else if(c == "↓")
+					{
+						output += makeOutput(scale, length);
+						scale = "<";
+						length = 4;
+					}
 					else if(c == "ー")
 					{
+						if(
+							(scale == '>') ||
+							(scale == '<')
+						)
+						{
+							error(i, j, "「" + scale + "」は伸ばせません。");
+						}
 						if(length == 1)
 						{
 							error(i, j, "「ー」の数が多すぎます。");
@@ -89,6 +108,13 @@ $(document).ready(function()
 					}
 					else if(c == "ッ")
 					{
+						if(
+							(scale == '>') ||
+							(scale == '<')
+						)
+						{
+							error(i, j, "「" + scale + "」は縮められません。");
+						}
 						length *= 2;
 					}
 					else if(c == "ァ")
