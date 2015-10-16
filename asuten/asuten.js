@@ -8,14 +8,14 @@ $(document).ready(function()
 		var output = "";
 		try
 		{
-			var makeOutput = function(scale, length)
+			var makeOutput = function(scale, accidental, length)
 			{
 				var l = "";
 				if(length != 4)
 				{
 					l += length;
 				}
-				return scale + l;
+				return scale + accidental + l;
 			}
 			var error = function(i, j, msg)
 			{
@@ -26,6 +26,7 @@ $(document).ready(function()
 			for(var i in text)
 			{
 				var scale = "";
+				var accidental = ""
 				var length = 4;
 				for(var j in text[i])
 				{
@@ -33,62 +34,72 @@ $(document).ready(function()
 					
 					if(c == "ド")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "c";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "レ")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "d";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "ミ")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "e";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "フ")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "f";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "ソ")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "g";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "ラ")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "a";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "シ")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "b";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "・")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "r";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "↑")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = ">";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "↓")
 					{
-						output += makeOutput(scale, length);
+						output += makeOutput(scale, accidental, length);
 						scale = "<";
+						accidental = ""
 						length = 4;
 					}
 					else if(c == "ー")
@@ -117,6 +128,30 @@ $(document).ready(function()
 						}
 						length *= 2;
 					}
+					else if(c == "＃")
+					{
+						if(
+							(scale == '>') ||
+							(scale == '<') ||
+							(scale == 'r')
+						)
+						{
+							error(i, j, "「" + scale + "」は半音上げられません。");
+						}
+						accidental = "#";
+					}
+					else if(c == "ｂ")
+					{
+						if(
+							(scale == '>') ||
+							(scale == '<') ||
+							(scale == 'r')
+						)
+						{
+							error(i, j, "「" + scale + "」は半音下げられません。");
+						}
+						accidental = "-";
+					}
 					else if(c == "ァ")
 					{
 						if(scale != "f")
@@ -129,7 +164,7 @@ $(document).ready(function()
 						error(i, j, "使用できない文字「" + c + "」があります。");
 					}
 				}
-				output += makeOutput(scale, length);
+				output += makeOutput(scale, accidental, length);
 			}
 		}
 		catch(e)
