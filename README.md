@@ -1,10 +1,10 @@
-= aokomoriuta's github page =
+= aokomoriuta's bitcuket page =
 ;author (attribution)
 : 青子守歌 (aokomoriuta)
 ;URL
 : https://github.com/aokomoriuta
 
-See http://aokomoriuta.github.com/ to view my github page.
+See http://aokomoriuta.bitbucket.org/ to view my github page.
 
 This project is multi-licensed.
 You can select the license of your choice from as following:
