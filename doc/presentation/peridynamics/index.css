@@ -1,0 +1,26 @@
+span
+{
+	white-space: nowrap;
+}
+
+strong
+{
+	color: red;
+}
+
+.reveal h1
+{
+	font-size: 180%;
+}
+
+.reveal table#discform
+{
+	font-size: 90%;
+}
+.reveal table#discform td
+{
+	padding-left: 0;
+	padding-right: 0;
+	text-align: center;
+	border-bottom: none;
+}
